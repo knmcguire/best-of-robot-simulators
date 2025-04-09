@@ -33,23 +33,23 @@ projects:
      labels: []
      category: robotic-simulators
      homepage: "http://coppeliarobotics.com/"
-  - name: ARGoS
+   - name: ARGoS
      github_id: ilpincy/argos3
      labels: []
      category: robotic-simulators
      homepage: "https://www.argos-sim.info/"
-  - name: pyrobosim
+   - name: pyrobosim
      github_id: sea-bass/pyrobosim
      labels: []
      category: robotic-simulators
      homepage: "https://pyrobosim.readthedocs.io/"
 
-  - name: mujoco
+   - name: mujoco
      github_id: google-deepmind/mujoco
      labels: []
      category: physics-simulators
      homepage: "https://pyrobosim.readthedocs.io/"
-  - name: Drake
+   - name: Drake
      github_id: RobotLocomotion/drake
      labels: []
      category: physics-simulators
