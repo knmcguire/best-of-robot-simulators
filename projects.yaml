@@ -3,7 +3,9 @@ configuration:
   markdown_footer_file: "config/footer.md"
   require_license: false
   min_description_length: 0
-  allowed_licenses: ["all"] 
+  allowed_licenses: ["all"]
+  project_inactive_months: 24
+  project_dead_months: 60
   
 categories:
    - category: robotic-simulators
