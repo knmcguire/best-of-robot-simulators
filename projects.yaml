@@ -27,6 +27,9 @@ categories:
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
+   - category: ML
+     title: Machine Learning Simulators
+     subtitle: Simulations made for Machine learning like reinforcement learning
      
 labels:
 
@@ -183,3 +186,38 @@ projects:
      labels: []
      category: game
      license: Apache-2
+   - name: Bullet Physics SDK
+     github_id: bulletphysics/bullet3
+     labels: []
+     category: physics-simulators
+     license: zlib
+     homepage: http://bulletphysics.org/
+   - name: Bullet Physics SDK
+     github_id: bulletphysics/bullet3
+     labels: []
+     category: physics-simulators
+     license: zlib
+     homepage: http://bulletphysics.org/
+   - name: Gym
+     github_id: openai/gym
+     labels: []
+     category: ML
+     license: MIT
+     homepage: https://www.gymlibrary.dev/
+   - name: PyBullet Gym
+     github_id: benelot/pybullet-gym
+     labels: []
+     category: ML
+     license: MIT
+     homepage: https://pybullet.org/
+   - name: RobotBuilder
+     labels: []
+     category: robotic-simulators
+     license: Commercial software
+     homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
+   - name: Open Dynamics Engine (ODE)
+     github_id: thomasmarsh/ODE
+     labels: []
+     category: physics-simulators
+     license: gnu-gpl and BSD-3-clause
+     homepage: http://www.ode.org/
