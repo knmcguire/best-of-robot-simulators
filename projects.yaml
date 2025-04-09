@@ -4,13 +4,22 @@ configuration:
   require_license: false
   
 categories:
-   - category: "robotic-simulators"
+   - category: robotic-simulators
      title: "All-round Robotics Simulators"
      subtitle: "Generic simulation tools made especially for robotics"
    - category: physics-simulators
      title: "Physic simulators"
-     title: "Physics simulators that simulate things like multi-joint dynamics, gravity etc"
-
+     subtitle: "Physics simulators that simulate things like multi-joint dynamics, gravity etc"
+   - category: api-intergration
+     title: "API intergration"
+     subtitle: "Libraries provided to have api access to the robotic simulators"
+   - category: aerial-simulators
+     title: Aerial Robotics Simulators
+     subtitle: "Simulator frameworks made especially for aerial robotics"
+   - category: general-purpose 3D engine
+     title: General-Purpose 3D engine
+     subtitle: 3D development engines or a general-purpose 3D engines usually serves multiple industries, including gaming and robotics
+     
 labels:
 
 projects:
@@ -36,6 +45,7 @@ projects:
      labels: []
      category: robotic-simulators
      homepage: "http://coppeliarobotics.com/"
+     license: gnu-gpl
    - name: ARGoS
      github_id: ilpincy/argos3
      labels: []
@@ -46,7 +56,16 @@ projects:
      labels: []
      category: robotic-simulators
      homepage: "https://pyrobosim.readthedocs.io/"
-
+   - name: NVIDIA Isaac Sim
+     labels: []
+     category: robotic-simulators
+     homepage: "https://developer.nvidia.com/isaac/sim"
+     license: NVIDIA Omniverse License Agreement
+   - name: NVIDIA Isaac Sim Isaac Lab
+     labels: []
+     category: api-intergration
+     doc_url: "https://isaac-sim.github.io/IsaacLab"
+     license: BSD-3-Clause
    - name: mujoco
      github_id: google-deepmind/mujoco
      labels: []
@@ -57,3 +76,79 @@ projects:
      labels: []
      category: physics-simulators
      homepage: "https://drake.mit.edu/"
+     license: BSD-3-Clause
+   - name: mvsim
+     github_id: MRPT/mvsim
+     labels: []
+     category: robotic-simulators
+     doc_url: "https://mvsimulator.readthedocs.io/"
+   - name: airsim
+     github_id: microsoft/AirSim
+     labels: []
+     category: aerial-simulators
+     doc_url: "https://microsoft.github.io/AirSim/"
+     license: mit
+   - name: RotorS
+     github_id: ethz-asl/rotors_simulator
+     labels: []
+     category: aerial-simulators
+     license: mit
+   - name: Pegasus Simulator
+     github_id: PegasusSimulator/PegasusSimulator
+     labels: []
+     category: aerial-simulators
+     homepage: https://pegasussimulator.github.io/PegasusSimulator/
+   - name: Aerial Gym Simulator
+     github_id: ntnu-arl/aerial_gym_simulator
+     labels: []
+     category: aerial-simulators
+     homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
+   - name: Aerial Gym Simulator
+     github_id: ntnu-arl/aerial_gym_simulator
+     labels: []
+     category: aerial-simulators
+     homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
+   - name: Flightmare
+     github_id: uzh-rpg/flightmare
+     labels: []
+     category: aerial-simulators
+     homepage: https://uzh-rpg.github.io/flightmare/
+     license: MIT
+   - name: Flightmare
+     github_id: uzh-rpg/flightmare
+     labels: []
+     category: aerial-simulators
+     homepage: https://uzh-rpg.github.io/flightmare/
+     license: MIT
+   - name: FlightGoggles
+     github_id: mit-aera/FlightGoggles
+     labels: []
+     category: aerial-simulators
+     homepage: https://flightgoggles.mit.edu/
+     license: MIT
+   - name: Gym Pybullet Drones
+     github_id: utiasDSL/gym-pybullet-drones
+     labels: []
+     category: aerial-simulators
+     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
+   - name: RotorTM
+     github_id: arplaboratory/RotorTM
+     labels: []
+     category: aerial-simulators
+     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
+   - name: RotorTM
+     github_id: arplaboratory/RotorTM
+     labels: []
+     category: aerial-simulators
+     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
+   - name: Matlab UAV Toolbox
+     labels: []
+     category: aerial-simulators
+     homepage: https://www.mathworks.com/products/uav.html
+     license: MathWorks Software License Agreement
+   - name: O3DE
+     github_id: o3de/o3de
+     labels: []
+     category: general-purpose 3D engine
+     homepage: https://o3de.org/
+     license: MIT and Apache-2
