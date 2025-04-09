@@ -24,6 +24,9 @@ categories:
    - category: automotive
      title: Automotive Simulators
      subtitle: Simulators made for autonmous driving validation
+   - category: game
+     title: Game engines
+     subtitle: 3D engines made for games but can be interfaced with robotic frameworks
      
 labels:
 
@@ -175,3 +178,8 @@ projects:
      category: robotic-simulators
      homepage: https://openrave.org/
      license: Apache-2 and LGPL-3
+   - name: Unity Robotics Hub
+     github_id: Unity-Technologies/Unity-Robotics-Hub
+     labels: []
+     category: game
+     license: Apache-2
