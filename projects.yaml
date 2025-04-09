@@ -2,6 +2,7 @@ configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
   require_license: false
+  min_description_length: 0
   
 categories:
    - category: robotic-simulators
@@ -16,7 +17,7 @@ categories:
    - category: aerial-simulators
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
-   - category: general-purpose 3D engine
+   - category: general-purpose-3D-engine
      title: General-Purpose 3D engine
      subtitle: 3D development engines or a general-purpose 3D engines usually serves multiple industries, including gaming and robotics
      
@@ -62,9 +63,10 @@ projects:
      homepage: "https://developer.nvidia.com/isaac/sim"
      license: NVIDIA Omniverse License Agreement
    - name: NVIDIA Isaac Sim Isaac Lab
+     github_id: isaac-sim/IsaacLab
      labels: []
      category: api-intergration
-     doc_url: "https://isaac-sim.github.io/IsaacLab"
+     homepage: "https://isaac-sim.github.io/IsaacLab"
      license: BSD-3-Clause
    - name: mujoco
      github_id: google-deepmind/mujoco
@@ -103,17 +105,6 @@ projects:
      labels: []
      category: aerial-simulators
      homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
-   - name: Aerial Gym Simulator
-     github_id: ntnu-arl/aerial_gym_simulator
-     labels: []
-     category: aerial-simulators
-     homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
-   - name: Flightmare
-     github_id: uzh-rpg/flightmare
-     labels: []
-     category: aerial-simulators
-     homepage: https://uzh-rpg.github.io/flightmare/
-     license: MIT
    - name: Flightmare
      github_id: uzh-rpg/flightmare
      labels: []
@@ -149,6 +140,33 @@ projects:
    - name: O3DE
      github_id: o3de/o3de
      labels: []
-     category: general-purpose 3D engine
+     category: general-purpose-3D-engine
      homepage: https://o3de.org/
      license: MIT and Apache-2
+   - name: Flightgear
+     gitlab_id: flightgear/flightgear
+     labels: []
+     category: aerial-simulators
+     homepage: https://www.flightgear.org/
+     license: gnu-gpl
+   - name: Realflight
+     labels: []
+     category: aerial-simulators
+     homepage: https://www.realflight.com/
+     license: proprietary software license
+   - name: rotorpy
+     gitlab_id: spencerfolk/rotorpy
+     labels: []
+     category: aerial-simulators
+   - name: CrazyS
+     gitlab_id: gsilano/CrazyS
+     labels: []
+     category: aerial-simulators
+   - name: JSBSim
+     gitlab_id: JSBSim-Team/jsbsim
+     labels: []
+     category: physics-simulators
+   - name: JSBSim
+     gitlab_id: JSBSim-Team/jsbsim
+     labels: []
+     category: physics-simulators
