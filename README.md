@@ -10,23 +10,25 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-28-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-34-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/knmcguire/best-of-robot-simulators/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/knmcguire/best-of-robot-simulators?color=green&label=updated"></a>
 </p>
 
-This curated list contains 28 awesome open-source projects with a total of 68K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 34 awesome open-source projects with a total of 120K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [All-round Robotics Simulators](#all-round-robotics-simulators) _9 projects_
-- [Physic simulators](#physic-simulators) _3 projects_
+- [All-round Robotics Simulators](#all-round-robotics-simulators) _10 projects_
+- [Physic simulators](#physic-simulators) _5 projects_
 - [API intergration](#api-intergration) _1 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _13 projects_
 - [General-Purpose 3D engine](#general-purpose-3d-engine) _1 projects_
 - [Automotive Simulators](#automotive-simulators) _1 projects_
+- [Game engines](#game-engines) _1 projects_
+- [Machine Learning Simulators](#machine-learning-simulators) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -116,9 +118,10 @@ _Generic simulation tools made especially for robotics_
 	git clone https://github.com/CoppeliaRobotics/coppeliaSimLib
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://developer.nvidia.com/isaac/sim">NVIDIA Isaac Sim</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=NVIDIA%20Omniverse%20License%20Agreement">❗️NVIDIA Omniverse License Agreement</a></code>
+- <b><a href="https://new.abb.com/products/robotics/software-and-digital/robotstudio">RobotBuilder</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Commercial%20software">❗️Commercial software</a></code>
 </details>
 <br>
 
@@ -136,7 +139,7 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 	git clone https://github.com/google-deepmind/mujoco
 	```
 </details>
-<details><summary><b><a href="https://drake.mit.edu/">Drake</a></b> (🥉32 ·  ⭐ 3.5K) - Model-based design and verification for robotics. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://drake.mit.edu/">Drake</a></b> (🥈32 ·  ⭐ 3.5K) - Model-based design and verification for robotics. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/RobotLocomotion/drake) (👨‍💻 270 · 🔀 1.2K · 📥 120K · 📋 6.4K - 10% open · ⏱️ 09.04.2025):
 
@@ -144,13 +147,25 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 	git clone https://github.com/RobotLocomotion/drake
 	```
 </details>
-<details><summary><b><a href="https://github.com/JSBSim-Team/jsbsim">JSBSim</a></b> (🥉24 ·  ⭐ 1.5K · 📈) - An open source flight dynamics & control software library. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
+<details><summary><b><a href="http://bulletphysics.org/">Bullet Physics SDK</a></b> (🥉27 ·  ⭐ 13K · ➕) - Bullet Physics SDK: real-time collision detection and.. <code><a href="https://tldrlegal.com/search?q=zlib">❗️zlib</a></code></summary>
+
+- [GitHub](https://github.com/bulletphysics/bullet3) (👨‍💻 310 · 🔀 2.8K · 📥 5.6K · 📦 21 · 📋 2K - 11% open · ⏱️ 29.01.2025):
+
+	```
+	git clone https://github.com/bulletphysics/bullet3
+	```
+</details>
+<details><summary><b><a href="https://github.com/JSBSim-Team/jsbsim">JSBSim</a></b> (🥉24 ·  ⭐ 1.5K) - An open source flight dynamics & control software library. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
 - [GitHub](https://github.com/JSBSim-Team/jsbsim) (👨‍💻 69 · 🔀 470 · 📥 26K · 📋 340 - 11% open · ⏱️ 08.04.2025):
 
 	```
 	git clone https://github.com/JSBSim-Team/jsbsim
 	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="http://www.ode.org/">Open Dynamics Engine (ODE)</a></b> (🥉11 ·  ⭐ 160 · 💀) - Open Dynamics Engine (ODE) github mirror from.. <code><a href="https://tldrlegal.com/search?q=gnu-gpl%20and%20BSD-3-clause">❗️gnu-gpl and BSD-3-clause</a></code>
 </details>
 <br>
 
@@ -208,7 +223,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/ntnu-arl/aerial_gym_simulator
 	```
 </details>
-<details><summary><b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥉13 ·  ⭐ 130 · 📈) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥉13 ·  ⭐ 130) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/spencerfolk/rotorpy) (👨‍💻 4 · 🔀 34 · 📥 2 · 📋 13 - 30% open · ⏱️ 31.03.2025):
 
@@ -251,13 +266,42 @@ _3D development engines or a general-purpose 3D engines usually serves multiple 
 
 _Simulators made for autonmous driving validation_
 
-<details><summary><b><a href="https://carla.org/">Carla</a></b> (🥇33 ·  ⭐ 12K · ➕) - Open-source simulator for autonomous driving research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://carla.org/">Carla</a></b> (🥇33 ·  ⭐ 12K) - Open-source simulator for autonomous driving research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/carla-simulator/carla) (👨‍💻 180 · 🔀 3.8K · 📦 990 · 📋 5.9K - 18% open · ⏱️ 04.04.2025):
 
 	```
 	git clone https://github.com/carla-simulator/carla
 	```
+</details>
+<br>
+
+## Game engines
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_3D engines made for games but can be interfaced with robotic frameworks_
+
+<details><summary><b><a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub">Unity Robotics Hub</a></b> (🥇16 ·  ⭐ 2.2K · ➕) - Central repository for tools, tutorials, resources,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) (👨‍💻 13 · 🔀 440 · 📋 190 - 23% open · ⏱️ 26.11.2024):
+
+	```
+	git clone https://github.com/Unity-Technologies/Unity-Robotics-Hub
+	```
+</details>
+<br>
+
+## Machine Learning Simulators
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Simulations made for Machine learning like reinforcement learning_
+
+<details><summary>Show 2 hidden projects...</summary>
+
+- <b><a href="https://www.gymlibrary.dev/">Gym</a></b> (🥇33 ·  ⭐ 36K · 💀) - A toolkit for developing and comparing reinforcement learning algorithms. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://pybullet.org/">PyBullet Gym</a></b> (🥉11 ·  ⭐ 850 · 💀) - Open-source implementations of OpenAI Gym MuJoCo environments.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 
 ---
