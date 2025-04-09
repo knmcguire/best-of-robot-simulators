@@ -1,7 +1,8 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
-
+  require_license: false
+  
 categories:
    - category: "robotic-simulators"
      title: "All-round Robotics Simulators"
@@ -22,6 +23,7 @@ projects:
      github_id: gazebosim/gazebo-classic
      labels: []
      category: robotic-simulators
+     licence: Apache-2
      homepage: "https://classic.gazebosim.org/"
    - name: Webots
      github_id: cyberbotics/webots
