@@ -1,2 +1,2 @@
-,name,github_id,labels,category,homepage,description,projectrank,show,new_addition
-0,gazebo,https://github.com/gazebosim/gz-sim,['c++'],robotic simulators,{},,0,False,True
+,name,github_id,labels,category,github_url,homepage,license,created_at,updated_at,last_commit_pushed_at,commit_count,recent_commit_count,fork_count,watchers_count,pr_count,open_issue_count,closed_issue_count,star_count,latest_stable_release_published_at,latest_stable_release_number,release_count,description,contributor_count,projectrank,show,projectrank_placing,trending
+0,gazebo,gazebosim/gz-sim,['c++'],robotic simulators,https://github.com/gazebosim/gz-sim,https://github.com/gazebosim/gz-sim,Apache-2.0,2020-04-15 09:17:50,2025-04-08 20:56:32,2025-04-08 18:06:42,7138,34,290,16,1942,368,536,863,2025-01-16 23:44:06,gz-sim9_9.0.0,6,Open source robotics simulator. The latest version of Gazebo.,153,21,True,1,21
