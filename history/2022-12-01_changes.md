@@ -1,6 +1,0 @@
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/pawamoy/best-of-mkdocs">best-of-mkdocs</a></b> (🥇11 ·  ⭐ 94 · 📉) - A ranked list of awesome MkDocs projects and plugins.
-
