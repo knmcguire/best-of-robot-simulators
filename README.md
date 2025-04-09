@@ -10,22 +10,23 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-23-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-28-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/knmcguire/best-of-robot-simulators/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/knmcguire/best-of-robot-simulators?color=green&label=updated"></a>
 </p>
 
-This curated list contains 23 awesome open-source projects with a total of 53K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 28 awesome open-source projects with a total of 68K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [All-round Robotics Simulators](#all-round-robotics-simulators) _8 projects_
-- [Physic simulators](#physic-simulators) _2 projects_
+- [All-round Robotics Simulators](#all-round-robotics-simulators) _9 projects_
+- [Physic simulators](#physic-simulators) _3 projects_
 - [API intergration](#api-intergration) _1 projects_
-- [Aerial Robotics Simulators](#aerial-robotics-simulators) _11 projects_
+- [Aerial Robotics Simulators](#aerial-robotics-simulators) _13 projects_
 - [General-Purpose 3D engine](#general-purpose-3d-engine) _1 projects_
+- [Automotive Simulators](#automotive-simulators) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -75,7 +76,15 @@ _Generic simulation tools made especially for robotics_
 	git clone https://github.com/gazebosim/gazebo-classic
 	```
 </details>
-<details><summary><b><a href="https://pyrobosim.readthedocs.io/">pyrobosim</a></b> (🥉18 ·  ⭐ 310) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://openrave.org/">OpenRAVE</a></b> (🥈18 ·  ⭐ 750 · 💤) - Open Robotics Automation Virtual Environment: An.. <code><a href="https://tldrlegal.com/search?q=Apache-2%20and%20LGPL-3">❗️Apache-2 and LGPL-3</a></code></summary>
+
+- [GitHub](https://github.com/rdiankov/openrave) (👨‍💻 120 · 🔀 320 · 📋 520 - 57% open · ⏱️ 16.08.2024):
+
+	```
+	git clone https://github.com/rdiankov/openrave
+	```
+</details>
+<details><summary><b><a href="https://pyrobosim.readthedocs.io/">pyrobosim</a></b> (🥈18 ·  ⭐ 310) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/sea-bass/pyrobosim) (👨‍💻 15 · 🔀 49 · 📦 7 · 📋 120 - 8% open · ⏱️ 08.04.2025):
 
@@ -99,9 +108,16 @@ _Generic simulation tools made especially for robotics_
 	git clone https://github.com/ilpincy/argos3
 	```
 </details>
-<details><summary>Show 2 hidden projects...</summary>
+<details><summary><b><a href="http://coppeliarobotics.com/">Coppelia Sim</a></b> (🥉11 ·  ⭐ 120) - CoppeliaSim core library. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code></summary>
 
-- <b><a href="http://coppeliarobotics.com/">Coppelia Sim</a></b> (🥉11 ·  ⭐ 120) - CoppeliaSim core library. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code>
+- [GitHub](https://github.com/CoppeliaRobotics/coppeliaSimLib) (👨‍💻 3 · 🔀 40 · 📋 21 - 14% open · ⏱️ 07.04.2025):
+
+	```
+	git clone https://github.com/CoppeliaRobotics/coppeliaSimLib
+	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
 - <b><a href="https://developer.nvidia.com/isaac/sim">NVIDIA Isaac Sim</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=NVIDIA%20Omniverse%20License%20Agreement">❗️NVIDIA Omniverse License Agreement</a></code>
 </details>
 <br>
@@ -128,6 +144,14 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 	git clone https://github.com/RobotLocomotion/drake
 	```
 </details>
+<details><summary><b><a href="https://github.com/JSBSim-Team/jsbsim">JSBSim</a></b> (🥉24 ·  ⭐ 1.5K · 📈) - An open source flight dynamics & control software library. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
+
+- [GitHub](https://github.com/JSBSim-Team/jsbsim) (👨‍💻 69 · 🔀 470 · 📥 26K · 📋 340 - 11% open · ⏱️ 08.04.2025):
+
+	```
+	git clone https://github.com/JSBSim-Team/jsbsim
+	```
+</details>
 <br>
 
 ## API intergration
@@ -136,7 +160,7 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 
 _Libraries provided to have api access to the robotic simulators_
 
-<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇25 ·  ⭐ 3.3K · 📈) - Unified framework for robot learning built on NVIDIA.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇25 ·  ⭐ 3.3K) - Unified framework for robot learning built on NVIDIA.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 110 · 🔀 1.5K · 📋 1.2K - 16% open · ⏱️ 09.04.2025):
 
@@ -184,15 +208,24 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/ntnu-arl/aerial_gym_simulator
 	```
 </details>
-<details><summary>Show 7 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥉13 ·  ⭐ 130 · 📈) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/spencerfolk/rotorpy) (👨‍💻 4 · 🔀 34 · 📥 2 · 📋 13 - 30% open · ⏱️ 31.03.2025):
+
+	```
+	git clone https://github.com/spencerfolk/rotorpy
+	```
+</details>
+<details><summary>Show 8 hidden projects...</summary>
 
 - <b><a href="https://github.com/microsoft/AirSim">airsim</a></b> (🥇32 ·  ⭐ 17K · 💀) - Open source simulator for autonomous vehicles built on Unreal Engine /.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ethz-asl/rotors_simulator">RotorS</a></b> (🥇18 ·  ⭐ 1.3K · 💀) - RotorS is a UAV gazebo simulator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://uzh-rpg.github.io/flightmare/">Flightmare</a></b> (🥈17 ·  ⭐ 1.1K · 💀) - An Open Flexible Quadrotor Simulator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/gsilano/CrazyS">CrazyS</a></b> (🥉14 ·  ⭐ 160 · 💀) - CrazyS is an extension of the ROS package RotorS, aimed to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://www.flightgear.org/">Flightgear</a></b> (🥉7 ·  ⭐ 42 · 💀) - FlightGear open-source flight simulator.. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code>
-- <b><a href="https://utiasdsl.github.io/gym-pybullet-drones/">RotorTM</a></b> (🥉6 ·  ⭐ 66 · 💤) -  <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/arplaboratory/RotorTM">RotorTM</a></b> (🥉6 ·  ⭐ 66 · 💤) -  <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://www.mathworks.com/products/uav.html">Matlab UAV Toolbox</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=MathWorks%20Software%20License%20Agreement">❗️MathWorks Software License Agreement</a></code>
-- <b><a href="https://www.realflight.com/">Realflight</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=proprietary%20software%20license">❗️proprietary software license</a></code>
+- <b><a href="https://www.realflight.com/">Realflight</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=proprietary%20software%20license">❗️proprietary software license</a></code>
 </details>
 <br>
 
@@ -202,16 +235,38 @@ _Simulator frameworks made especially for aerial robotics_
 
 _3D development engines or a general-purpose 3D engines usually serves multiple industries, including gaming and robotics_
 
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary><b><a href="https://o3de.org/">O3DE</a></b> (🥇29 ·  ⭐ 8.2K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">❗️MIT and Apache-2</a></code></summary>
 
-- <b><a href="https://o3de.org/">O3DE</a></b> (🥇29 ·  ⭐ 8.2K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">❗️MIT and Apache-2</a></code>
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 300 · 🔀 2.2K · 📥 9.4K · 📋 7.7K - 44% open · ⏱️ 06.04.2025):
+
+	```
+	git clone https://github.com/o3de/o3de
+	```
+</details>
+<br>
+
+## Automotive Simulators
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Simulators made for autonmous driving validation_
+
+<details><summary><b><a href="https://carla.org/">Carla</a></b> (🥇33 ·  ⭐ 12K · ➕) - Open-source simulator for autonomous driving research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/carla-simulator/carla) (👨‍💻 180 · 🔀 3.8K · 📦 990 · 📋 5.9K - 18% open · ⏱️ 04.04.2025):
+
+	```
+	git clone https://github.com/carla-simulator/carla
+	```
 </details>
 
 ---
 
 ## Related Resources
-
+- [**Aerial Robotics Landscape** - Simulation](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/): A linking website to all kinds of aerial robotic tooling
+- [**Awesome Weekly Robotics list**](https://www.weeklyrobotics.com/awesome-wr): All kinds of usefull links as featured in Weekly Robotics
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+
 
 ## Contribution
 
