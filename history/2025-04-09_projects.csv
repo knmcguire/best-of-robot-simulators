@@ -1,1 +1,2 @@
-""
+,name,github_id,labels,category,homepage,description,projectrank,show,new_addition
+0,gazebo,https://github.com/gazebosim/gz-sim,['c++'],robotic simulators,{},,0,False,True
