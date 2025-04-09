@@ -19,6 +19,7 @@ projects:
      labels: []
      category: robotic-simulators
      homepage: https://gazebosim.org/home
+     doc_url: https://gazebosim.org/api/sim/9/
    - name: Gazebo Classic
      github_id: gazebosim/gazebo-classic
      labels: []
