@@ -3,6 +3,7 @@ configuration:
   markdown_footer_file: "config/footer.md"
   require_license: false
   min_description_length: 0
+  allowed_licenses: ["all"] 
   
 categories:
    - category: robotic-simulators
@@ -20,6 +21,9 @@ categories:
    - category: general-purpose-3D-engine
      title: General-Purpose 3D engine
      subtitle: 3D development engines or a general-purpose 3D engines usually serves multiple industries, including gaming and robotics
+   - category: automotive
+     title: Automotive Simulators
+     subtitle: Simulators made for autonmous driving validation
      
 labels:
 
@@ -126,12 +130,6 @@ projects:
      github_id: arplaboratory/RotorTM
      labels: []
      category: aerial-simulators
-     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
-   - name: RotorTM
-     github_id: arplaboratory/RotorTM
-     labels: []
-     category: aerial-simulators
-     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
    - name: Matlab UAV Toolbox
      labels: []
      category: aerial-simulators
@@ -155,18 +153,25 @@ projects:
      homepage: https://www.realflight.com/
      license: proprietary software license
    - name: rotorpy
-     gitlab_id: spencerfolk/rotorpy
+     github_id: spencerfolk/rotorpy
      labels: []
      category: aerial-simulators
    - name: CrazyS
-     gitlab_id: gsilano/CrazyS
+     github_id: gsilano/CrazyS
      labels: []
      category: aerial-simulators
    - name: JSBSim
-     gitlab_id: JSBSim-Team/jsbsim
+     github_id: JSBSim-Team/jsbsim
      labels: []
      category: physics-simulators
-   - name: JSBSim
-     gitlab_id: JSBSim-Team/jsbsim
+   - name: Carla
+     github_id: carla-simulator/carla
      labels: []
-     category: physics-simulators
+     category: automotive
+     homepage: https://carla.org/
+   - name: OpenRAVE
+     github_id: rdiankov/openrave
+     labels: []
+     category: robotic-simulators
+     homepage: https://openrave.org/
+     license: Apache-2 and LGPL-3
