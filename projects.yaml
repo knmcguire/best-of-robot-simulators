@@ -3,17 +3,54 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-   - category: "robotic simulators"
-     title: "Generic simulation tools made especially for robotics"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+   - category: robotic-simulators
+     title: "All-round Robotics Simulators"
+     subtitle: "Generic simulation tools made especially for robotics":
+   - category: physics-simulators
+     title: "Physic simulators"
+     title: "Physics simulators that simulate things like multi-joint dynamics, gravity etc"
 
 labels:
-   - label: "c++"
-     image: "https://www.python.org/static/favicon.ico"
-     description: "Provides API for c++"
 
 projects:
-   - name: gazebo
+   - name: Gazebo
      github_id: gazebosim/gz-sim
-     labels: ["c++"]
+     labels: []
+     category: robotic-simulators
+     homepage: https://gazebosim.org/home
+   - name: Gazebo Classic
+     github_id: gazebosim/gazebo-classic
+     labels: []
      category: "robotic simulators"
+     homepage: "https://classic.gazebosim.org/"
+   - name: Webots
+     github_id: cyberbotics/webots
+     labels: []
+     category: robotic-simulators
+     homepage: "https://www.cyberbotics.com/"
+   - name: Coppelia Sim
+     github_id: CoppeliaRobotics/coppeliaSimLib
+     labels: []
+     category: robotic-simulators
+     homepage: "http://coppeliarobotics.com/"
+  - name: ARGoS
+     github_id: ilpincy/argos3
+     labels: []
+     category: robotic-simulators
+     homepage: "https://www.argos-sim.info/"
+  - name: pyrobosim
+     github_id: sea-bass/pyrobosim
+     labels: []
+     category: robotic-simulators
+     homepage: "https://pyrobosim.readthedocs.io/"
+
+  - name: mujoco
+     github_id: google-deepmind/mujoco
+     labels: []
+     category: physics-simulators
+     homepage: "https://pyrobosim.readthedocs.io/"
+  - name: Drake
+     github_id: RobotLocomotion/drake
+     labels: []
+     category: physics-simulators
+     homepage: "https://drake.mit.edu/"
