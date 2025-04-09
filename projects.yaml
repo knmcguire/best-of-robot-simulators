@@ -3,7 +3,7 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-   - category: robotic-simulators
+   - category: "robotic-simulators"
      title: "All-round Robotics Simulators"
      subtitle: "Generic simulation tools made especially for robotics":
    - category: physics-simulators
@@ -21,7 +21,7 @@ projects:
    - name: Gazebo Classic
      github_id: gazebosim/gazebo-classic
      labels: []
-     category: "robotic simulators"
+     category: robotic-simulators
      homepage: "https://classic.gazebosim.org/"
    - name: Webots
      github_id: cyberbotics/webots
