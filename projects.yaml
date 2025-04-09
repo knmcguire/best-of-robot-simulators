@@ -5,7 +5,7 @@ configuration:
 categories:
    - category: "robotic-simulators"
      title: "All-round Robotics Simulators"
-     subtitle: "Generic simulation tools made especially for robotics":
+     subtitle: "Generic simulation tools made especially for robotics"
    - category: physics-simulators
      title: "Physic simulators"
      title: "Physics simulators that simulate things like multi-joint dynamics, gravity etc"
