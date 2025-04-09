@@ -3,17 +3,17 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
+   - category: "robotic simulators"
+     title: "Generic simulation tools made especially for robotics"
   #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+   - label: "c++"
+     image: "https://www.python.org/static/favicon.ico"
+     description: "Provides API for c++"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+   - name: gazebo
+     github_id: https://github.com/gazebosim/gz-sim
+     labels: ["c++"]
+     category: "robotic simulators"
