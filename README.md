@@ -88,7 +88,7 @@ _Generic simulation tools made especially for robotics_
 </details>
 <details><summary><b><a href="https://pyrobosim.readthedocs.io/">pyrobosim</a></b> (🥈18 ·  ⭐ 310) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sea-bass/pyrobosim) (👨‍💻 15 · 🔀 49 · 📦 7 · 📋 120 - 8% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/sea-bass/pyrobosim) (👨‍💻 15 · 🔀 49 · 📦 7 · 📋 120 - 7% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/sea-bass/pyrobosim
@@ -112,7 +112,7 @@ _Generic simulation tools made especially for robotics_
 </details>
 <details><summary><b><a href="http://coppeliarobotics.com/">Coppelia Sim</a></b> (🥉11 ·  ⭐ 120) - CoppeliaSim core library. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code></summary>
 
-- [GitHub](https://github.com/CoppeliaRobotics/coppeliaSimLib) (👨‍💻 3 · 🔀 40 · 📋 21 - 14% open · ⏱️ 07.04.2025):
+- [GitHub](https://github.com/CoppeliaRobotics/coppeliaSimLib) (👨‍💻 3 · 🔀 40 · 📋 21 - 14% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/CoppeliaRobotics/coppeliaSimLib
@@ -133,7 +133,7 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 
 <details><summary><b><a href="https://pyrobosim.readthedocs.io/">mujoco</a></b> (🥇37 ·  ⭐ 9.2K) - Multi-Joint dynamics with Contact. A general purpose physics simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/google-deepmind/mujoco) (👨‍💻 85 · 🔀 940 · 📥 590K · 📦 3.9K · 📋 1.7K - 6% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/google-deepmind/mujoco) (👨‍💻 86 · 🔀 940 · 📥 590K · 📦 3.9K · 📋 1.7K - 6% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/google-deepmind/mujoco
@@ -141,7 +141,7 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://drake.mit.edu/">Drake</a></b> (🥈32 ·  ⭐ 3.5K) - Model-based design and verification for robotics. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/RobotLocomotion/drake) (👨‍💻 270 · 🔀 1.2K · 📥 120K · 📋 6.4K - 10% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/RobotLocomotion/drake) (👨‍💻 270 · 🔀 1.2K · 📥 120K · 📋 6.4K - 10% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/RobotLocomotion/drake
@@ -157,7 +157,7 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://github.com/JSBSim-Team/jsbsim">JSBSim</a></b> (🥉24 ·  ⭐ 1.5K) - An open source flight dynamics & control software library. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-- [GitHub](https://github.com/JSBSim-Team/jsbsim) (👨‍💻 69 · 🔀 470 · 📥 26K · 📋 340 - 11% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/JSBSim-Team/jsbsim) (👨‍💻 69 · 🔀 470 · 📥 26K · 📋 340 - 11% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/JSBSim-Team/jsbsim
@@ -179,9 +179,9 @@ _Physics simulators that simulate things like multi-joint dynamics, gravity etc_
 
 _Libraries provided to have api access to the robotic simulators_
 
-<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇25 ·  ⭐ 3.3K) - Unified framework for robot learning built on NVIDIA.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇25 ·  ⭐ 3.4K) - Unified framework for robot learning built on NVIDIA.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 110 · 🔀 1.5K · 📋 1.2K - 16% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 110 · 🔀 1.5K · 📋 1.2K - 16% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/isaac-sim/IsaacLab
@@ -284,7 +284,7 @@ _3D development engines or a general-purpose 3D engines usually serves multiple 
 
 <details><summary><b><a href="https://o3de.org/">O3DE</a></b> (🥇29 ·  ⭐ 8.2K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">❗️MIT and Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/o3de/o3de) (👨‍💻 300 · 🔀 2.2K · 📥 9.4K · 📋 7.7K - 44% open · ⏱️ 06.04.2025):
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 300 · 🔀 2.2K · 📥 9.4K · 📋 7.7K - 44% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/o3de/o3de
@@ -300,7 +300,7 @@ _Simulators made for autonmous driving validation_
 
 <details><summary><b><a href="https://carla.org/">Carla</a></b> (🥇33 ·  ⭐ 12K) - Open-source simulator for autonomous driving research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/carla-simulator/carla) (👨‍💻 180 · 🔀 3.8K · 📦 990 · 📋 5.9K - 18% open · ⏱️ 04.04.2025):
+- [GitHub](https://github.com/carla-simulator/carla) (👨‍💻 180 · 🔀 3.8K · 📦 990 · 📋 5.9K - 18% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/carla-simulator/carla
