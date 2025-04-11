@@ -37,8 +37,8 @@ categories:
 
 labels:
 - label: eol
-  image: https://icon-icons.com/download/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
-  description: Announced End of life or Missing repository
+  image: https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
+  description: Announced End of life or missing repository
 
 projects:
    - name: Gazebo
@@ -191,8 +191,14 @@ projects:
    - name: Unity Robotics Hub
      github_id: Unity-Technologies/Unity-Robotics-Hub
      labels: []
+     category: robotics
+     license: Apache-2
+   - name: Unity
+     labels: []
      category: game
      license: Apache-2
+     homepage: https://unity.com/
+     license: Unity Subscription Plans
    - name: Bullet Physics SDK
      github_id: bulletphysics/bullet3
      labels: []
@@ -303,11 +309,6 @@ projects:
      labels: []
      category: render
      homepage: https://docs.unity3d.com/Manual/NativePluginInterface.html
-   - name: Unity Rendering Plugin
-     github_id: Unity-Technologies/NativeRenderingPlugin
-     labels: []
-     category: render
-     homepage: https://docs.unity3d.com/Manual/NativePluginInterface.html
    - name: VCCSIM
      github_id: Marmiya/VCCSim
      labels: []
@@ -344,4 +345,9 @@ projects:
      github_id: Field-Robotics-Lab/dave
      category: domain
      homepage: https://field-robotics-lab.github.io/dave.doc/
+   - name: SVL Simulator
+     github_id: lgsvl/simulator
+     category: domain
+     labels: ['eol']
+
 
