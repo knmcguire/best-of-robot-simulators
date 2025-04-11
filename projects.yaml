@@ -32,10 +32,13 @@ categories:
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
-   - category: ML
+   - category: ml
      title: Machine Learning Simulators
      subtitle: Simulations made for Machine learning like reinforcement learning
-     
+   - category: render
+     title: Rendering engines
+     subtitle: Rendering engines for robotic simulators
+
 labels:
 
 projects:
@@ -206,13 +209,13 @@ projects:
    - name: Gym
      github_id: openai/gym
      labels: []
-     category: ML
+     category: ml
      license: MIT
      homepage: https://www.gymlibrary.dev/
    - name: PyBullet Gym
      github_id: benelot/pybullet-gym
      labels: []
-     category: ML
+     category: ml
      license: MIT
      homepage: https://pybullet.org/
    - name: RobotBuilder
@@ -276,4 +279,57 @@ projects:
      category: physics
      homepage: https://www.havok.com/havok-physics/
      license: Per-title licensing model
+   - name: OGRE
+     github_id: OGRECave/ogre
+     labels: []
+     category: render
+     homepage: https://www.ogre3d.org/
+   - name: Vulkan
+     github_id: KhronosGroup/Vulkan-Hpp
+     labels: []
+     category: render
+     homepage: https://www.khronos.org/
+   - name: OpenGL
+     github_id: KhronosGroup/Vulkan-Hpp
+     labels: []
+     category: render
+     homepage: https://www.khronos.org/
+   - name: Wren (Webots)
+     github_id: cyberbotics/webots
+     labels: []
+     category: render
+     homepage: https://cyberbotics.com/
+   - name: Unity Rendering Plugin
+     github_id: Unity-Technologies/NativeRenderingPlugin
+     labels: []
+     category: render
+     homepage: https://docs.unity3d.com/Manual/NativePluginInterface.html
+   - name: Unity Rendering Plugin
+     github_id: Unity-Technologies/NativeRenderingPlugin
+     labels: []
+     category: render
+     homepage: https://docs.unity3d.com/Manual/NativePluginInterface.html
+   - name: VCCSIM
+     github_id: Marmiya/VCCSim
+     labels: []
+     category: robotics-simulator
+   - name: Unreal Engine
+     labels: []
+     category: game
+     license: EULA
+     homepage: https://www.unrealengine.com/
+   - name: Godot
+     github_id: godotengine/godot
+     labels: []
+     category: game
+     license: EULA
+     homepage: https://godotengine.org/
+   - name: Atom
+     github_id: o3de/o3de
+     labels: []
+     category: render
+     license: Apache-2.0 and MIT
+     homepage: https://docs.o3de.org/docs/atom-guide/
+
+
 
