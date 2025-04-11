@@ -349,5 +349,9 @@ projects:
      github_id: lgsvl/simulator
      category: domain
      labels: ['eol']
+   - name: Flatland
+     github_id: avidbots/flatland
+     category: robotics
+     homepage: https://flatland-simulator.readthedocs.io/
 
 
