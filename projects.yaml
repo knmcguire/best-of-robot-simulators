@@ -414,3 +414,14 @@ projects:
      github_id: metadriverse/metadrive/
      homepage: https://metadriverse.github.io/metadrive-simulator/
      category: domain
+   - name: ManiSkill
+     github_id: haosulab/ManiSkill
+     homepage: https://maniskill.ai/
+     category: robotics
+   - name: Genesis
+     github_id: Genesis-Embodied-AI/Genesis
+     category: robotics
+   - name: Arnold
+     github_id: arnold-benchmark/arnold
+     category: ml
+     homepage: https://arnold-benchmark.github.io/
