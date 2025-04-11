@@ -361,5 +361,11 @@ projects:
      category: robotics
      homepage: https://simbad.sourceforge.net/
      license: GNU-gpl2
+   - name: Morse
+     gitlab_id: morse-simulator/morse
+     category: robotics
+     homepage: http://morse-simulator.github.io/
+     license: OFL-1.1
+     label: ['eol']
 
 
