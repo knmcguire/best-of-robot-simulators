@@ -21,14 +21,13 @@ This curated list contains 59 awesome open-source projects with a total of 250K 
 
 ## Contents
 
-- [All-round Robotics Simulators](#all-round-robotics-simulators) _11 projects_
-- [Physics Engines](#physics-engines) _14 projects_
+- [All-round Robotics Simulators](#all-round-robotics-simulators) _12 projects_
+- [Physics Engines](#physics-engines) _15 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _13 projects_
 - [Domain Specific Simulators](#domain-specific-simulators) _6 projects_
 - [Game engines](#game-engines) _4 projects_
 - [Machine Learning Simulators](#machine-learning-simulators) _3 projects_
 - [Rendering engines](#rendering-engines) _6 projects_
-- [Others](#others) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -45,7 +44,7 @@ This curated list contains 59 awesome open-source projects with a total of 250K 
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
-- <img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13">&nbsp; Announced End of life or missing repository
+- <img src="https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13">&nbsp; Announced End of life or missing repository
 
 <br>
 
@@ -63,7 +62,7 @@ _Generic simulation tools made especially for robotics_
 	git clone https://github.com/cyberbotics/webots
 	```
 </details>
-<details><summary><b><a href="https://classic.gazebosim.org/">Gazebo Classic</a></b> (🥇21 ·  ⭐ 1.2K) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://classic.gazebosim.org/">Gazebo Classic</a></b> (🥇21 ·  ⭐ 1.2K) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/gazebosim/gazebo-classic) (👨‍💻 200 · 🔀 490 · 📋 3.1K - 48% open · ⏱️ 03.12.2024):
 
@@ -125,6 +124,14 @@ _Generic simulation tools made especially for robotics_
 
 	```
 	git clone https://github.com/CoppeliaRobotics/coppeliaSimLib
+	```
+</details>
+<details><summary><b><a href="https://github.com/Marmiya/VCCSim">VCCSIM</a></b> (🥉5 ·  ⭐ 7 · 🐣) - VCCSIM is a comprehensive platform designed for 3D mapping and embodied AI agent training in large-scale open-world.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/Marmiya/VCCSim) (👨‍💻 2 · 🔀 1 · ⏱️ 11.04.2025):
+
+	```
+	git clone https://github.com/Marmiya/VCCSim
 	```
 </details>
 <details><summary><b><a href="https://developer.nvidia.com/isaac/sim">NVIDIA Isaac Sim</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=NVIDIA%20Omniverse%20License%20Agreement">❗️NVIDIA Omniverse License Agreement</a></code></summary>
@@ -243,6 +250,9 @@ _Physics Engines that simula multi-joint dynamics, gravity etc_
 <details><summary><b><a href="https://www.havok.com/havok-physics/">Havok Physics</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=Per-title%20licensing%20model">❗️Per-title licensing model</a></code></summary>
 
 - _No project information available._</details>
+<details><summary><b><a href="https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/">Newton (Nvidia)</a></b> -  <code>❗Unlicensed</code></summary>
+
+- _No project information available._</details>
 <br>
 
 ## Aerial Robotics Simulators
@@ -251,7 +261,7 @@ _Physics Engines that simula multi-joint dynamics, gravity etc_
 
 _Simulator frameworks made especially for aerial robotics_
 
-<details><summary><b><a href="https://github.com/microsoft/AirSim">airsim</a></b> (🥇32 ·  ⭐ 17K · 💤) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/microsoft/AirSim">airsim</a></b> (🥇32 ·  ⭐ 17K · 💤) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/microsoft/AirSim) (👨‍💻 240 · 🔀 4.4K · 📥 620K · 📦 390 · 📋 3.4K - 19% open · ⏱️ 21.07.2022):
 
@@ -361,7 +371,7 @@ _Robotic simulators build for other domains like automotive_
 	git clone https://github.com/carla-simulator/carla
 	```
 </details>
-<details><summary><b><a href="https://github.com/lgsvl/simulator">SVL Simulator</a></b> (🥈21 ·  ⭐ 2.3K · 💤) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/lgsvl/simulator">SVL Simulator</a></b> (🥈21 ·  ⭐ 2.3K · 💤) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles. <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/lgsvl/simulator) (👨‍💻 46 · 🔀 760 · 📥 97K · 📋 2.1K - 29% open · ⏱️ 19.01.2022):
 
@@ -393,7 +403,7 @@ _Robotic simulators build for other domains like automotive_
 	git clone https://github.com/patrykcieslak/stonefish
 	```
 </details>
-<details><summary><b><a href="https://byu-holoocean.github.io/holoocean-docs/versionList.html">HoloOcean</a></b> -  <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://byu-holoocean.github.io/holoocean-docs/versionList.html">HoloOcean</a></b> -  <code>❗Unlicensed</code> <code><img src="https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - _No project information available._</details>
 <br>
@@ -420,7 +430,7 @@ _3D engines made for games but can be interfaced with robotic frameworks_
 	git clone https://github.com/o3de/o3de
 	```
 </details>
-<details><summary><b><a href="https://unity.com/">Unity</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Unity%20Subscription%20Plans">❗️Unity Subscription Plans</a></code></summary>
+<details><summary><b><a href="https://unity.com/">Unity</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=Unity%20Subscription%20Plans">❗️Unity Subscription Plans</a></code></summary>
 
 - _No project information available._</details>
 <details><summary><b><a href="https://www.unrealengine.com/">Unreal Engine</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=EULA">❗️EULA</a></code></summary>
@@ -514,23 +524,6 @@ _Rendering engines for robotic simulators_
 	git clone https://github.com/Unity-Technologies/NativeRenderingPlugin
 	```
 </details>
-<br>
-
-## Others
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-<details><summary><b><a href="https://github.com/Marmiya/VCCSim">VCCSIM</a></b> (🥇5 ·  ⭐ 7 · 🐣) - VCCSIM is a comprehensive platform designed for 3D mapping and embodied AI agent training in large-scale open-world.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/Marmiya/VCCSim) (👨‍💻 2 · 🔀 1 · ⏱️ 11.04.2025):
-
-	```
-	git clone https://github.com/Marmiya/VCCSim
-	```
-</details>
-<details><summary><b><a href="https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/">Newton (Nvidia)</a></b> -  <code>❗Unlicensed</code></summary>
-
-- _No project information available._</details>
 
 ---
 
