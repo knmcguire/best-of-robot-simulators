@@ -34,29 +34,24 @@ categories:
    - category: render
      title: Rendering engines
      subtitle: Rendering engines for robotic simulators
-
-
-labels:
-- label: eol
-  image: https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
-  description: Announced End of life or missing repository
+   - category: eol
+     title: End of Life
+     subtitle: Simulators that are no longer maintained or have been deprecated
+     
 
 projects:
    - name: Gazebo
      github_id: gazebosim/gz-sim
-     labels: []
      category: robotics
      homepage: https://gazebosim.org/home
      doc_url: https://gazebosim.org/api/sim/9/
    - name: Gazebo Classic
      github_id: gazebosim/gazebo-classic
-     labels: ['eol']
-     category: robotics
+     category: eol
      license: Apache-2
      homepage: "https://classic.gazebosim.org/"
    - name: Webots
      github_id: cyberbotics/webots
-     labels: []
      category: robotics
      homepage: "https://www.cyberbotics.com/"
    - name: Coppelia Sim
@@ -104,8 +99,7 @@ projects:
      doc_url: "https://mvsimulator.readthedocs.io/"
    - name: airsim
      github_id: microsoft/AirSim
-     labels: ['eol']
-     category: aerial-simulators
+     category: eol
      doc_url: "https://microsoft.github.io/AirSim/"
      license: mit
    - name: RotorS
@@ -332,8 +326,7 @@ projects:
      license: Apache-2.0 and MIT
      homepage: https://docs.o3de.org/docs/atom-guide/
    - name: HoloOcean
-     labels: ['eol']
-     category: domain
+     category: eol
      homepage: https://byu-holoocean.github.io/holoocean-docs/versionList.html
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
@@ -348,8 +341,7 @@ projects:
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
-     category: domain
-     labels: ['eol']
+     category: eol
    - name: Flatland
      github_id: avidbots/flatland
      category: robotics
@@ -364,14 +356,12 @@ projects:
      license: GNU-gpl2
    - name: Morse
      gitlab_id: morse-simulator/morse
-     category: robotics
+     category: eol
      homepage: http://morse-simulator.github.io/
      license: OFL-1.1
-     label: ['eol']
    - name: Roboschool
      gitlab_id: openai/roboschool
-     category: robotics
+     category: eol
      homepage: https://blog.openai.com/roboschool/
      license: mit
-     label: ['eol']
 
