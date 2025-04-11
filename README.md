@@ -10,21 +10,21 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-57-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-59-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/knmcguire/best-of-robot-simulators/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/knmcguire/best-of-robot-simulators?color=green&label=updated"></a>
 </p>
 
-This curated list contains 57 awesome open-source projects with a total of 250K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 59 awesome open-source projects with a total of 250K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [All-round Robotics Simulators](#all-round-robotics-simulators) _10 projects_
+- [All-round Robotics Simulators](#all-round-robotics-simulators) _11 projects_
 - [Physics Engines](#physics-engines) _14 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _13 projects_
-- [Domain Specific Simulators](#domain-specific-simulators) _5 projects_
+- [Domain Specific Simulators](#domain-specific-simulators) _6 projects_
 - [Game engines](#game-engines) _4 projects_
 - [Machine Learning Simulators](#machine-learning-simulators) _3 projects_
 - [Rendering engines](#rendering-engines) _6 projects_
@@ -45,7 +45,7 @@ This curated list contains 57 awesome open-source projects with a total of 250K 
 - ⏱️&nbsp; Last update timestamp on package manager
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
-- <img src="https://icon-icons.com/download/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13">&nbsp; Announced End of life or Missing repository
+- <img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13">&nbsp; Announced End of life or missing repository
 
 <br>
 
@@ -63,7 +63,7 @@ _Generic simulation tools made especially for robotics_
 	git clone https://github.com/cyberbotics/webots
 	```
 </details>
-<details><summary><b><a href="https://classic.gazebosim.org/">Gazebo Classic</a></b> (🥈21 ·  ⭐ 1.2K) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://icon-icons.com/download/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://classic.gazebosim.org/">Gazebo Classic</a></b> (🥇21 ·  ⭐ 1.2K) - Gazebo classic. For the latest version, see https://github.com/gazebosim/gz-sim. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/gazebosim/gazebo-classic) (👨‍💻 200 · 🔀 490 · 📋 3.1K - 48% open · ⏱️ 03.12.2024):
 
@@ -71,7 +71,7 @@ _Generic simulation tools made especially for robotics_
 	git clone https://github.com/gazebosim/gazebo-classic
 	```
 </details>
-<details><summary><b><a href="https://gazebosim.org/home">Gazebo</a></b> (🥈21 ·  ⭐ 860) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://gazebosim.org/home">Gazebo</a></b> (🥇21 ·  ⭐ 860) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/gazebosim/gz-sim) (👨‍💻 150 · 🔀 290 · 📋 900 - 40% open · ⏱️ 08.04.2025):
 
@@ -93,6 +93,14 @@ _Generic simulation tools made especially for robotics_
 
 	```
 	git clone https://github.com/sea-bass/pyrobosim
+	```
+</details>
+<details><summary><b><a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub">Unity Robotics Hub</a></b> (🥉16 ·  ⭐ 2.2K) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) (👨‍💻 13 · 🔀 440 · 📋 190 - 23% open · ⏱️ 26.11.2024):
+
+	```
+	git clone https://github.com/Unity-Technologies/Unity-Robotics-Hub
 	```
 </details>
 <details><summary><b><a href="https://github.com/MRPT/mvsim">mvsim</a></b> (🥉16 ·  ⭐ 320) - Vehicle and mobile robotics simulator. C++ & Python API. Use it as a standalone application or via ROS 1 or ROS 2. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -243,7 +251,7 @@ _Physics Engines that simula multi-joint dynamics, gravity etc_
 
 _Simulator frameworks made especially for aerial robotics_
 
-<details><summary><b><a href="https://github.com/microsoft/AirSim">airsim</a></b> (🥇32 ·  ⭐ 17K · 💤) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://icon-icons.com/download/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/microsoft/AirSim">airsim</a></b> (🥇32 ·  ⭐ 17K · 💤) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/microsoft/AirSim) (👨‍💻 240 · 🔀 4.4K · 📥 620K · 📦 390 · 📋 3.4K - 19% open · ⏱️ 21.07.2022):
 
@@ -353,7 +361,15 @@ _Robotic simulators build for other domains like automotive_
 	git clone https://github.com/carla-simulator/carla
 	```
 </details>
-<details><summary><b><a href="https://github.com/BYU-PCCL/holodeck">Holodeck</a></b> (🥈17 ·  ⭐ 580 · 💤) - High Fidelity Simulator for Reinforcement Learning and Robotics Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/lgsvl/simulator">SVL Simulator</a></b> (🥈21 ·  ⭐ 2.3K · 💤) - A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/lgsvl/simulator) (👨‍💻 46 · 🔀 760 · 📥 97K · 📋 2.1K - 29% open · ⏱️ 19.01.2022):
+
+	```
+	git clone https://github.com/lgsvl/simulator
+	```
+</details>
+<details><summary><b><a href="https://github.com/BYU-PCCL/holodeck">Holodeck</a></b> (🥉17 ·  ⭐ 580 · 💤) - High Fidelity Simulator for Reinforcement Learning and Robotics Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/BYU-PCCL/holodeck) (👨‍💻 19 · 🔀 42 · 📦 10 · 📋 240 - 19% open · ⏱️ 30.04.2021):
 
@@ -369,7 +385,7 @@ _Robotic simulators build for other domains like automotive_
 	git clone https://github.com/Field-Robotics-Lab/dave
 	```
 </details>
-<details><summary><b><a href="https://stonefish.readthedocs.io/">Stonefish</a></b> (🥉14 ·  ⭐ 140 · ➕) - Stonefish - an advanced C++ simulation library designed for (but not limited to) marine robotics. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://stonefish.readthedocs.io/">Stonefish</a></b> (🥉14 ·  ⭐ 140) - Stonefish - an advanced C++ simulation library designed for (but not limited to) marine robotics. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/patrykcieslak/stonefish) (👨‍💻 11 · 🔀 34 · 📋 37 - 18% open · ⏱️ 09.04.2025):
 
@@ -377,7 +393,7 @@ _Robotic simulators build for other domains like automotive_
 	git clone https://github.com/patrykcieslak/stonefish
 	```
 </details>
-<details><summary><b><a href="https://byu-holoocean.github.io/holoocean-docs/versionList.html">HoloOcean</a></b> (➕) -  <code>❗Unlicensed</code> <code><img src="https://icon-icons.com/download/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://byu-holoocean.github.io/holoocean-docs/versionList.html">HoloOcean</a></b> -  <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - _No project information available._</details>
 <br>
@@ -404,14 +420,9 @@ _3D engines made for games but can be interfaced with robotic frameworks_
 	git clone https://github.com/o3de/o3de
 	```
 </details>
-<details><summary><b><a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub">Unity Robotics Hub</a></b> (🥉16 ·  ⭐ 2.2K) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://unity.com/">Unity</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=Unity%20Subscription%20Plans">❗️Unity Subscription Plans</a></code></summary>
 
-- [GitHub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) (👨‍💻 13 · 🔀 440 · 📋 190 - 23% open · ⏱️ 26.11.2024):
-
-	```
-	git clone https://github.com/Unity-Technologies/Unity-Robotics-Hub
-	```
-</details>
+- _No project information available._</details>
 <details><summary><b><a href="https://www.unrealengine.com/">Unreal Engine</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=EULA">❗️EULA</a></code></summary>
 
 - _No project information available._</details>
@@ -525,7 +536,8 @@ _Rendering engines for robotic simulators_
 
 ## Related Resources
 - [**Aerial Robotics Landscape** - Simulation](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/): A linking website to all kinds of aerial robotic tooling
-- [**Awesome Weekly Robotics list**](https://www.weeklyrobotics.com/awesome-wr): All kinds of usefull links as featured in Weekly Robotics
+- [**Awesome Weekly Robotics list**](https://www.weeklyrobotics.com/awesome-wr): All kinds of useful links as featured in Weekly Robotics
+- [**ROS discourse**](https://discourse.ros.org/search?q=simulation): shared simulators with the ROS community
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
 
