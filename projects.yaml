@@ -1,11 +1,14 @@
 configuration:
-  markdown_header_file: "config/header.md"
-  markdown_footer_file: "config/footer.md"
-  require_license: false
   min_description_length: 0
+  max_description_length: 1000  # don't truncate descriptions
+  min_stars: 0
+  min_projectrank: 0
+  require_homepage: false
+  require_license: false
   allowed_licenses: ["all"]
-  project_inactive_months: 24
-  project_dead_months: 60
+  project_inactive_months: 12
+  project_dead_months: 99999  # "dead" is a somewhat strong assumption, so we avoid making it
+
   
 categories:
    - category: robotic-simulators
