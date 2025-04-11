@@ -357,5 +357,9 @@ projects:
      gitlab_id: sdurobotics/RobWork
      category: robotics
      homepage: http://robwork.dk/
+   - name: Simbad
+     category: robotics
+     homepage: https://simbad.sourceforge.net/
+     license: GNU-gpl2
 
 
