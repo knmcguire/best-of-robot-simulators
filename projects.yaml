@@ -371,3 +371,31 @@ projects:
      github_id: tier4/AWSIM
      category: domain
      license: apache-2
+   - name: AI2-thor
+     github_id: allenai/ai2thor
+     category: ml
+     homepage: https://ai2thor.allenai.org/
+   - name: ProcTHOR
+     github_id: allenai/procthor
+     category: ml
+     homepage: https://procthor.allenai.org/
+   - name: Deepdrive
+     github_id: deepdrive/deepdrive
+     category: ml
+     homepage: https://deepdrive.io/
+   - name: UUV Simulator
+     github_id: uuvsimulator/uuv_simulator
+     category: eol
+     homepage: https://uuvsimulator.github.io/
+     license: apache-2
+   - name: Self Driving Car
+     github_id: udacity/self-driving-car-sim
+     category: eol
+     license: mit
+   - name: ROS Intergration for unreal
+     github_id: code-iai/ROSIntegration
+     category: eol
+   - name: Safe Control Gym
+     github_id: utiasDSL/safe-control-gym
+     homepage: https://www.dynsyslab.org/safe-robot-learning/
+     category: ml
