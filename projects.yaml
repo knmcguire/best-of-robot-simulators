@@ -36,6 +36,9 @@ categories:
      subtitle: Rendering engines for robotic simulators
 
 labels:
+- label: eol
+  image: https://icon-icons.com/download/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
+  description: Announced End of life or Missing repository
 
 projects:
    - name: Gazebo
@@ -46,7 +49,7 @@ projects:
      doc_url: https://gazebosim.org/api/sim/9/
    - name: Gazebo Classic
      github_id: gazebosim/gazebo-classic
-     labels: []
+     labels: ['eol']
      category: robotics
      license: Apache-2
      homepage: "https://classic.gazebosim.org/"
@@ -100,7 +103,7 @@ projects:
      doc_url: "https://mvsimulator.readthedocs.io/"
    - name: airsim
      github_id: microsoft/AirSim
-     labels: []
+     labels: ['eol']
      category: aerial-simulators
      doc_url: "https://microsoft.github.io/AirSim/"
      license: mit
@@ -326,6 +329,19 @@ projects:
      category: render
      license: Apache-2.0 and MIT
      homepage: https://docs.o3de.org/docs/atom-guide/
-
-
+   - name: HoloOcean
+     labels: ['eol']
+     category: domain
+     homepage: https://byu-holoocean.github.io/holoocean-docs/versionList.html
+   - name: Holodeck
+     github_id: BYU-PCCL/holodeck
+     category: domain
+   - name: Stonefish
+     github_id: patrykcieslak/stonefish
+     category: domain
+     homepage: https://stonefish.readthedocs.io/
+   - name: DAVE
+     github_id: Field-Robotics-Lab/dave
+     category: domain
+     homepage: https://field-robotics-lab.github.io/dave.doc/
 
