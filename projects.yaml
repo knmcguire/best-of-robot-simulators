@@ -355,13 +355,19 @@ projects:
      homepage: https://simbad.sourceforge.net/
      license: GNU-gpl2
    - name: Morse
-     gitlab_id: morse-simulator/morse
+     github_id: morse-simulator/morse
      category: eol
      homepage: http://morse-simulator.github.io/
      license: OFL-1.1
    - name: Roboschool
-     gitlab_id: openai/roboschool
+     github_id: openai/roboschool
      category: eol
      homepage: https://blog.openai.com/roboschool/
      license: mit
-
+   - name: Ros2 For Unity
+     github_id: RobotecAI/ros2-for-unity
+     category: robotics
+   - name: AWSim
+     github_id: tier4/AWSIM
+     category: domain
+     license: apache-2
