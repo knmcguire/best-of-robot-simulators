@@ -6,8 +6,9 @@
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _13 projects_
 - [General-Purpose 3D engine](#general-purpose-3d-engine) _1 projects_
 - [Automotive Simulators](#automotive-simulators) _1 projects_
-- [Game engines](#game-engines) _1 projects_
-- [Machine Learning Simulators](#machine-learning-simulators) _2 projects_
+- [Game engines](#game-engines) _3 projects_
+- [Machine Learning Simulators](#machine-learning-simulators) _3 projects_
+- [Rendering engines](#rendering-engines) _6 projects_
 - [Others](#others) _2 projects_
 
 ## Explanation
@@ -364,7 +365,15 @@ _Simulators made for autonmous driving validation_
 
 _3D engines made for games but can be interfaced with robotic frameworks_
 
-<details><summary><b><a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub">Unity Robotics Hub</a></b> (🥇16 ·  ⭐ 2.2K) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://godotengine.org/">Godot</a></b> (🥇44 ·  ⭐ 96K · ➕) - Godot Engine Multi-platform 2D and 3D game engine. <code><a href="https://tldrlegal.com/search?q=EULA">❗️EULA</a></code></summary>
+
+- [GitHub](https://github.com/godotengine/godot) (👨‍💻 3.3K · 🔀 22K · 📥 9.5M · 📦 21 · 📋 56K - 20% open · ⏱️ 10.04.2025):
+
+	```
+	git clone https://github.com/godotengine/godot
+	```
+</details>
+<details><summary><b><a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub">Unity Robotics Hub</a></b> (🥉16 ·  ⭐ 2.2K) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) (👨‍💻 13 · 🔀 440 · 📋 190 - 23% open · ⏱️ 26.11.2024):
 
@@ -372,6 +381,9 @@ _3D engines made for games but can be interfaced with robotic frameworks_
 	git clone https://github.com/Unity-Technologies/Unity-Robotics-Hub
 	```
 </details>
+<details><summary><b><a href="https://www.unrealengine.com/">Unreal Engine</a></b> (🥉1 · ➕) -  <code><a href="https://tldrlegal.com/search?q=EULA">❗️EULA</a></code></summary>
+
+- _No project information available._</details>
 <br>
 
 ## Machine Learning Simulators
@@ -388,6 +400,14 @@ _Simulations made for Machine learning like reinforcement learning_
 	git clone https://github.com/openai/gym
 	```
 </details>
+<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥉25 ·  ⭐ 3.4K) - Unified framework for robot learning built on NVIDIA Isaac Sim. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 110 · 🔀 1.6K · 📋 1.2K - 16% open · ⏱️ 10.04.2025):
+
+	```
+	git clone https://github.com/isaac-sim/IsaacLab
+	```
+</details>
 <details><summary><b><a href="https://pybullet.org/">PyBullet Gym</a></b> (🥉11 ·  ⭐ 850 · 💤) - Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/benelot/pybullet-gym) (👨‍💻 14 · 🔀 120 · 📋 57 - 52% open · ⏱️ 29.03.2021):
@@ -398,16 +418,72 @@ _Simulations made for Machine learning like reinforcement learning_
 </details>
 <br>
 
+## Rendering engines
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Rendering engines for robotic simulators_
+
+<details><summary><b><a href="https://docs.o3de.org/docs/atom-guide/">Atom</a></b> (🥇29 ·  ⭐ 8.2K · ➕) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=Apache-2.0%20and%20MIT">❗️Apache-2.0 and MIT</a></code></summary>
+
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 300 · 🔀 2.2K · 📥 9.4K · 📋 7.7K - 44% open · ⏱️ 10.04.2025):
+
+	```
+	git clone https://github.com/o3de/o3de
+	```
+</details>
+<details><summary><b><a href="https://cyberbotics.com/">Wren (Webots)</a></b> (🥇29 ·  ⭐ 3.5K · ➕) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.7K · 📥 1.6M · 📋 1.8K - 11% open · ⏱️ 20.03.2025):
+
+	```
+	git clone https://github.com/cyberbotics/webots
+	```
+</details>
+<details><summary><b><a href="https://www.ogre3d.org/">OGRE</a></b> (🥈28 ·  ⭐ 4.2K · ➕) - scene-oriented, flexible 3D engine (C++, Python, C#, Java). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/OGRECave/ogre) (👨‍💻 330 · 🔀 980 · 📥 3.7K · 📋 870 - 14% open · ⏱️ 07.04.2025):
+
+	```
+	git clone https://github.com/OGRECave/ogre
+	```
+</details>
+<details><summary><b><a href="https://www.khronos.org/">Vulkan</a></b> (🥉24 ·  ⭐ 3.3K · ➕) - Open-Source Vulkan C++ API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/KhronosGroup/Vulkan-Hpp) (👨‍💻 91 · 🔀 320 · 📋 610 - 2% open · ⏱️ 10.04.2025):
+
+	```
+	git clone https://github.com/KhronosGroup/Vulkan-Hpp
+	```
+</details>
+<details><summary><b><a href="https://www.khronos.org/">OpenGL</a></b> (🥉24 ·  ⭐ 3.3K · ➕) - Open-Source Vulkan C++ API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/KhronosGroup/Vulkan-Hpp) (👨‍💻 91 · 🔀 320 · 📋 610 - 2% open · ⏱️ 10.04.2025):
+
+	```
+	git clone https://github.com/KhronosGroup/Vulkan-Hpp
+	```
+</details>
+<details><summary><b><a href="https://docs.unity3d.com/Manual/NativePluginInterface.html">Unity Rendering Plugin</a></b> (🥉13 ·  ⭐ 870 · ➕) - C++ Rendering Plugin example for Unity. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Unity-Technologies/NativeRenderingPlugin) (👨‍💻 12 · 🔀 170 · 📋 28 - 89% open · ⏱️ 05.08.2024):
+
+	```
+	git clone https://github.com/Unity-Technologies/NativeRenderingPlugin
+	```
+</details>
+<br>
+
 ## Others
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇25 ·  ⭐ 3.4K) - Unified framework for robot learning built on NVIDIA Isaac Sim. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Marmiya/VCCSim">VCCSIM</a></b> (🥇5 ·  ⭐ 7 · 🐣) - VCCSIM is a comprehensive platform designed for 3D mapping and embodied AI agent training in large-scale open-world.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 110 · 🔀 1.6K · 📋 1.2K - 16% open · ⏱️ 10.04.2025):
+- [GitHub](https://github.com/Marmiya/VCCSim) (👨‍💻 2 · 🔀 1 · ⏱️ 11.04.2025):
 
 	```
-	git clone https://github.com/isaac-sim/IsaacLab
+	git clone https://github.com/Marmiya/VCCSim
 	```
 </details>
 <details><summary><b><a href="https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/">Newton (Nvidia)</a></b> -  <code>❗Unlicensed</code></summary>
