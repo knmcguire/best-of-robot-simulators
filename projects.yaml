@@ -353,5 +353,9 @@ projects:
      github_id: avidbots/flatland
      category: robotics
      homepage: https://flatland-simulator.readthedocs.io/
+   - name: Robwork
+     gitlab_id: sdurobotics/RobWork
+     category: robotics
+     homepage: http://robwork.dk/
 
 
