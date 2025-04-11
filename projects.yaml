@@ -399,3 +399,18 @@ projects:
      github_id: utiasDSL/safe-control-gym
      homepage: https://www.dynsyslab.org/safe-robot-learning/
      category: ml
+   - name: AWS robomaker
+     homepage: https://aws.amazon.com/robomaker/
+     category: robotics
+   - name: Habitat Sim
+     github_id: facebookresearch/habitat-sim
+     homepage: https://aihabitat.org/
+     category: robotics
+   - name: Gibson
+     github_id: StanfordVL/GibsonEnv
+     homepage: http://gibsonenv.stanford.edu/
+     category: ml
+   - name: MetaDrive
+     github_id: metadriverse/metadrive/
+     homepage: https://metadriverse.github.io/metadrive-simulator/
+     category: domain
