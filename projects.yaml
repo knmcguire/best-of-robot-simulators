@@ -35,6 +35,7 @@ categories:
      title: Rendering engines
      subtitle: Rendering engines for robotic simulators
 
+
 labels:
 - label: eol
   image: https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
@@ -367,5 +368,10 @@ projects:
      homepage: http://morse-simulator.github.io/
      license: OFL-1.1
      label: ['eol']
-
+   - name: Roboschool
+     gitlab_id: openai/roboschool
+     category: robotics
+     homepage: https://blog.openai.com/roboschool/
+     license: mit
+     label: ['eol']
 
