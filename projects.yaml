@@ -11,9 +11,9 @@ categories:
    - category: robotic-simulators
      title: "All-round Robotics Simulators"
      subtitle: "Generic simulation tools made especially for robotics"
-   - category: physics-simulators
-     title: "Physic simulators"
-     subtitle: "Physics simulators that simulate things like multi-joint dynamics, gravity etc"
+   - category: physics
+     title: "Physics Engines"
+     subtitle: "Physics Engines that simula multi-joint dynamics, gravity etc"
    - category: api-intergration
      title: "API intergration"
      subtitle: "Libraries provided to have api access to the robotic simulators"
@@ -46,7 +46,7 @@ projects:
      github_id: gazebosim/gazebo-classic
      labels: []
      category: robotic-simulators
-     licence: Apache-2
+     license: Apache-2
      homepage: "https://classic.gazebosim.org/"
    - name: Webots
      github_id: cyberbotics/webots
@@ -77,18 +77,18 @@ projects:
    - name: NVIDIA Isaac Sim Isaac Lab
      github_id: isaac-sim/IsaacLab
      labels: []
-     category: api-intergration
+     category: ml
      homepage: "https://isaac-sim.github.io/IsaacLab"
      license: BSD-3-Clause
    - name: mujoco
      github_id: google-deepmind/mujoco
      labels: []
-     category: physics-simulators
-     homepage: "https://pyrobosim.readthedocs.io/"
+     category: physics
+     homepage: "https://mujoco.org/"
    - name: Drake
      github_id: RobotLocomotion/drake
      labels: []
-     category: physics-simulators
+     category: physics
      homepage: "https://drake.mit.edu/"
      license: BSD-3-Clause
    - name: mvsim
@@ -171,7 +171,7 @@ projects:
    - name: JSBSim
      github_id: JSBSim-Team/jsbsim
      labels: []
-     category: physics-simulators
+     category: physics
    - name: Carla
      github_id: carla-simulator/carla
      labels: []
@@ -191,13 +191,13 @@ projects:
    - name: Bullet Physics SDK
      github_id: bulletphysics/bullet3
      labels: []
-     category: physics-simulators
+     category: physics
      license: zlib
      homepage: http://bulletphysics.org/
    - name: Bullet Physics SDK
      github_id: bulletphysics/bullet3
      labels: []
-     category: physics-simulators
+     category: physics
      license: zlib
      homepage: http://bulletphysics.org/
    - name: Gym
@@ -217,9 +217,60 @@ projects:
      category: robotic-simulators
      license: Commercial software
      homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
-   - name: Open Dynamics Engine (ODE)
+   - name: ODE
      github_id: thomasmarsh/ODE
      labels: []
-     category: physics-simulators
+     category: physics
      license: gnu-gpl and BSD-3-clause
      homepage: http://www.ode.org/
+   - name: DART
+     github_id: dartsim/dart
+     labels: []
+     category: physics
+     homepage: http://dartsim.github.io/
+   - name: Simbody
+     github_id: simbody/simbody
+     labels: []
+     category: physics
+     homepage: https://simtk.org/home/simbody
+   - name: TPE (part of gz-physics)
+     github_id: gazebosim/gz-physics
+     labels: []
+     category: physics
+     homepage: https://gazebosim.org/
+   - name: PhysX 5
+     github_id: NVIDIA-Omniverse/PhysX
+     labels: []
+     category: physics
+     homepage: https://nvidia-omniverse.github.io/PhysX/
+   - name: PhysX SDK (legacy)
+     github_id: NVIDIAGameWorks/PhysX
+     labels: []
+     category: physics
+     homepage: https://nvidia-omniverse.github.io/PhysX/
+     license: NVIDIA Omniverse License Agreement
+   - name: Vortex
+     labels: []
+     category: physics
+     homepage: https://www.cm-labs.com/en/vortex-studio/
+     license: EULA
+   - name: Newton Dynamics
+     github_id: newton-dynamics/newton-dynamics
+     labels: []
+     category: physics
+     license: zlib
+     homepage: http://newtondynamics.com/
+   - name: MuJoCo Wrap
+     github_id: google-deepmind/mujoco_warp
+     labels: []
+     category: physics
+   - name: Newton (Nvidia)
+     labels: []
+     category: robotics-simulator
+     homepage: https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/
+   - name: Havok Physics
+     labels: []
+     category: physics
+     homepage: https://www.havok.com/havok-physics/
+     license: Per-title licensing model
+
