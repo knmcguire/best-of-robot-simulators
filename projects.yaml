@@ -37,7 +37,7 @@ categories:
 
 labels:
 - label: eol
-  image: https://cdn.icon-icons.com/icons2/109096/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
+  image: https://images.icon-icons.com/1629/PNG/32/3808216-cemetery-gravestone-graveyard-rip-tombstone_109096.png
   description: Announced End of life or missing repository
 
 projects:
@@ -277,7 +277,7 @@ projects:
      category: physics
    - name: Newton (Nvidia)
      labels: []
-     category: robotics-simulator
+     category: physics
      homepage: https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/
    - name: Havok Physics
      labels: []
@@ -312,7 +312,7 @@ projects:
    - name: VCCSIM
      github_id: Marmiya/VCCSim
      labels: []
-     category: robotics-simulator
+     category: robotics
    - name: Unreal Engine
      labels: []
      category: game
