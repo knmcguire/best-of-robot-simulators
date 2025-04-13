@@ -156,7 +156,7 @@ projects:
      category: game
      homepage: https://o3de.org/
      license: MIT and Apache-2
-   - name: O3DE
+   - name: O3DE for Robotics
      github_id: o3de/o3de
      labels: []
      category: robotics
