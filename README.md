@@ -10,18 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-83-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-84-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/knmcguire/best-of-robot-simulators/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/knmcguire/best-of-robot-simulators?color=green&label=updated"></a>
 </p>
 
-This curated list contains 83 awesome open-source projects with a total of 300K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 84 awesome open-source projects with a total of 310K stars grouped into 9 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose), submit a [pull request](https://github.com/knmcguire/best-of-robot-simulators/pulls), or directly edit the [projects.yaml](https://github.com/knmcguire/best-of-robot-simulators/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [All-round Open-source Robotics Simulators](#all-round-open-source-robotics-simulators) _13 projects_
+- [All-round Open-source Robotics Simulators](#all-round-open-source-robotics-simulators) _14 projects_
 - [Robotics Simulators that are closed source](#robotics-simulators-that-are-closed-source) _2 projects_
 - [Physics Engines](#physics-engines) _15 projects_
 - [Aerial Robotics Simulators](#aerial-robotics-simulators) _11 projects_
@@ -56,6 +56,14 @@ This curated list contains 83 awesome open-source projects with a total of 300K 
 
 _Generic simulators, tools or SDKs made for robotics which are open-source_
 
+<details><summary><b><a href="https://o3de.org/">O3DE for Robotics</a></b> (🥇29 ·  ⭐ 8.2K · ➕) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">❗️MIT and Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 300 · 🔀 2.3K · 📥 9.4K · 📋 7.7K - 44% open · ⏱️ 13.04.2025):
+
+	```
+	git clone https://github.com/o3de/o3de
+	```
+</details>
 <details><summary><b><a href="https://www.cyberbotics.com/">Webots</a></b> (🥇29 ·  ⭐ 3.5K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.7K · 📥 1.6M · 📋 1.8K - 11% open · ⏱️ 12.04.2025):
@@ -64,7 +72,7 @@ _Generic simulators, tools or SDKs made for robotics which are open-source_
 	git clone https://github.com/cyberbotics/webots
 	```
 </details>
-<details><summary><b><a href="https://gazebosim.org/home">Gazebo</a></b> (🥇21 ·  ⭐ 860) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://gazebosim.org/home">Gazebo</a></b> (🥈21 ·  ⭐ 860) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/gazebosim/gz-sim) (👨‍💻 150 · 🔀 290 · 📋 910 - 40% open · ⏱️ 08.04.2025):
 
@@ -128,7 +136,7 @@ _Generic simulators, tools or SDKs made for robotics which are open-source_
 	git clone https://github.com/avidbots/flatland
 	```
 </details>
-<details><summary><b><a href="http://coppeliarobotics.com/">CoppeliaSim core library</a></b> (🥉11 ·  ⭐ 120 · ➕) - CoppeliaSim core library. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code></summary>
+<details><summary><b><a href="http://coppeliarobotics.com/">CoppeliaSim core library</a></b> (🥉11 ·  ⭐ 120) - CoppeliaSim core library. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code></summary>
 
 - [GitHub](https://github.com/CoppeliaRobotics/coppeliaSimLib) (👨‍💻 3 · 🔀 40 · 📋 21 - 14% open · ⏱️ 10.04.2025):
 
@@ -523,7 +531,7 @@ _Simulations made for Machine learning like reinforcement learning_
 	git clone https://github.com/StanfordVL/GibsonEnv
 	```
 </details>
-<details><summary><b><a href="https://github.com/stepjam/PyRep">PyRep</a></b> (🥉15 ·  ⭐ 730 · ➕) - A toolkit for robot learning research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stepjam/PyRep">PyRep</a></b> (🥉15 ·  ⭐ 730) - A toolkit for robot learning research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/stepjam/PyRep) (👨‍💻 20 · 🔀 160 · 📋 300 - 9% open · ⏱️ 02.07.2024):
 
@@ -539,7 +547,7 @@ _Simulations made for Machine learning like reinforcement learning_
 	git clone https://github.com/utiasDSL/safe-control-gym
 	```
 </details>
-<details><summary><b><a href="https://roboverseorg.github.io/">RoboVerse</a></b> (🥉14 ·  ⭐ 820 · ➕) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://roboverseorg.github.io/">RoboVerse</a></b> (🥉14 ·  ⭐ 820) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/RoboVerseOrg/RoboVerse) (👨‍💻 11 · 🔀 40 · 📋 47 - 51% open · ⏱️ 13.04.2025):
 
@@ -555,7 +563,7 @@ _Simulations made for Machine learning like reinforcement learning_
 	git clone https://github.com/allenai/procthor
 	```
 </details>
-<details><summary><b><a href="https://robocasa.ai/">RoboCasa</a></b> (🥉12 ·  ⭐ 720 · ➕) - RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://robocasa.ai/">RoboCasa</a></b> (🥉12 ·  ⭐ 720) - RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/robocasa/robocasa) (🔀 68 · 📋 120 - 19% open · ⏱️ 18.03.2025):
 
@@ -727,7 +735,7 @@ _Simulators that are no longer maintained or have been deprecated_
 <details><summary><b><a href="https://developer.nvidia.com/isaac/sim">NVIDIA Isaac Sim</a></b> (🥇1) -  <code><a href="https://tldrlegal.com/search?q=NVIDIA%20Omniverse%20License%20Agreement">❗️NVIDIA Omniverse License Agreement</a></code></summary>
 
 - _No project information available._</details>
-<details><summary><b><a href="http://coppeliarobotics.com/">CoppeliaSim</a></b> (➕) -  <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="http://coppeliarobotics.com/">CoppeliaSim</a></b> -  <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
 
