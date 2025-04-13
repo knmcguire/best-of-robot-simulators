@@ -14,17 +14,20 @@ configuration:
   
 categories:
    - category: robotics
-     title: "All-round Robotics Simulators"
-     subtitle: "Generic simulation tools made especially for robotics"
+     title: "All-round Open-source Robotics Simulators"
+     subtitle: "Generic simulators, tools or SDKs made for robotics which are open-source"
+   - category: close-robotics
+     title: "Robotics Simulators that are closed source"
+     subtitle: "Generic simulators or tools made for robotics that are closed source"
    - category: physics
      title: Physics Engines
-     subtitle: "Physics Engines that simula multi-joint dynamics, gravity etc"
+     subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
    - category: aerial-simulators
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
    - category: domain
      title: Domain Specific Simulators
-     subtitle: Robotic simulators build for other domains like automotive
+     subtitle: Robotic simulators build for other domains like automotive or maritime
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
@@ -54,12 +57,16 @@ projects:
      github_id: cyberbotics/webots
      category: robotics
      homepage: "https://www.cyberbotics.com/"
-   - name: Coppelia Sim
+   - name: CoppeliaSim core library
      github_id: CoppeliaRobotics/coppeliaSimLib
      labels: []
      category: robotics
      homepage: "http://coppeliarobotics.com/"
      license: gnu-gpl
+   - name: CoppeliaSim
+     labels: []
+     category: closed-robotics
+     homepage: "http://coppeliarobotics.com/"
    - name: ARGoS
      github_id: ilpincy/argos3
      labels: []
@@ -72,7 +79,7 @@ projects:
      homepage: "https://pyrobosim.readthedocs.io/"
    - name: NVIDIA Isaac Sim
      labels: []
-     category: robotics
+     category: closed-robotics
      homepage: "https://developer.nvidia.com/isaac/sim"
      license: NVIDIA Omniverse License Agreement
    - name: NVIDIA Isaac Sim Isaac Lab
@@ -140,13 +147,19 @@ projects:
      category: aerial-simulators
    - name: Matlab UAV Toolbox
      labels: []
-     category: aerial-simulators
+     category: close-robotics
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
    - name: O3DE
      github_id: o3de/o3de
      labels: []
      category: game
+     homepage: https://o3de.org/
+     license: MIT and Apache-2
+   - name: O3DE
+     github_id: o3de/o3de
+     labels: []
+     category: robotics
      homepage: https://o3de.org/
      license: MIT and Apache-2
    - name: Flightgear
@@ -220,7 +233,7 @@ projects:
      homepage: https://pybullet.org/
    - name: RobotBuilder
      labels: []
-     category: robotics
+     category: close-robotics
      license: Commercial software
      homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
    - name: ODE
@@ -350,6 +363,7 @@ projects:
      gitlab_id: sdurobotics/RobWork
      category: robotics
      homepage: http://robwork.dk/
+     license: apache-2
    - name: Simbad
      category: robotics
      homepage: https://simbad.sourceforge.net/
@@ -399,13 +413,10 @@ projects:
      github_id: utiasDSL/safe-control-gym
      homepage: https://www.dynsyslab.org/safe-robot-learning/
      category: ml
-   - name: AWS robomaker
-     homepage: https://aws.amazon.com/robomaker/
-     category: robotics
    - name: Habitat Sim
      github_id: facebookresearch/habitat-sim
      homepage: https://aihabitat.org/
-     category: robotics
+     category: ml
    - name: Gibson
      github_id: StanfordVL/GibsonEnv
      homepage: http://gibsonenv.stanford.edu/
@@ -413,14 +424,14 @@ projects:
    - name: MetaDrive
      github_id: metadriverse/metadrive/
      homepage: https://metadriverse.github.io/metadrive-simulator/
-     category: domain
+     category: ml
    - name: ManiSkill
      github_id: haosulab/ManiSkill
      homepage: https://maniskill.ai/
-     category: robotics
+     category: ml
    - name: Genesis
      github_id: Genesis-Embodied-AI/Genesis
-     category: robotics
+     category: ml
    - name: Arnold
      github_id: arnold-benchmark/arnold
      category: ml
