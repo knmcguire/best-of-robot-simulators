@@ -436,3 +436,15 @@ projects:
      github_id: arnold-benchmark/arnold
      category: ml
      homepage: https://arnold-benchmark.github.io/
+   - name: RoboCasa
+     github_id: robocasa/robocasa
+     category: ml
+     homepage: https://robocasa.ai/
+     license: mit
+   - name: RoboVerse
+     github_id: RoboVerseOrg/RoboVerse
+     category: ml
+     homepage: https://roboverseorg.github.io/
+   - name: PyRep
+     github_id: stepjam/PyRep
+     category: ml
