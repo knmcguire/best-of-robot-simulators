@@ -9,14 +9,14 @@ configuration:
   require_license: false
   allowed_licenses: ["all"]
   project_inactive_months: 12
-  project_dead_months: 99999  # "dead" is a somewhat strong assumption, so we avoid making it
+  project_dead_months: 60  # if a project is not maintained for longer than 5 years we can consider it dead
 
   
 categories:
    - category: robotics
-     title: "All-round Open-source Robotics Simulators"
+     title: "Generic Open-source Robotics Simulators"
      subtitle: "Generic simulators, tools or SDKs made for robotics which are open-source"
-   - category: close-robotics
+   - category: closed-robotics
      title: "Robotics Simulators that are closed source"
      subtitle: "Generic simulators or tools made for robotics that are closed source"
    - category: physics
@@ -32,14 +32,14 @@ categories:
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
    - category: ml
-     title: Machine Learning Simulators
-     subtitle: Simulations made for Machine learning like reinforcement learning
+     title: AI training Simulators
+     subtitle: Simulations made for training for AI-agents like reinforcement learning
    - category: render
      title: Rendering engines
      subtitle: Rendering engines for robotic simulators
    - category: eol
      title: End of Life
-     subtitle: Simulators that are no longer maintained or have been deprecated
+     subtitle: Simulators that are announced EOL, are obviously no longer maintained (longer than 5 years) or have been deprecated
      
 
 projects:
@@ -317,10 +317,6 @@ projects:
      labels: []
      category: render
      homepage: https://docs.unity3d.com/Manual/NativePluginInterface.html
-   - name: VCCSIM
-     github_id: Marmiya/VCCSim
-     labels: []
-     category: robotics
    - name: Unreal Engine
      labels: []
      category: game
@@ -365,7 +361,7 @@ projects:
      homepage: http://robwork.dk/
      license: apache-2
    - name: Simbad
-     category: robotics
+     category: eol
      homepage: https://simbad.sourceforge.net/
      license: GNU-gpl2
    - name: Morse
