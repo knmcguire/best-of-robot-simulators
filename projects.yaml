@@ -9,8 +9,7 @@ configuration:
   require_license: false
   allowed_licenses: ["all"]
   project_inactive_months: 12
-  project_dead_months: 60  # if a project is not maintained for longer than 5 years we can consider it dead
-
+  project_dead_months: 999999  # 60 to check
   
 categories:
    - category: robotics
@@ -167,7 +166,7 @@ projects:
      labels: []
      category: aerial-simulators
      homepage: https://www.flightgear.org/
-     license: gnu-gpl
+     license: gnu-gpl2
    - name: Realflight
      labels: []
      category: aerial-simulators
