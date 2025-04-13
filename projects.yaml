@@ -147,7 +147,7 @@ projects:
      category: aerial-simulators
    - name: Matlab UAV Toolbox
      labels: []
-     category: close-robotics
+     category: closed-robotics
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
    - name: O3DE
@@ -233,7 +233,7 @@ projects:
      homepage: https://pybullet.org/
    - name: RobotBuilder
      labels: []
-     category: close-robotics
+     category: closed-robotics
      license: Commercial software
      homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
    - name: ODE
