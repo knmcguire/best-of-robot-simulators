@@ -36,7 +36,7 @@ This curated list contains 83 awesome open-source projects with a total of 310K 
 - ⭐️&nbsp; Star count from GitHub
 - 🐣&nbsp; New project _(less than 6 months old)_
 - 💤&nbsp; Inactive project _(12 months no activity)_
-- 💀&nbsp; Dead project _(60 months no activity)_
+- 💀&nbsp; Dead project _(999999 months no activity)_
 - 📈📉&nbsp; Project is trending up or down
 - ➕&nbsp; Project was recently added
 - ❗️&nbsp; Warning _(e.g. missing/risky license)_
@@ -143,9 +143,13 @@ _Generic simulators, tools or SDKs made for robotics which are open-source_
 	git clone https://github.com/CoppeliaRobotics/coppeliaSimLib
 	```
 </details>
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary><b><a href="http://robwork.dk/">Robwork</a></b> (🥉8 ·  ⭐ 33 · 💤) - RobWork is a collection of C++ libraries for simulation and control of robot systems, see http://robwork.dk To get.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- <b><a href="http://robwork.dk/">Robwork</a></b> (🥉8 ·  ⭐ 33 · 💀) - RobWork is a collection of C++ libraries for simulation and control of robot systems, see http://robwork.dk To get.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- [GitLab](https://gitlab.com/sdurobotics/RobWork) (🔀 39 · 📋 110 - 15% open · ⏱️ 07.04.2016):
+
+	```
+	git clone https://gitlab.com/sdurobotics/RobWork
+	```
 </details>
 <br>
 
@@ -352,6 +356,14 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/spencerfolk/rotorpy
 	```
 </details>
+<details><summary><b><a href="https://www.flightgear.org/">Flightgear</a></b> (🥉7 ·  ⭐ 42 · 💤) - FlightGear open-source flight simulator [flightgear.org](https://www.flightgear.org). <code><a href="https://tldrlegal.com/search?q=gnu-gpl2">❗️gnu-gpl2</a></code></summary>
+
+- [GitLab](https://gitlab.com/flightgear/flightgear) (🔀 31 · 📋 250 - 62% open · ⏱️ 04.03.2015):
+
+	```
+	git clone https://gitlab.com/flightgear/flightgear
+	```
+</details>
 <details><summary><b><a href="https://github.com/arplaboratory/RotorTM">RotorTM</a></b> (🥉6 ·  ⭐ 67) -  <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/arplaboratory/RotorTM) (👨‍💻 3 · 🔀 14 · 📋 4 - 50% open · ⏱️ 09.06.2024):
@@ -363,10 +375,6 @@ _Simulator frameworks made especially for aerial robotics_
 <details><summary><b><a href="https://www.realflight.com/">Realflight</a></b> (🥉1) -  <code><a href="https://tldrlegal.com/search?q=proprietary%20software%20license">❗️proprietary software license</a></code></summary>
 
 - _No project information available._</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://www.flightgear.org/">Flightgear</a></b> (🥉7 ·  ⭐ 42 · 💀) - FlightGear open-source flight simulator [flightgear.org](https://www.flightgear.org). <code><a href="https://tldrlegal.com/search?q=gnu-gpl">❗️gnu-gpl</a></code>
-</details>
 <br>
 
 ## Domain Specific Simulators
@@ -677,6 +685,14 @@ _Simulators that are announced EOL, are obviously no longer maintained (longer t
 	git clone https://github.com/udacity/self-driving-car-sim
 	```
 </details>
+<details><summary><b><a href="https://blog.openai.com/roboschool/">Roboschool</a></b> (🥈19 ·  ⭐ 2.1K · 💤) - DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/openai/roboschool) (👨‍💻 9 · 🔀 480 · 📦 190 · 📋 180 - 40% open · ⏱️ 10.10.2019):
+
+	```
+	git clone https://github.com/openai/roboschool
+	```
+</details>
 <details><summary><b><a href="https://uuvsimulator.github.io/">UUV Simulator</a></b> (🥉16 ·  ⭐ 760 · 💤) - Gazebo/ROS packages for underwater robotics simulation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/uuvsimulator/uuv_simulator) (👨‍💻 21 · 🔀 310 · 📋 180 - 58% open · ⏱️ 15.06.2020):
@@ -707,10 +723,6 @@ _Simulators that are announced EOL, are obviously no longer maintained (longer t
 <details><summary><b><a href="https://byu-holoocean.github.io/holoocean-docs/versionList.html">HoloOcean</a></b> -  <code>❗Unlicensed</code></summary>
 
 - _No project information available._</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://blog.openai.com/roboschool/">Roboschool</a></b> (🥈19 ·  ⭐ 2.1K · 💀) - DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-</details>
 
 ---
 
