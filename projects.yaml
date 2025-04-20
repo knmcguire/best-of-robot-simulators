@@ -66,6 +66,7 @@ projects:
      labels: []
      category: closed-robotics
      homepage: "http://coppeliarobotics.com/"
+     license: Proparietary License
    - name: ARGoS
      github_id: ilpincy/argos3
      labels: []
@@ -443,3 +444,42 @@ projects:
    - name: PyRep
      github_id: stepjam/PyRep
      category: ml
+   - name: X-plane
+     homepage: https://www.x-plane.com/
+     license: proprietary license
+     category: aerial
+   - name: IR-SIM
+     github_id: hanruihua/ir-sim
+     homepage: https://ir-sim.readthedocs.io/en
+     category: robotics
+     pypi_id: ir-sim
+   - name: OmiLRS
+     github_id: OmniLRS/OmniLRS
+     category: domain
+     homepage: https://github.com/OmniLRS/OmniLRS/wiki
+     license: BSD 3-Clause
+   - name: LunarSim
+     github_id: PUTvision/LunarSim
+     category: domain
+     license: Missing
+   - name: SimSpark
+     gitlab_id: robocup-sim/SimSpark
+     category: robotics
+     license: Missing
+   - name: RoboDK
+     homepage: https://robodk.com/
+     category: closed-robotics
+     license: proprietary license
+   - name: ESMINI
+     github_id: esmini/esmini
+     category: domain
+     license: MPL-2
+   - name: jMAVSim
+     github_id: PX4/jMAVSim
+     category: aerial
+   - name: Stewart Platform Simulator
+     github_id: rawify/Stewart.js
+     category: domain
+     homepage: https://raw.org/research/inverse-kinematics-of-a-stewart-platform/
+     
+     
