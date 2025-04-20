@@ -15,6 +15,9 @@ categories:
    - category: robotics
      title: "Generic Open-source Robotics Simulators"
      subtitle: "Generic simulators, tools or SDKs made for robotics which are open-source"
+   - category: flatsim
+     title: "Robotic simulators in 2D"
+     subtitle: "Robotic simulators that only work in a 2D environment, for instance navigation"
    - category: closed-robotics
      title: "Robotics Simulators that are closed source"
      subtitle: "Generic simulators or tools made for robotics that are closed source"
@@ -75,7 +78,7 @@ projects:
    - name: pyrobosim
      github_id: sea-bass/pyrobosim
      labels: []
-     category: robotics
+     category: flatsim
      homepage: "https://pyrobosim.readthedocs.io/"
    - name: NVIDIA Isaac Sim
      labels: []
@@ -353,7 +356,7 @@ projects:
      category: eol
    - name: Flatland
      github_id: avidbots/flatland
-     category: robotics
+     category: flatsim
      homepage: https://flatland-simulator.readthedocs.io/
    - name: Robwork
      gitlab_id: sdurobotics/RobWork
@@ -451,7 +454,7 @@ projects:
    - name: IR-SIM
      github_id: hanruihua/ir-sim
      homepage: https://ir-sim.readthedocs.io/en
-     category: robotics
+     category: flatsim
      pypi_id: ir-sim
    - name: OmiLRS
      github_id: OmniLRS/OmniLRS
@@ -481,5 +484,4 @@ projects:
      github_id: rawify/Stewart.js
      category: domain
      homepage: https://raw.org/research/inverse-kinematics-of-a-stewart-platform/
-     
      
