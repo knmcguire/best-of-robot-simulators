@@ -22,6 +22,19 @@
 
 ## Contribution
 
+### Contributors
+Those that contributed to this list or have suggested new projects:
+
+* Kimberly McGuire (@knmcguire)
+* Mat Sadowski (@msadowski)
+* Sebastian Castro (@sea-bass)
+* Marek Kraft (@PUTvision)
+* Fatemeh Pourhashem (?)
+* Ramon Roche (@mrpollo)
+* Robert Eisele (@infusion)
+
+### How to Contribute
+
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
 - Open an issue by selecting one of the provided categories from the [issue page](https://github.com/knmcguire/best-of-robot-simulators/issues/new/choose) and fill in the requested information.

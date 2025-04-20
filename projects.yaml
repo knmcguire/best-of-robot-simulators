@@ -15,6 +15,9 @@ categories:
    - category: robotics
      title: "Generic Open-source Robotics Simulators"
      subtitle: "Generic simulators, tools or SDKs made for robotics which are open-source"
+   - category: flatsim
+     title: "Robotic simulators in 2D"
+     subtitle: "Robotic simulators that only work in a 2D environment, for instance navigation"
    - category: closed-robotics
      title: "Robotics Simulators that are closed source"
      subtitle: "Generic simulators or tools made for robotics that are closed source"
@@ -66,6 +69,7 @@ projects:
      labels: []
      category: closed-robotics
      homepage: "http://coppeliarobotics.com/"
+     license: Proparietary License
    - name: ARGoS
      github_id: ilpincy/argos3
      labels: []
@@ -74,7 +78,7 @@ projects:
    - name: pyrobosim
      github_id: sea-bass/pyrobosim
      labels: []
-     category: robotics
+     category: flatsim
      homepage: "https://pyrobosim.readthedocs.io/"
    - name: NVIDIA Isaac Sim
      labels: []
@@ -352,7 +356,7 @@ projects:
      category: eol
    - name: Flatland
      github_id: avidbots/flatland
-     category: robotics
+     category: flatsim
      homepage: https://flatland-simulator.readthedocs.io/
    - name: Robwork
      gitlab_id: sdurobotics/RobWork
@@ -443,3 +447,41 @@ projects:
    - name: PyRep
      github_id: stepjam/PyRep
      category: ml
+   - name: X-plane
+     homepage: https://www.x-plane.com/
+     license: proprietary license
+     category: aerial
+   - name: IR-SIM
+     github_id: hanruihua/ir-sim
+     homepage: https://ir-sim.readthedocs.io/en
+     category: flatsim
+     pypi_id: ir-sim
+   - name: OmiLRS
+     github_id: OmniLRS/OmniLRS
+     category: domain
+     homepage: https://github.com/OmniLRS/OmniLRS/wiki
+     license: BSD 3-Clause
+   - name: LunarSim
+     github_id: PUTvision/LunarSim
+     category: domain
+     license: Missing
+   - name: SimSpark
+     gitlab_id: robocup-sim/SimSpark
+     category: robotics
+     license: Missing
+   - name: RoboDK
+     homepage: https://robodk.com/
+     category: closed-robotics
+     license: proprietary license
+   - name: ESMINI
+     github_id: esmini/esmini
+     category: domain
+     license: MPL-2
+   - name: jMAVSim
+     github_id: PX4/jMAVSim
+     category: aerial
+   - name: Stewart Platform Simulator
+     github_id: rawify/Stewart.js
+     category: domain
+     homepage: https://raw.org/research/inverse-kinematics-of-a-stewart-platform/
+     
