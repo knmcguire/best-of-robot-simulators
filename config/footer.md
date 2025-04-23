@@ -23,7 +23,7 @@
 ## Contribution
 
 ### Contributors
-Those that contributed to this list or have suggested new projects:
+Those that contributed to this list, proposed updates or have suggested new projects:
 
 * Kimberly McGuire (@knmcguire)
 * Mat Sadowski (@msadowski)
@@ -32,6 +32,9 @@ Those that contributed to this list or have suggested new projects:
 * Fatemeh Pourhashem (?)
 * Ramon Roche (@mrpollo)
 * Robert Eisele (@infusion)
+* Hugo Börjesson (@hugoberjesson)
+* Neeraj Cherakara (@iamnambiar)
+* @jmackay2
 
 ### How to Contribute
 

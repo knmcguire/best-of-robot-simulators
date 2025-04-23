@@ -75,6 +75,7 @@ projects:
      labels: []
      category: robotics
      homepage: "https://www.argos-sim.info/"
+     license: MIT
    - name: pyrobosim
      github_id: sea-bass/pyrobosim
      labels: []
@@ -484,4 +485,17 @@ projects:
      github_id: rawify/Stewart.js
      category: domain
      homepage: https://raw.org/research/inverse-kinematics-of-a-stewart-platform/
-     
+   - name: AGX Dynamics by Algoryx
+     homepage: https://www.algoryx.se/agx-dynamics/
+     category: physics
+     license: Proprietary Software License
+     description: AGX Dynamics, by Algoryx, is a modular physics simulation toolkit available in C++, C# and Python, on Windows, Mac and Linux. It uses OSG for visualization but is also available fully integrated into both Unity 3D and Unreal Engine. AGX Dynamics comes with a ROS2 integration and has support for Simulink and FMUs. It contains all necessary core functionality to perform high fidelity, stable and robust simulations of mechanical systems in real-time for robotics, heavy equipment and earth-moving applications - offroad, offshore and in space.
+   - name: Cosys-AirSim
+     github_id: Cosys-Lab/Cosys-AirSim
+     category: aerial
+     license: mit
+     homepage: https://cosys-lab.github.io/Cosys-AirSim/
+   - name: LocoMuJoCo
+     github_id: robfiras/loco-mujoco
+     category: ml
+     homepage: https://loco-mujoco.readthedocs.io/
