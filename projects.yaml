@@ -75,6 +75,7 @@ projects:
      labels: []
      category: robotics
      homepage: "https://www.argos-sim.info/"
+     license: MIT
    - name: pyrobosim
      github_id: sea-bass/pyrobosim
      labels: []
