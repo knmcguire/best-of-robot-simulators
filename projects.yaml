@@ -81,6 +81,7 @@ projects:
      labels: []
      category: flatsim
      homepage: "https://pyrobosim.readthedocs.io/"
+     pypi_id: pyrobosim
    - name: NVIDIA Isaac Sim
      labels: []
      category: closed-robotics
