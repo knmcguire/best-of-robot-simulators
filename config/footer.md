@@ -32,6 +32,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Fatemeh Pourhashem (?)
 * Ramon Roche (@mrpollo)
 * Robert Eisele (@infusion)
+* Silvio Traversaro (@traversaro)
 * Hugo Börjesson (@hugoberjesson)
 * Neeraj Cherakara (@iamnambiar)
 * @jmackay2
