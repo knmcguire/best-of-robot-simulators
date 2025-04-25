@@ -500,3 +500,9 @@ projects:
      github_id: robfiras/loco-mujoco
      category: ml
      homepage: https://loco-mujoco.readthedocs.io/
+   - name: jaxsim
+     github_id: ami-iit/jaxsim
+     category: ml
+     homepage: https://jaxsim.readthedocs.io
+     pypi_id: jaxsim
+     conda_id: conda-forge/jaxsim
