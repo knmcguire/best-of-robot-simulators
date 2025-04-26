@@ -340,8 +340,9 @@ projects:
      license: Apache-2.0 and MIT
      homepage: https://docs.o3de.org/docs/atom-guide/
    - name: HoloOcean
-     category: eol
-     homepage: https://byu-holoocean.github.io/holoocean-docs/versionList.html
+     github_id: byu-holoocean/HoloOcean
+     category: domain
+     homepage: https://byu-holoocean.github.io/holoocean-docs/
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
      category: domain
