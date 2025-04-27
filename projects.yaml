@@ -13,14 +13,11 @@ configuration:
   
 categories:
    - category: robotics
-     title: "Generic Open-source Robotics Simulators"
-     subtitle: "Generic simulators, tools or SDKs made for robotics which are open-source"
+     title: "Generic Robotics Simulators"
+     subtitle: "Generic simulators, tools or SDKs made for robotics"
    - category: flatsim
      title: "Robotic simulators in 2D"
      subtitle: "Robotic simulators that only work in a 2D environment, for instance navigation"
-   - category: closed-robotics
-     title: "Robotics Simulators that are closed source"
-     subtitle: "Generic simulators or tools made for robotics that are closed source"
    - category: physics
      title: Physics Engines
      subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
@@ -67,7 +64,7 @@ projects:
      license: gnu-gpl
    - name: CoppeliaSim
      labels: []
-     category: closed-robotics
+     category: robotics
      homepage: "http://coppeliarobotics.com/"
      license: Proparietary License
    - name: ARGoS
@@ -84,7 +81,7 @@ projects:
      pypi_id: pyrobosim
    - name: NVIDIA Isaac Sim
      labels: []
-     category: closed-robotics
+     category: robotics
      homepage: "https://developer.nvidia.com/isaac/sim"
      license: NVIDIA Omniverse License Agreement
    - name: NVIDIA Isaac Sim Isaac Lab
@@ -152,7 +149,7 @@ projects:
      category: aerial-simulators
    - name: Matlab UAV Toolbox
      labels: []
-     category: closed-robotics
+     category: aerial
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
    - name: O3DE
@@ -238,7 +235,7 @@ projects:
      homepage: https://pybullet.org/
    - name: RobotBuilder
      labels: []
-     category: closed-robotics
+     category: robotics
      license: Commercial software
      homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
    - name: ODE
@@ -474,7 +471,7 @@ projects:
      license: Missing
    - name: RoboDK
      homepage: https://robodk.com/
-     category: closed-robotics
+     category: robotics
      license: proprietary license
    - name: ESMINI
      github_id: esmini/esmini
