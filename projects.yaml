@@ -520,3 +520,9 @@ projects:
      category: ml
      homepage: https://www.mathworks.com/products/reinforcement-learning.html
      license: Proprietary Software License
+   - name: Project CHRONO
+     github_id: projectchrono/chrono
+     category: physics
+     homepage: https://projectchrono.org
+     license: BSD 3-Clause
+  
