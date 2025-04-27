@@ -13,18 +13,15 @@ configuration:
   
 categories:
    - category: robotics
-     title: "Generic Open-source Robotics Simulators"
-     subtitle: "Generic simulators, tools or SDKs made for robotics which are open-source"
+     title: "Generic Robotics Simulators"
+     subtitle: "Generic simulators, tools or SDKs made for robotics"
    - category: flatsim
      title: "Robotic simulators in 2D"
      subtitle: "Robotic simulators that only work in a 2D environment, for instance navigation"
-   - category: closed-robotics
-     title: "Robotics Simulators that are closed source"
-     subtitle: "Generic simulators or tools made for robotics that are closed source"
    - category: physics
      title: Physics Engines
      subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
-   - category: aerial-simulators
+   - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
    - category: domain
@@ -67,7 +64,7 @@ projects:
      license: gnu-gpl
    - name: CoppeliaSim
      labels: []
-     category: closed-robotics
+     category: robotics
      homepage: "http://coppeliarobotics.com/"
      license: Proparietary License
    - name: ARGoS
@@ -84,7 +81,7 @@ projects:
      pypi_id: pyrobosim
    - name: NVIDIA Isaac Sim
      labels: []
-     category: closed-robotics
+     category: robotics
      homepage: "https://developer.nvidia.com/isaac/sim"
      license: NVIDIA Omniverse License Agreement
    - name: NVIDIA Isaac Sim Isaac Lab
@@ -117,42 +114,42 @@ projects:
    - name: RotorS
      github_id: ethz-asl/rotors_simulator
      labels: []
-     category: aerial-simulators
+     category: aerial
      license: mit
    - name: Pegasus Simulator
      github_id: PegasusSimulator/PegasusSimulator
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://pegasussimulator.github.io/PegasusSimulator/
    - name: Aerial Gym Simulator
      github_id: ntnu-arl/aerial_gym_simulator
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
    - name: Flightmare
      github_id: uzh-rpg/flightmare
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://uzh-rpg.github.io/flightmare/
      license: MIT
    - name: FlightGoggles
      github_id: mit-aera/FlightGoggles
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://flightgoggles.mit.edu/
      license: MIT
    - name: Gym Pybullet Drones
      github_id: utiasDSL/gym-pybullet-drones
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://utiasdsl.github.io/gym-pybullet-drones/
    - name: RotorTM
      github_id: arplaboratory/RotorTM
      labels: []
-     category: aerial-simulators
+     category: aerial
    - name: Matlab UAV Toolbox
      labels: []
-     category: closed-robotics
+     category: aerial
      homepage: https://www.mathworks.com/products/uav.html
      license: MathWorks Software License Agreement
    - name: O3DE
@@ -170,22 +167,22 @@ projects:
    - name: Flightgear
      gitlab_id: flightgear/flightgear
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://www.flightgear.org/
      license: gnu-gpl2
    - name: Realflight
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://www.realflight.com/
      license: proprietary software license
    - name: rotorpy
      github_id: spencerfolk/rotorpy
      labels: []
-     category: aerial-simulators
+     category: aerial
    - name: CrazyS
      github_id: gsilano/CrazyS
      labels: []
-     category: aerial-simulators
+     category: aerial
    - name: JSBSim
      github_id: JSBSim-Team/jsbsim
      labels: []
@@ -238,7 +235,7 @@ projects:
      homepage: https://pybullet.org/
    - name: RobotBuilder
      labels: []
-     category: closed-robotics
+     category: robotics
      license: Commercial software
      homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
    - name: ODE
@@ -474,7 +471,7 @@ projects:
      license: Missing
    - name: RoboDK
      homepage: https://robodk.com/
-     category: closed-robotics
+     category: robotics
      license: proprietary license
    - name: ESMINI
      github_id: esmini/esmini
@@ -507,3 +504,19 @@ projects:
      homepage: https://jaxsim.readthedocs.io
      pypi_id: jaxsim
      conda_id: conda-forge/jaxsim
+   - name: MATLAB Robotics Systems Toolbox
+     category: robotics
+     homepage: https://www.mathworks.com/products/robotics.html
+     license: Proprietary Software License
+   - name: Simscape 
+     category: physics
+     homepage: https://www.mathworks.com/products/simscape.html
+     license: Proprietary Software License
+   - name: Roadrunner 
+     category: domain
+     homepage: https://www.mathworks.com/products/roadrunner.html
+     license: Proprietary Software License
+   - name: Reinforcement Learning Toolbox 
+     category: ml
+     homepage: https://www.mathworks.com/products/reinforcement-learning.html
+     license: Proprietary Software License
