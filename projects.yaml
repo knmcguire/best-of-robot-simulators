@@ -520,3 +520,8 @@ projects:
      category: ml
      homepage: https://www.mathworks.com/products/reinforcement-learning.html
      license: Proprietary Software License
+   - name: BRAX
+     github_id: https://github.com/google/brax
+     category: physics
+     homepage: https://github.com/google/brax
+     license: Apache-2
