@@ -21,7 +21,7 @@ categories:
    - category: physics
      title: Physics Engines
      subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
-   - category: aerial-simulators
+   - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
    - category: domain
@@ -114,39 +114,39 @@ projects:
    - name: RotorS
      github_id: ethz-asl/rotors_simulator
      labels: []
-     category: aerial-simulators
+     category: aerial
      license: mit
    - name: Pegasus Simulator
      github_id: PegasusSimulator/PegasusSimulator
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://pegasussimulator.github.io/PegasusSimulator/
    - name: Aerial Gym Simulator
      github_id: ntnu-arl/aerial_gym_simulator
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://ntnu-arl.github.io/aerial_gym_simulator/
    - name: Flightmare
      github_id: uzh-rpg/flightmare
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://uzh-rpg.github.io/flightmare/
      license: MIT
    - name: FlightGoggles
      github_id: mit-aera/FlightGoggles
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://flightgoggles.mit.edu/
      license: MIT
    - name: Gym Pybullet Drones
      github_id: utiasDSL/gym-pybullet-drones
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://utiasdsl.github.io/gym-pybullet-drones/
    - name: RotorTM
      github_id: arplaboratory/RotorTM
      labels: []
-     category: aerial-simulators
+     category: aerial
    - name: Matlab UAV Toolbox
      labels: []
      category: aerial
@@ -167,22 +167,22 @@ projects:
    - name: Flightgear
      gitlab_id: flightgear/flightgear
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://www.flightgear.org/
      license: gnu-gpl2
    - name: Realflight
      labels: []
-     category: aerial-simulators
+     category: aerial
      homepage: https://www.realflight.com/
      license: proprietary software license
    - name: rotorpy
      github_id: spencerfolk/rotorpy
      labels: []
-     category: aerial-simulators
+     category: aerial
    - name: CrazyS
      github_id: gsilano/CrazyS
      labels: []
-     category: aerial-simulators
+     category: aerial
    - name: JSBSim
      github_id: JSBSim-Team/jsbsim
      labels: []
