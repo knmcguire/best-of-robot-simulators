@@ -504,3 +504,19 @@ projects:
      homepage: https://jaxsim.readthedocs.io
      pypi_id: jaxsim
      conda_id: conda-forge/jaxsim
+   - name: MATLAB Robotics Systems Toolbox
+     category: robotics
+     homepage: https://www.mathworks.com/products/robotics.html
+     license: Proprietary Software License
+   - name: Simscape 
+     category: physics
+     homepage: https://www.mathworks.com/products/simscape.html
+     license: Proprietary Software License
+   - name: Roadrunner 
+     category: domain
+     homepage: https://www.mathworks.com/products/roadrunner.html
+     license: Proprietary Software License
+   - name: Reinforcement Learning Toolbox 
+     category: ml
+     homepage: https://www.mathworks.com/products/reinforcement-learning.html
+     license: Proprietary Software License
