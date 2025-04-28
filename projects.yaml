@@ -521,7 +521,7 @@ projects:
      homepage: https://www.mathworks.com/products/reinforcement-learning.html
      license: Proprietary Software License
    - name: BRAX
-     github_id: https://github.com/google/brax
+     github_id: google/brax
      category: physics
      license: Apache-2
    - name: Project CHRONO
