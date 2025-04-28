@@ -37,6 +37,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Neeraj Cherakara (@iamnambiar)
 * @jmackay2
 * Christoph Kammer (@ckammer87)
+* Gokul Puthumanaillam (@gokulp01)
 
 ### How to Contribute
 
