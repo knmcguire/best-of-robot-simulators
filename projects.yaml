@@ -523,7 +523,6 @@ projects:
    - name: BRAX
      github_id: https://github.com/google/brax
      category: physics
-     homepage: https://github.com/google/brax
      license: Apache-2
    - name: Project CHRONO
      github_id: projectchrono/chrono
