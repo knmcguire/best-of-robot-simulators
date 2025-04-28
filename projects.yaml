@@ -525,3 +525,8 @@ projects:
      category: physics
      homepage: https://github.com/google/brax
      license: Apache-2
+   - name: Project CHRONO
+     github_id: projectchrono/chrono
+     category: physics
+     homepage: https://projectchrono.org
+     license: BSD 3-Clause

@@ -36,6 +36,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Hugo Börjesson (@hugoberjesson)
 * Neeraj Cherakara (@iamnambiar)
 * @jmackay2
+* Christoph Kammer (@ckammer87)
 
 ### How to Contribute
 
