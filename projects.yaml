@@ -465,6 +465,7 @@ projects:
      gitlab_id: robocup-sim/SimSpark
      category: robotics
      license: Missing
+     last_commit_pushed_at: 2025-01-21
    - name: RoboDK
      homepage: https://robodk.com/
      category: robotics
