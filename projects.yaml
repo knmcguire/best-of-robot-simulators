@@ -37,8 +37,8 @@ categories:
      title: Rendering engines
      subtitle: Rendering engines for robotic simulators
    - category: eol
-     title: End of Life
-     subtitle: Simulators that are announced EOL, are obviously no longer maintained (longer than 5 years) or have been deprecated
+     title: End of Life, Unmaintained or Deprecated
+     subtitle: Simulators that are announced End-Of-Life (EOL), are no longer maintained (no source code commits for longer than 5 years) or deprecated because underlying backends are no longer maintained or EOL.
      
 
 projects:
