@@ -104,7 +104,7 @@ projects:
    - name: mvsim
      github_id: MRPT/mvsim
      labels: []
-     category: robotics
+     category: flatsim
      doc_url: "https://mvsimulator.readthedocs.io/"
    - name: airsim
      github_id: microsoft/AirSim
@@ -338,7 +338,7 @@ projects:
      homepage: https://byu-holoocean.github.io/holoocean-docs/
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
-     category: domain
+     category: ml
    - name: Stonefish
      github_id: patrykcieslak/stonefish
      category: domain
