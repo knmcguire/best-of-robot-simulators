@@ -543,3 +543,8 @@ projects:
      github_id: uji-ros-pkg/underwater_simulation
      category: GNU-GPL
      homepage: https://www.irs.uji.es/uwsim/wiki/index.php?title=Installing_UWSim
+   - name: RaiSim
+     homepage: https://raisim.com/
+     github_id: raisimTech/raisimlib
+     category: physics
+     license: Proprietary Software License
