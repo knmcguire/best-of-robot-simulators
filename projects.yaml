@@ -285,10 +285,6 @@ projects:
      github_id: google-deepmind/mujoco_warp
      labels: []
      category: physics
-   - name: Newton (Nvidia)
-     labels: []
-     category: physics
-     homepage: https://developer.nvidia.com/blog/announcing-newton-an-open-source-physics-engine-for-robotics-simulation/
    - name: Havok Physics
      labels: []
      category: physics
