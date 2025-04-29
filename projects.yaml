@@ -525,3 +525,20 @@ projects:
      category: physics
      homepage: https://projectchrono.org
      license: BSD 3-Clause
+   - name: Ocean Sim
+     github_id: umfieldrobotics/OceanSim
+     category: domain
+     homepage: https://projectchrono.org
+     license: BSD 3-Clause
+   - name: RoSi
+     category: robotics
+     homepage: https://www.robotec.ai/products
+     license: Proprietary Software License
+   - name: MuJoCo playground
+     github_id: google-deepmind/mujoco_playground/
+     category: ML
+     homepage: https://playground.mujoco.org/
+   - name: UWSim
+     github_id: uji-ros-pkg/underwater_simulation
+     category: GNU-GPL
+     homepage: https://www.irs.uji.es/uwsim/wiki/index.php?title=Installing_UWSim
