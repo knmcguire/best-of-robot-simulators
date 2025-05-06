@@ -336,7 +336,7 @@ projects:
      homepage: https://docs.o3de.org/docs/atom-guide/
    - name: HoloOcean
      github_id: byu-holoocean/HoloOcean
-     category: domain
+     category: marine
      homepage: https://byu-holoocean.github.io/holoocean-docs/
      license: EULA and MIT
    - name: Holodeck
@@ -344,11 +344,11 @@ projects:
      category: ml
    - name: Stonefish
      github_id: patrykcieslak/stonefish
-     category: domain
+     category: marine
      homepage: https://stonefish.readthedocs.io/
    - name: DAVE
      github_id: Field-Robotics-Lab/dave
-     category: domain
+     category: marine
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
@@ -537,7 +537,7 @@ projects:
      license: BSD 3-Clause
    - name: Ocean Sim
      github_id: umfieldrobotics/OceanSim
-     category: domain
+     category: marine
      homepage: https://projectchrono.org
      license: BSD 3-Clause
    - name: RoSi
