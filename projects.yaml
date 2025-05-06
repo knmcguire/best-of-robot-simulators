@@ -599,6 +599,10 @@ projects:
      homepage: https://sourceforge.net/projects/usarsim/
      category: maritime
      show: False # Unmaintained for 5+ years
-   - name: marus-core
+   - name: MARUSimulator
      github_id: MARUSimulator/marus-core
      category: maritime
+   - name: UNav-Sim
+     github_id: open-airlab/UNav-Sim
+     category: maritime
+     license: MIT
