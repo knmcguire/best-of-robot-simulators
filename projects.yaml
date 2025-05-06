@@ -550,7 +550,9 @@ projects:
      homepage: https://playground.mujoco.org/
    - name: UWSim
      github_id: uji-ros-pkg/underwater_simulation
-     category: GNU-gpl
+     license: GNU-gpl
+     category: marine
+     show: False # Not maintained for the last 5 years
      homepage: https://www.irs.uji.es/uwsim/wiki/index.php?title=Installing_UWSim
    - name: RaiSim
      homepage: https://raisim.com/
