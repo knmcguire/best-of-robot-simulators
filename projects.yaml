@@ -583,11 +583,15 @@ projects:
      github_id: freefloating-gazebo/freefloating_gazebo
      category: maritime
      show: False # Unmaintained for 5+ years
-   - name: Freefloating
-     github_id: freefloating-gazebo/freefloating_gazebo
-     category: maritime
-     show: False # Unmaintained for 5+ years
    - name: MARS
      github_id: iti-luebeck/mars
      category: maritime
      show: False # Unmaintained for 5+ years
+   - name: UW-Morse
+     github_id: eirikhex/UW-MORSE
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: Moos-ivp
+     github_id: moos-ivp/moos-ivp
+     category: maritime
+     license: GPLv3 LGPLv3 and Commercial 
