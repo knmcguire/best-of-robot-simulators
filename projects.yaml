@@ -25,9 +25,12 @@ categories:
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
+   - category: marine
+     title: Marine Roboticsc Simulators
+     subtitle: Simulator frameworks made especially for marine robotics
    - category: domain
      title: Domain Specific Simulators
-     subtitle: Robotic simulators build for other domains like automotive or maritime
+     subtitle: Robotic simulators build for other domains like automotive or space robotics
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
