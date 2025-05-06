@@ -52,6 +52,12 @@ projects:
      category: eol
      license: Apache-2
      homepage: "https://classic.gazebosim.org/"
+   - name: Gazebo Classic (test)
+     github_id: gazebosim/gazebo-classic
+     category: robotics
+     license: Apache-2
+     homepage: "https://classic.gazebosim.org/"
+     show: False
    - name: Webots
      github_id: cyberbotics/webots
      category: robotics
