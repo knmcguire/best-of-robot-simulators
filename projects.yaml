@@ -49,7 +49,8 @@ projects:
      doc_url: https://gazebosim.org/api/sim/9/
    - name: Gazebo Classic
      github_id: gazebosim/gazebo-classic
-     category: eol
+     category: robotics
+     show: False # EOL since January 2025
      license: Apache-2
      homepage: "https://classic.gazebosim.org/"
    - name: Webots
@@ -108,7 +109,8 @@ projects:
      doc_url: "https://mvsimulator.readthedocs.io/"
    - name: airsim
      github_id: microsoft/AirSim
-     category: eol
+     category: aerial
+     show: False # No longer maintained since 2022
      doc_url: "https://microsoft.github.io/AirSim/"
      license: mit
    - name: RotorS
@@ -349,7 +351,8 @@ projects:
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
-     category: eol
+     category: domain
+     show: False # Active developement suspended since 2022 January 1th
    - name: Flatland
      github_id: avidbots/flatland
      category: flatsim
@@ -360,17 +363,20 @@ projects:
      homepage: http://robwork.dk/
      license: apache-2
    - name: Simbad
-     category: eol
+     category: robotics
+     show: False # Hasn't been modified since 2011
      homepage: https://simbad.sourceforge.net/
      license: GNU-gpl2
    - name: Morse
      github_id: morse-simulator/morse
-     category: eol
+     category: robotics
+     show: False # No longer maintained as of 2020
      homepage: http://morse-simulator.github.io/
      license: OFL-1.1
    - name: Roboschool
      github_id: openai/roboschool
-     category: eol
+     category: robotics
+     show: False # Deprecated in 2019 in favor of Pybullet
      homepage: https://blog.openai.com/roboschool/
      license: mit
    - name: Ros2 For Unity
@@ -394,16 +400,18 @@ projects:
      homepage: https://deepdrive.io/
    - name: UUV Simulator
      github_id: uuvsimulator/uuv_simulator
-     category: eol
+     category: domain
+     show: False # Archived since 2023
      homepage: https://uuvsimulator.github.io/
      license: apache-2
    - name: Self Driving Car
      github_id: udacity/self-driving-car-sim
-     category: eol
+     category: domain
+     show: False # Archived since 2022
      license: mit
-   - name: ROS Intergration for unreal
+   - name: ROS1 Intergration for Unreal 4
      github_id: code-iai/ROSIntegration
-     category: eol
+     category: robotics
    - name: Safe Control Gym
      github_id: utiasDSL/safe-control-gym
      homepage: https://www.dynsyslab.org/safe-robot-learning/
