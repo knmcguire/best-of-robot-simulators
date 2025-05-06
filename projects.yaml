@@ -579,5 +579,15 @@ projects:
      github_id: uji-ros-pkg/underwater_simulation
      category: maritime
      show: False # Unmaintained for 5+ years
-   
-
+   - name: Freefloating
+     github_id: freefloating-gazebo/freefloating_gazebo
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: Freefloating
+     github_id: freefloating-gazebo/freefloating_gazebo
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: MARS
+     github_id: iti-luebeck/mars
+     category: maritime
+     show: False # Unmaintained for 5+ years
