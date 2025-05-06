@@ -10,6 +10,7 @@ configuration:
   allowed_licenses: ["all"]
   project_inactive_months: 12
   project_dead_months: 999999  # 60 to check
+  hide_license_risk: True
   
 categories:
    - category: robotics
