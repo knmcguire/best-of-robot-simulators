@@ -595,3 +595,10 @@ projects:
      github_id: moos-ivp/moos-ivp
      category: maritime
      license: GPLv3 LGPLv3 and Commercial 
+   - name: USARSim
+     homepage: https://sourceforge.net/projects/usarsim/
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: marus-core
+     github_id: MARUSimulator/marus-core
+     category: maritime
