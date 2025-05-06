@@ -10,6 +10,7 @@ configuration:
   allowed_licenses: ["all"]
   project_inactive_months: 12
   project_dead_months: 999999  # 60 to check
+  hide_license_risk: True
   
 categories:
    - category: robotics
@@ -24,9 +25,12 @@ categories:
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
+   - category: maritime
+     title: maritime Robotics Simulators
+     subtitle: Simulator frameworks made especially for maritime robotics
    - category: domain
      title: Domain Specific Simulators
-     subtitle: Robotic simulators build for other domains like automotive or maritime
+     subtitle: Robotic simulators build for other domains like automotive or space robotics
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
@@ -332,18 +336,19 @@ projects:
      homepage: https://docs.o3de.org/docs/atom-guide/
    - name: HoloOcean
      github_id: byu-holoocean/HoloOcean
-     category: domain
+     category: maritime
      homepage: https://byu-holoocean.github.io/holoocean-docs/
+     license: EULA and MIT
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
      category: ml
    - name: Stonefish
      github_id: patrykcieslak/stonefish
-     category: domain
+     category: maritime
      homepage: https://stonefish.readthedocs.io/
    - name: DAVE
      github_id: Field-Robotics-Lab/dave
-     category: domain
+     category: maritime
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
@@ -532,7 +537,7 @@ projects:
      license: BSD 3-Clause
    - name: Ocean Sim
      github_id: umfieldrobotics/OceanSim
-     category: domain
+     category: maritime
      homepage: https://projectchrono.org
      license: BSD 3-Clause
    - name: RoSi
@@ -541,11 +546,13 @@ projects:
      license: Proprietary Software License
    - name: MuJoCo playground
      github_id: google-deepmind/mujoco_playground/
-     category: ML
+     category: ml
      homepage: https://playground.mujoco.org/
    - name: UWSim
      github_id: uji-ros-pkg/underwater_simulation
-     category: GNU-GPL
+     license: GNU-gpl
+     category: maritime
+     show: False # Not maintained for the last 5 years
      homepage: https://www.irs.uji.es/uwsim/wiki/index.php?title=Installing_UWSim
    - name: RaiSim
      homepage: https://raisim.com/
