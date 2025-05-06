@@ -575,6 +575,9 @@ projects:
      homepage: https://bitbucket.org/whoidsl/ds_sim/src/master/
      category: maritime
      show: False # Unmaintained for 5+ years
-     
+   - name: UWSim-NET
+     github_id: uji-ros-pkg/underwater_simulation
+     category: maritime
+     show: False # Unmaintained for 5+ years
    
 
