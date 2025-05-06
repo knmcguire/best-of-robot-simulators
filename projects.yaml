@@ -559,3 +559,50 @@ projects:
      github_id: raisimTech/raisimlib
      category: physics
      license: Proprietary Software License
+   - name: LRUAV
+     github_id: osrf/lrauv
+     category: maritime
+     show: False # Archieved since March 2025
+   - name: URSim
+     github_id: srmauvsoftware/URsim
+     category: maritime
+     show: False # Unmaintained over 5 years
+   - name: uuv_simulator
+     github_id: uuvsimulator/uuv_simulator
+     category: maritime
+     show: False # Archived since 2023
+   - name: ds sim
+     homepage: https://bitbucket.org/whoidsl/ds_sim/src/master/
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: UWSim-NET
+     github_id: uji-ros-pkg/underwater_simulation
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: Freefloating
+     github_id: freefloating-gazebo/freefloating_gazebo
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: MARS
+     github_id: iti-luebeck/mars
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: UW-Morse
+     github_id: eirikhex/UW-MORSE
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: Moos-ivp
+     github_id: moos-ivp/moos-ivp
+     category: maritime
+     license: GPLv3 LGPLv3 and Commercial 
+   - name: USARSim
+     homepage: https://sourceforge.net/projects/usarsim/
+     category: maritime
+     show: False # Unmaintained for 5+ years
+   - name: MARUSimulator
+     github_id: MARUSimulator/marus-core
+     category: maritime
+   - name: UNav-Sim
+     github_id: open-airlab/UNav-Sim
+     category: maritime
+     license: MIT
