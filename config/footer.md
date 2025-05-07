@@ -41,6 +41,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Christoph Kammer (@ckammer87)
 * Gokul Puthumanaillam (@gokulp01)
 * Spicer Bak (@SBFRF)
+* Mabel Zhang (@mabelzhang)
 
 
 ### How to Contribute
