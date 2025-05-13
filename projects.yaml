@@ -346,7 +346,7 @@ projects:
      fork_count: 21
      open_issue_count: 27
      closed_issue_count: 120
-     
+     license: MIT and Unreal Engine EULA
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
      category: ml
