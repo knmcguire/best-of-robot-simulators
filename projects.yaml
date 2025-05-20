@@ -341,7 +341,7 @@ projects:
      license: EULA and MIT
      star_count: 50 #as of 5/13/2025
      docs_url: https://byu-holoocean.github.io/holoocean-docs/
-     update_at: 5/13/2025
+     update_at: 2025-05-13
      contributor_count: 8
      fork_count: 21
      open_issue_count: 27
@@ -409,7 +409,7 @@ projects:
      homepage: https://deepdrive.io/
    - name: UUV Simulator
      github_id: uuvsimulator/uuv_simulator
-     category: domain
+     category: maritime
      show: False # Archived since 2023
      homepage: https://uuvsimulator.github.io/
      license: apache-2
@@ -482,7 +482,7 @@ projects:
      gitlab_id: robocup-sim/SimSpark
      category: robotics
      license: Missing
-     last_commit_pushed_at: 2025-01-21
+     update_at: 2025-01-21
    - name: RoboDK
      homepage: https://robodk.com/
      category: robotics
@@ -575,10 +575,6 @@ projects:
      github_id: srmauvsoftware/URsim
      category: maritime
      show: False # Unmaintained over 5 years
-   - name: uuv_simulator
-     github_id: uuvsimulator/uuv_simulator
-     category: maritime
-     show: False # Archived since 2023
    - name: ds sim
      homepage: https://bitbucket.org/whoidsl/ds_sim/src/master/
      category: maritime
