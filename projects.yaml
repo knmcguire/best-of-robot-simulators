@@ -614,3 +614,7 @@ projects:
      homepage: https://raisim.com/
      category: physics
      license: proprietary
+   - name: SMaRC 2
+     homepage: smarc-project/smarc2
+     category: domain
+     license: BSD-3-Clause and MIT
