@@ -26,8 +26,11 @@ categories:
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
    - category: maritime
-     title: maritime Robotics Simulators
+     title: Maritime Robotics Simulators
      subtitle: Simulator frameworks made especially for maritime robotics
+   - category: space
+     title: Space Robotics Simulators
+     subtitle: Simulator frameworks made especially for space robotics
    - category: domain
      title: Domain Specific Simulators
      subtitle: Robotic simulators build for other domains like automotive or space robotics
