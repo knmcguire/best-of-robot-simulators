@@ -409,7 +409,7 @@ projects:
      homepage: https://deepdrive.io/
    - name: UUV Simulator
      github_id: uuvsimulator/uuv_simulator
-     category: domain
+     category: maritime
      show: False # Archived since 2023
      homepage: https://uuvsimulator.github.io/
      license: apache-2
@@ -575,10 +575,6 @@ projects:
      github_id: srmauvsoftware/URsim
      category: maritime
      show: False # Unmaintained over 5 years
-   - name: uuv_simulator
-     github_id: uuvsimulator/uuv_simulator
-     category: maritime
-     show: False # Archived since 2023
    - name: ds sim
      homepage: https://bitbucket.org/whoidsl/ds_sim/src/master/
      category: maritime
