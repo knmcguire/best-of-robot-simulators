@@ -618,3 +618,6 @@ projects:
      homepage: smarc-project/smarc2
      category: domain
      license: BSD-3-Clause and MIT
+   - name: Basilisk
+     homepage: AVSLab/basilisk
+     category: domain
