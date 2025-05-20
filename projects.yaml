@@ -474,12 +474,12 @@ projects:
      pypi_id: ir-sim
    - name: OmiLRS
      github_id: OmniLRS/OmniLRS
-     category: domain
+     category: space
      homepage: https://github.com/OmniLRS/OmniLRS/wiki
      license: BSD 3-Clause
    - name: LunarSim
      github_id: PUTvision/LunarSim
-     category: domain
+     category: space
      license: Missing
    - name: SimSpark
      gitlab_id: robocup-sim/SimSpark
@@ -619,11 +619,11 @@ projects:
      license: proprietary
    - name: SMaRC 2
      github_id: smarc-project/smarc2
-     category: domain
+     category: maritime
      license: BSD-3-Clause and MIT
    - name: Basilisk
      github_id: AVSLab/basilisk
-     category: domain
+     category: space
    - name: Astrobee
      github_id: NASA/astrobee
-     category: domain
+     category: space
