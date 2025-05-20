@@ -615,9 +615,12 @@ projects:
      category: physics
      license: proprietary
    - name: SMaRC 2
-     homepage: smarc-project/smarc2
+     github_id: smarc-project/smarc2
      category: domain
      license: BSD-3-Clause and MIT
    - name: Basilisk
-     homepage: AVSLab/basilisk
+     github_id: AVSLab/basilisk
+     category: domain
+   - name: Astrobee
+     github_id: NASA/astrobee
      category: domain
