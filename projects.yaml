@@ -610,3 +610,7 @@ projects:
      github_id: open-airlab/UNav-Sim
      category: maritime
      license: MIT
+   - name: RaiSim
+     homepage: https://raisim.com/
+     category: physics
+     license: proprietary
