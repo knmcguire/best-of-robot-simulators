@@ -632,4 +632,8 @@ projects:
      github_id: Tinker-Twins/AutoDRIVE
      category: domain
      homepage: https://github.com/Tinker-Twins/AutoDRIVE/tree/AutoDRIVE-Simulator
-     
+   - name: K-Sim
+     github_id: kscalelabs/ksim
+     category: ml
+     homepage: https://docs.kscale.dev/docs/ksim
+     pypi_id: ksim
