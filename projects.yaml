@@ -625,3 +625,6 @@ projects:
    - name: Astrobee
      github_id: NASA/astrobee
      category: space
+   - name: swarm_sync_sim 
+     github_id: shupx/swarm_sync_sim
+     category: aerial
