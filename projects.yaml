@@ -569,7 +569,7 @@ projects:
      github_id: raisimTech/raisimlib
      category: physics
      license: Proprietary Software License
-   - name: LRUAV
+   - name: LRAUV
      github_id: osrf/lrauv
      category: maritime
      show: False # Archieved since March 2025
