@@ -329,7 +329,6 @@ projects:
      github_id: godotengine/godot
      labels: []
      category: game
-     license: EULA
      homepage: https://godotengine.org/
    - name: Atom
      github_id: o3de/o3de
