@@ -48,6 +48,9 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Mabel Zhang (@mabelzhang)
 * Pedro Roque (@pPedro-Roque)
 * Özer Özkahraman (@KKalem)
+* Pierre Kancier (@khancyr)
+* Tanmay/Chinmay Samak (@Tinker-Twins)
+* Peixuan Shu (@Peixuan Shu)
 
 ### How to Contribute
 
