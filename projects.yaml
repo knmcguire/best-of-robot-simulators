@@ -548,7 +548,6 @@ projects:
    - name: Ocean Sim
      github_id: umfieldrobotics/OceanSim
      category: maritime
-     homepage: https://projectchrono.org
      license: BSD 3-Clause
    - name: RoSi
      category: robotics
