@@ -625,3 +625,15 @@ projects:
    - name: Astrobee
      github_id: NASA/astrobee
      category: space
+   - name: swarm_sync_sim 
+     github_id: shupx/swarm_sync_sim
+     category: aerial
+   - name: AutoDRIVE Simulator
+     github_id: Tinker-Twins/AutoDRIVE
+     category: domain
+     homepage: https://github.com/Tinker-Twins/AutoDRIVE/tree/AutoDRIVE-Simulator
+   - name: K-Sim
+     github_id: kscalelabs/ksim
+     category: ml
+     homepage: https://docs.kscale.dev/docs/ksim
+     pypi_id: ksim
