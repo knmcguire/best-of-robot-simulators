@@ -329,7 +329,6 @@ projects:
      github_id: godotengine/godot
      labels: []
      category: game
-     license: EULA
      homepage: https://godotengine.org/
    - name: Atom
      github_id: o3de/o3de
@@ -549,7 +548,6 @@ projects:
    - name: Ocean Sim
      github_id: umfieldrobotics/OceanSim
      category: maritime
-     homepage: https://projectchrono.org
      license: BSD 3-Clause
    - name: RoSi
      category: robotics
@@ -570,7 +568,7 @@ projects:
      github_id: raisimTech/raisimlib
      category: physics
      license: Proprietary Software License
-   - name: LRUAV
+   - name: LRAUV
      github_id: osrf/lrauv
      category: maritime
      show: False # Archieved since March 2025
