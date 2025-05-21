@@ -97,7 +97,7 @@ projects:
    - name: mujoco
      github_id: google-deepmind/mujoco
      labels: []
-     category: physics
+     category: robotics
      homepage: "https://mujoco.org/"
    - name: Drake
      github_id: RobotLocomotion/drake
