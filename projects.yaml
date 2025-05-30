@@ -340,12 +340,18 @@ projects:
      github_id: byu-holoocean/HoloOcean
      category: maritime
      homepage: https://byu-holoocean.github.io/holoocean-docs/
+     description: A UE5 based simulator for marine perception and autonomy, with multi-agent communications and many common underwater sensors.
      license: EULA and MIT
      star_count: 50 #as of 5/13/2025
      docs_url: https://byu-holoocean.github.io/holoocean-docs/
-     update_at: 2025-05-13
+     release_count: 2
+     latest_stable_release_number: 2.0.0
+     latest_stable_release_published_at: 24.5.2025
+     update_at: 13.5.2025
+     created_at: 4.10.20
      contributor_count: 8
      fork_count: 21
+     commint_count: 16 #in release branch
      open_issue_count: 27
      closed_issue_count: 120
      license: MIT and Unreal Engine EULA
