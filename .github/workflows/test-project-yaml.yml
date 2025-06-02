@@ -15,3 +15,5 @@ jobs:
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
+      - name: Show generated readme as summary
+        run:  cat README.md >> $GITHUB_STEP_SUMMARY
