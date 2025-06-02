@@ -16,4 +16,9 @@ jobs:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
           github_key: ${{ secrets.GITHUB_TOKEN }}
       - name: Show generated readme as summary
-        run:  cat README.md >> $GITHUB_STEP_SUMMARY
+        run:  |
+          echo "✨ **PR Preview:** This is the generated readme for pull request review purposes. ✨" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY 
+          echo "-------------------------" >> $GITHUB_STEP_SUMMARY 
+          echo "" >> $GITHUB_STEP_SUMMARY # Add an empty line for spacing
+          cat README.md >> $GITHUB_STEP_SUMMARY
