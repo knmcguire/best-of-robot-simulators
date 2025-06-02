@@ -1,0 +1,24 @@
+name: test-project-yaml
+
+on:
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  update-best-of-list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: update-best-of-list
+        uses: best-of-lists/best-of-update-action@v0.8.5
+        with:
+          libraries_key: ${{ secrets.LIBRARIES_KEY }}
+          github_key: ${{ secrets.GITHUB_TOKEN }}
+      - name: Show generated readme as summary
+        run:  |
+          echo "✨ **PR Preview:** This is the generated readme for pull request review purposes. ✨" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY 
+          echo "-------------------------" >> $GITHUB_STEP_SUMMARY 
+          echo "" >> $GITHUB_STEP_SUMMARY # Add an empty line for spacing
+          cat README.md >> $GITHUB_STEP_SUMMARY
