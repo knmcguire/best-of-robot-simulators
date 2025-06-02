@@ -346,9 +346,9 @@ projects:
      docs_url: https://byu-holoocean.github.io/holoocean-docs/
      release_count: 2
      latest_stable_release_number: 2.0.0
-     latest_stable_release_published_at: 24.5.2025
-     update_at: 13.5.2025
-     created_at: 4.10.20
+     latest_stable_release_published_at: 2025-05-24
+     update_at: 2025-05-14
+     created_at: 2020-10-04
      contributor_count: 8
      fork_count: 21
      commint_count: 16 #in release branch
