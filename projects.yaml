@@ -660,3 +660,7 @@ projects:
      github_id: bevyengine/bevy
      category: game
      homepage: https://bevy.org/
+   - name: Avian 3D
+     github_id: Jondolf/avian
+     category: physics
+     homepage: https://crates.io/crates/avian3d
