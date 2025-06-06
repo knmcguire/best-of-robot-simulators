@@ -19,9 +19,6 @@ categories:
    - category: flatsim
      title: "Robotic simulators in 2D"
      subtitle: "Robotic simulators that only work in a 2D environment, for instance navigation"
-   - category: physics
-     title: Physics Engines
-     subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
@@ -31,15 +28,18 @@ categories:
    - category: space
      title: Space Robotics Simulators
      subtitle: Simulator frameworks made especially for space robotics
+   - category: ml
+     title: AI training Simulators
+     subtitle: Simulations made for training for AI-agents like reinforcement learning
    - category: domain
-     title: Domain Specific Simulators
+     title: Other Domain Specific Simulators
      subtitle: Robotic simulators build for other domains like automotive or space robotics
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
-   - category: ml
-     title: AI training Simulators
-     subtitle: Simulations made for training for AI-agents like reinforcement learning
+   - category: physics
+     title: Physics Engines
+     subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
    - category: render
      title: Rendering engines
      subtitle: Rendering engines for robotic simulators
