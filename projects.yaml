@@ -680,3 +680,7 @@ projects:
      category: render
      homepage: http://pyrender.readthedocs.io/
      pypi_id: pyrender
+   - name: Sapien
+     github_id: haosulab/SAPIEN
+     category: ml
+     homepage: https://sapien.ucsd.edu/
