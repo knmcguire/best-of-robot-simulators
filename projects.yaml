@@ -667,4 +667,16 @@ projects:
    - name: Graspit!
      github_id: graspit-simulator/graspit
      category: domain
-     
+   - name: FleX
+     github_id: NVIDIAGameWorks/FleX
+     category: physics
+     license: Nvidia Software License
+   - name: PyFleX
+     github_id: YunzhuLi/PyFleX
+     category: physics
+     license: Nvidia Software License
+   - name: PyRender
+     github_id: mmatl/pyrender
+     category: render
+     homepage: http://pyrender.readthedocs.io/
+     pypi_id: pyrender
