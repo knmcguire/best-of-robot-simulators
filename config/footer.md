@@ -1,7 +1,7 @@
 
 ---
 
-## Related Resources
+## Resources
 
 ### Lists:
 - [**Aerial Robotics Landscape** - Simulation](https://ros-aerial.github.io/aerial_robotic_landscape/simulation/): A linking website to all kinds of aerial robotic tooling
@@ -14,6 +14,11 @@
 - [**Awesome robotics projects by mjyc**](https://github.com/mjyc/awesome-robotics-projects?tab=readme-ov-file)
 - [**Awesome LLM Robotics by GT-RIPL**](https://github.com/GT-RIPL/Awesome-LLM-Robotics?tab=readme-ov-file#simulation-frameworks):
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Robot-manipulation.org simulator list**](https://www.robot-manipulation.org/software/simulators)
+
+### Repositories
+
+[Copper RS](https://github.com/copper-project/copper-rs)
 
 ### Blogs
 * [**Navigating through the Robotic Simulation Landscape**](https://www.mcguirerobotics.com/blog/2025/04/17/navigating-through-the-robotic-simulation-landscape/): The blogpost by Kimberly McGuire that started this list
@@ -51,6 +56,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Pierre Kancier (@khancyr)
 * Tanmay/Chinmay Samak (@Tinker-Twins)
 * Peixuan Shu (@Peixuan Shu)
+* Jennifer Buehler @JenniferBuehler
 
 ### How to Contribute
 

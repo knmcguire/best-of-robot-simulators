@@ -19,27 +19,30 @@ categories:
    - category: flatsim
      title: "Robotic simulators in 2D"
      subtitle: "Robotic simulators that only work in a 2D environment, for instance navigation"
-   - category: physics
-     title: Physics Engines
-     subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
    - category: aerial
      title: Aerial Robotics Simulators
      subtitle: "Simulator frameworks made especially for aerial robotics"
    - category: maritime
      title: Maritime Robotics Simulators
      subtitle: Simulator frameworks made especially for maritime robotics
+   - category: auto
+     title: Automotive Simulators
+     subtitle: Simulator frameworks made especially for automotive
    - category: space
      title: Space Robotics Simulators
      subtitle: Simulator frameworks made especially for space robotics
+   - category: ml
+     title: AI training Simulators
+     subtitle: Simulations made for training for AI-agents like reinforcement learning
    - category: domain
-     title: Domain Specific Simulators
+     title: Other Domain Specific Simulators
      subtitle: Robotic simulators build for other domains like automotive or space robotics
    - category: game
      title: Game engines
      subtitle: 3D engines made for games but can be interfaced with robotic frameworks
-   - category: ml
-     title: AI training Simulators
-     subtitle: Simulations made for training for AI-agents like reinforcement learning
+   - category: physics
+     title: Physics Engines
+     subtitle: "Physics Engines that simulate multi-joint dynamics, gravity etc"
    - category: render
      title: Rendering engines
      subtitle: Rendering engines for robotic simulators
@@ -97,7 +100,7 @@ projects:
    - name: mujoco
      github_id: google-deepmind/mujoco
      labels: []
-     category: physics
+     category: robotics
      homepage: "https://mujoco.org/"
    - name: Drake
      github_id: RobotLocomotion/drake
@@ -195,7 +198,7 @@ projects:
    - name: Carla
      github_id: carla-simulator/carla
      labels: []
-     category: domain
+     category: auto
      homepage: https://carla.org/
    - name: OpenRAVE
      github_id: rdiankov/openrave
@@ -369,7 +372,7 @@ projects:
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
-     category: domain
+     category: auto
      show: False # Active developement suspended since 2022 January 1th
    - name: Flatland
      github_id: avidbots/flatland
@@ -402,7 +405,7 @@ projects:
      category: robotics
    - name: AWSim
      github_id: tier4/AWSIM
-     category: domain
+     category: auto
      license: apache-2
    - name: AI2-thor
      github_id: allenai/ai2thor
@@ -424,7 +427,7 @@ projects:
      license: apache-2
    - name: Self Driving Car
      github_id: udacity/self-driving-car-sim
-     category: domain
+     category: auto
      show: False # Archived since 2022
      license: mit
    - name: ROS1 Intergration for Unreal 4
@@ -491,14 +494,14 @@ projects:
      gitlab_id: robocup-sim/SimSpark
      category: robotics
      license: Missing
-     update_at: 2025-01-21
+     last_commit_pushed_at: 2025-01-21
    - name: RoboDK
      homepage: https://robodk.com/
      category: robotics
      license: proprietary license
    - name: ESMINI
      github_id: esmini/esmini
-     category: domain
+     category: auto
      license: MPL-2
    - name: jMAVSim
      github_id: PX4/jMAVSim
@@ -644,3 +647,40 @@ projects:
      category: ml
      homepage: https://docs.kscale.dev/docs/ksim
      pypi_id: ksim
+   - name: K-Sim
+     github_id: kscalelabs/ksim
+     category: ml
+     homepage: https://docs.kscale.dev/docs/ksim
+     pypi_id: ksim
+   - name: Newton (Physics)
+     github_id: newton-physics/newton
+     category: robotics
+     homepage: https://newton-physics.github.io/newton/
+   - name: Bevy
+     github_id: bevyengine/bevy
+     category: game
+     homepage: https://bevy.org/
+   - name: Avian 3D
+     github_id: Jondolf/avian
+     category: physics
+     homepage: https://crates.io/crates/avian3d
+   - name: Graspit!
+     github_id: graspit-simulator/graspit
+     category: domain
+   - name: FleX
+     github_id: NVIDIAGameWorks/FleX
+     category: physics
+     license: Nvidia Software License
+   - name: PyFleX
+     github_id: YunzhuLi/PyFleX
+     category: physics
+     license: Nvidia Software License
+   - name: PyRender
+     github_id: mmatl/pyrender
+     category: render
+     homepage: http://pyrender.readthedocs.io/
+     pypi_id: pyrender
+   - name: Sapien
+     github_id: haosulab/SAPIEN
+     category: ml
+     homepage: https://sapien.ucsd.edu/
