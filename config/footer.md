@@ -14,6 +14,7 @@
 - [**Awesome robotics projects by mjyc**](https://github.com/mjyc/awesome-robotics-projects?tab=readme-ov-file)
 - [**Awesome LLM Robotics by GT-RIPL**](https://github.com/GT-RIPL/Awesome-LLM-Robotics?tab=readme-ov-file#simulation-frameworks):
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Robot-manipulation.org simulator list**](https://www.robot-manipulation.org/software/simulators)
 
 ### Repositories
 
@@ -55,6 +56,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Pierre Kancier (@khancyr)
 * Tanmay/Chinmay Samak (@Tinker-Twins)
 * Peixuan Shu (@Peixuan Shu)
+* Jennifer Buehler @JenniferBuehler
 
 ### How to Contribute
 
