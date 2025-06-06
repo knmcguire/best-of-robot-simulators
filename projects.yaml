@@ -25,6 +25,9 @@ categories:
    - category: maritime
      title: Maritime Robotics Simulators
      subtitle: Simulator frameworks made especially for maritime robotics
+   - category: auto
+     title: Automotive Simulators
+     subtitle: Simulator frameworks made especially for automotive
    - category: space
      title: Space Robotics Simulators
      subtitle: Simulator frameworks made especially for space robotics
@@ -195,7 +198,7 @@ projects:
    - name: Carla
      github_id: carla-simulator/carla
      labels: []
-     category: domain
+     category: auto
      homepage: https://carla.org/
    - name: OpenRAVE
      github_id: rdiankov/openrave
@@ -369,7 +372,7 @@ projects:
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
-     category: domain
+     category: auto
      show: False # Active developement suspended since 2022 January 1th
    - name: Flatland
      github_id: avidbots/flatland
@@ -402,7 +405,7 @@ projects:
      category: robotics
    - name: AWSim
      github_id: tier4/AWSIM
-     category: domain
+     category: auto
      license: apache-2
    - name: AI2-thor
      github_id: allenai/ai2thor
@@ -424,7 +427,7 @@ projects:
      license: apache-2
    - name: Self Driving Car
      github_id: udacity/self-driving-car-sim
-     category: domain
+     category: auto
      show: False # Archived since 2022
      license: mit
    - name: ROS1 Intergration for Unreal 4
@@ -498,7 +501,7 @@ projects:
      license: proprietary license
    - name: ESMINI
      github_id: esmini/esmini
-     category: domain
+     category: auto
      license: MPL-2
    - name: jMAVSim
      github_id: PX4/jMAVSim
