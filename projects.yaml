@@ -664,3 +664,7 @@ projects:
      github_id: Jondolf/avian
      category: physics
      homepage: https://crates.io/crates/avian3d
+   - name: Graspit!
+     github_id: graspit-simulator/graspit
+     category: domain
+     
