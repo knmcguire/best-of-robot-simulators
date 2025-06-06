@@ -652,8 +652,11 @@ projects:
      category: ml
      homepage: https://docs.kscale.dev/docs/ksim
      pypi_id: ksim
-   - name: Newton (Physics
+   - name: Newton (Physics)
      github_id: newton-physics/newton
      category: robotics
      homepage: https://newton-physics.github.io/newton/
-
+   - name: Bevy
+     github_id: bevyengine/bevy
+     category: game
+     homepage: https://bevy.org/
