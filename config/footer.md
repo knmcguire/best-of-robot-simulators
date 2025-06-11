@@ -56,7 +56,8 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Pierre Kancier (@khancyr)
 * Tanmay/Chinmay Samak (@Tinker-Twins)
 * Peixuan Shu (@Peixuan Shu)
-* Jennifer Buehler @JenniferBuehler
+* Jennifer Buehler (@JenniferBuehler)
+* @MiaoDX
 
 ### How to Contribute
 
