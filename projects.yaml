@@ -235,6 +235,7 @@ projects:
      category: ml
      license: MIT
      homepage: https://www.gymlibrary.dev/
+     show: False # Maintaince has been moved to Gymnasium since 2021
    - name: PyBullet Gym
      github_id: benelot/pybullet-gym
      labels: []
@@ -684,3 +685,8 @@ projects:
      github_id: haosulab/SAPIEN
      category: ml
      homepage: https://sapien.ucsd.edu/
+   - name: Gymnasium
+     github_id: Farama-Foundation/Gymnasium
+     category: ml
+     homepage: https://gymnasium.farama.org/
+     pypi_id: gymnasium
