@@ -690,3 +690,9 @@ projects:
      category: ml
      homepage: https://gymnasium.farama.org/
      pypi_id: gymnasium
+   - name: Strech MuJoCo
+     github_id: hello-robot/stretch_mujoco
+     category: domain
+   - name: Virtual RobotX
+     github_id: osrf/vrx
+     category: maritime
