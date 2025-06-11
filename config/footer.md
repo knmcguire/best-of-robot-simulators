@@ -18,7 +18,8 @@
 
 ### Repositories
 
-[Copper RS](https://github.com/copper-project/copper-rs)
+* [Copper RS](https://github.com/copper-project/copper-rs)
+* [Hello Robot](https://github.com/hello-robot)
 
 ### Blogs
 * [**Navigating through the Robotic Simulation Landscape**](https://www.mcguirerobotics.com/blog/2025/04/17/navigating-through-the-robotic-simulation-landscape/): The blogpost by Kimberly McGuire that started this list
@@ -56,7 +57,8 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Pierre Kancier (@khancyr)
 * Tanmay/Chinmay Samak (@Tinker-Twins)
 * Peixuan Shu (@Peixuan Shu)
-* Jennifer Buehler @JenniferBuehler
+* Jennifer Buehler (@JenniferBuehler)
+* @MiaoDX
 
 ### How to Contribute
 
