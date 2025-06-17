@@ -87,10 +87,10 @@ projects:
      homepage: "https://pyrobosim.readthedocs.io/"
      pypi_id: pyrobosim
    - name: NVIDIA Isaac Sim
-     labels: []
+     github_id: isaac-sim/IsaacSim
      category: robotics
      homepage: "https://developer.nvidia.com/isaac/sim"
-     license: NVIDIA Omniverse License Agreement
+     license: Apache 2.0 and NVIDIA Omniverse License Agreement
    - name: NVIDIA Isaac Sim Isaac Lab
      github_id: isaac-sim/IsaacLab
      labels: []
@@ -696,3 +696,6 @@ projects:
    - name: Virtual RobotX
      github_id: osrf/vrx
      category: maritime
+   - name: Isaac Drone Racer
+     github_id: kousheekc/isaac_drone_racer
+     category: aerial
