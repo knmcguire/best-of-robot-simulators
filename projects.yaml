@@ -696,3 +696,6 @@ projects:
    - name: Virtual RobotX
      github_id: osrf/vrx
      category: maritime
+   - name: Isaac Drone Racer
+     github_id: kousheekc/isaac_drone_racer
+     category: aerial
