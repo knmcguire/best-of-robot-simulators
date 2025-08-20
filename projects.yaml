@@ -730,4 +730,17 @@ projects:
      github_id: qgallouedec/panda-gym
      category: domain
      home_page: https://panda-gym.readthedocs.io/en/latest/
-     
+   - name: PyFlyt
+     github_id: jjshoots/PyFlyt
+     category: aerial
+     home_page: https://taijunjet.com/PyFlyt/index.html
+     pypi_id: pyflyt
+   - name: OmniIsaacGymEnvs
+     github_id: isaac-sim/OmniIsaacGymEnvs
+     category: ml
+   - name: OmniIsaacGymEnvs
+     github_id: isaac-sim/OmniIsaacGymEnvs
+     category: ml
+   - name: Itomori
+     github_id: gustavo-moura/itomori
+     category: aerial
