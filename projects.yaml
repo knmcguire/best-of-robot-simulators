@@ -704,3 +704,30 @@ projects:
      category: physics
      homepage:  http://stack-of-tasks.github.io/pinocchio/
      pypi_id: pin
+   - name: Gymfc
+     github_id: wil3/gymfc/
+     category: aerial
+     homepage:  http://wfk.io/neuroflight/
+   - name: DexterousHands
+     github_id: PKU-MARL/DexterousHands
+     category: domain
+   - name: IGibson
+     github_id: StanfordVL/iGibson
+     category: ml
+     homepage: https://svl.stanford.edu/igibson/
+   - name: gym-softrobot
+     github_id: skim0119/gym-softrobot/
+     category: domain
+     pypi_id: gym-softrobot
+   - name: robo-gym
+     github_id: jr-robotics/robo-gym
+     category: ml
+   - name: Mars Explorer
+     github_id: dimikout3/MarsExplorer
+     category: space
+     license: no license
+   - name: Panda-Gym
+     github_id: qgallouedec/panda-gym
+     category: domain
+     home_page: https://panda-gym.readthedocs.io/en/latest/
+     
