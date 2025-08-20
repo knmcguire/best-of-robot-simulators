@@ -699,3 +699,8 @@ projects:
    - name: Isaac Drone Racer
      github_id: kousheekc/isaac_drone_racer
      category: aerial
+   - name: Pinocchio
+     github_id: stack-of-tasks/pinocchio
+     category: physics
+     homepage:  http://stack-of-tasks.github.io/pinocchio/
+     pypi_id: pin
