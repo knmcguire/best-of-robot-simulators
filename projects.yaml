@@ -770,3 +770,12 @@ projects:
      homepage: https://metaworld.farama.org/
      category: ml
      pypi_id: metaworld
+   - name: Gymnasium Robotics
+     github_id: Farama-Foundation/Gymnasium-Robotics
+     homepage: https://robotics.farama.org/
+     category: ml
+     pypi_id: gymnasium-robotics
+   - name: Spleenlab simulator
+     homepage: https://spleenlab.com/
+     category: aerial
+     license: proprietary
