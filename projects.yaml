@@ -744,3 +744,16 @@ projects:
    - name: Itomori
      github_id: gustavo-moura/itomori
      category: aerial
+   - name: Jiminy
+     github_id: duburcqa/jiminy
+     category: ml
+     pypi_id: jiminy-py
+     license: MIT
+   - name: Fly Craft
+     github_id: GongXudong/fly-craft
+     category: aerial
+     pypi_id: flycraft
+   - name: BSK-RL
+     github_id: AVSLab/bsk_rl
+     homepage: https://avslab.github.io/bsk_rl/
+     category: space
