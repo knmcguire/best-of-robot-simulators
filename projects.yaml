@@ -699,3 +699,87 @@ projects:
    - name: Isaac Drone Racer
      github_id: kousheekc/isaac_drone_racer
      category: aerial
+   - name: Pinocchio
+     github_id: stack-of-tasks/pinocchio
+     category: physics
+     homepage:  http://stack-of-tasks.github.io/pinocchio/
+     pypi_id: pin
+   - name: Gymfc
+     github_id: wil3/gymfc/
+     category: aerial
+     homepage:  http://wfk.io/neuroflight/
+   - name: DexterousHands
+     github_id: PKU-MARL/DexterousHands
+     category: domain
+   - name: IGibson
+     github_id: StanfordVL/iGibson
+     category: ml
+     homepage: https://svl.stanford.edu/igibson/
+   - name: gym-softrobot
+     github_id: skim0119/gym-softrobot/
+     category: domain
+     pypi_id: gym-softrobot
+   - name: robo-gym
+     github_id: jr-robotics/robo-gym
+     category: ml
+   - name: Mars Explorer
+     github_id: dimikout3/MarsExplorer
+     category: space
+     license: no license
+   - name: Panda-Gym
+     github_id: qgallouedec/panda-gym
+     category: domain
+     home_page: https://panda-gym.readthedocs.io/en/latest/
+   - name: PyFlyt
+     github_id: jjshoots/PyFlyt
+     category: aerial
+     home_page: https://taijunjet.com/PyFlyt/index.html
+     pypi_id: pyflyt
+   - name: OmniIsaacGymEnvs
+     github_id: isaac-sim/OmniIsaacGymEnvs
+     category: ml
+   - name: OmniIsaacGymEnvs
+     github_id: isaac-sim/OmniIsaacGymEnvs
+     category: ml
+   - name: Itomori
+     github_id: gustavo-moura/itomori
+     category: aerial
+   - name: Jiminy
+     github_id: duburcqa/jiminy
+     category: ml
+     pypi_id: jiminy-py
+     license: MIT
+   - name: Fly Craft
+     github_id: GongXudong/fly-craft
+     category: aerial
+     pypi_id: flycraft
+   - name: BSK-RL
+     github_id: AVSLab/bsk_rl
+     homepage: https://avslab.github.io/bsk_rl/
+     category: space
+   - name: racecar_gym
+     github_id: axelbr/racecar_gym/
+     category: ml
+   - name: HighwayEnv
+     github_id: Farama-Foundation/HighwayEnv
+     homepage: https://highway-env.farama.org/
+     category: automotive
+     pypi_id: highway-env
+   - name: Metaworld
+     github_id: Farama-Foundation/Metaworld
+     homepage: https://metaworld.farama.org/
+     category: ml
+     pypi_id: metaworld
+   - name: Gymnasium Robotics
+     github_id: Farama-Foundation/Gymnasium-Robotics
+     homepage: https://robotics.farama.org/
+     category: ml
+     pypi_id: gymnasium-robotics
+   - name: Spleenlab simulator
+     homepage: https://spleenlab.com/
+     category: aerial
+     license: proprietary
+   - name: Roblox
+     homepage: https://www.roblox.com/
+     category: game
+     license: proprietary
