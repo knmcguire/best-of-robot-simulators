@@ -757,3 +757,16 @@ projects:
      github_id: AVSLab/bsk_rl
      homepage: https://avslab.github.io/bsk_rl/
      category: space
+   - name: racecar_gym
+     github_id: axelbr/racecar_gym/
+     category: ml
+   - name: HighwayEnv
+     github_id: Farama-Foundation/HighwayEnv
+     homepage: https://highway-env.farama.org/
+     category: automotive
+     pypi_id: highway-env
+   - name: Metaworld
+     github_id: Farama-Foundation/Metaworld
+     homepage: https://metaworld.farama.org/
+     category: ml
+     pypi_id: metaworld
