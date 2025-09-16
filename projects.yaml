@@ -783,3 +783,13 @@ projects:
      homepage: https://www.roblox.com/
      category: game
      license: proprietary
+   - name: FlightForge
+     github_id: ctu-mrs/flight_forge
+     category: aerial
+   - name:  Ardupilot_Multiagent_Simulation
+     github_id: aau-cns/Ardupilot_Multiagent_Simulation
+     category: aerial
+   - name:  Project AirSim
+     github_id: iamaisim/ProjectAirSim
+     homepage: https://iamaisim.github.io/ProjectAirSim/
+     category: aerial
