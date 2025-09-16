@@ -793,3 +793,13 @@ projects:
      github_id: iamaisim/ProjectAirSim
      homepage: https://iamaisim.github.io/ProjectAirSim/
      category: aerial
+   - name:  DWA_Algorithm_PYTHON
+     github_id: EricChen0104/DWA_Algorithm_PYTHON
+     category: flatsim
+   - name:  multi-agent_sim
+     github_id: tjards/multi-agent_sim
+     category: domain
+   - name:  UAIbot 
+     github_id: UAIbot/UAIbotPy
+     homepage: https://uaibot.github.io/
+     category: ml
