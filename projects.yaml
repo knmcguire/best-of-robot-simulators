@@ -803,3 +803,18 @@ projects:
      github_id: UAIbot/UAIbotPy
      homepage: https://uaibot.github.io/
      category: ml
+   - name: Colosseum
+     github_id: CodexLabsLLC/Colosseum
+     homepage: https://codexlabsllc.github.io/Colosseum/
+     category: aerial
+     license: MIT
+   - name: optimAero PX4
+     github_id: optimAero/optimAeroPX4SIL
+     homepage: https://optim.aero/px4silsimulink.html
+     category: aerial
+   - name: IsaacLab-HARL
+     github_id: some45bucks/IsaacLab-HARL
+     homepage: https://some45bucks.github.io/IsaacLab-HARL/
+     category: ml
+     license: BSD-3-Clause
+     
