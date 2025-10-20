@@ -61,6 +61,7 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Peixuan Shu (@Peixuan Shu)
 * Jennifer Buehler (@JenniferBuehler)
 * @MiaoDX
+* Louis Le Lay (@louislelay)
 
 ### How to Contribute
 

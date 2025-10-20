@@ -48,6 +48,12 @@ categories:
      subtitle: Rendering engines for robotic simulators
 
 projects:
+   - name: mjlab
+     github_id: mujocolab/mjlab
+     category: ml
+     homepage: https://github.com/mujocolab/mjlab
+     doc_url: https://github.com/mujocolab/mjlab/blob/main/README.md
+     license: Apache-2
    - name: Gazebo
      github_id: gazebosim/gz-sim
      category: robotics
