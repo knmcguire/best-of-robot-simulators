@@ -50,6 +50,7 @@ categories:
 projects:
    - name: mjlab
      github_id: mujocolab/mjlab
+     pypi_id: mjlab
      category: ml
      homepage: https://github.com/mujocolab/mjlab
      doc_url: https://github.com/mujocolab/mjlab/blob/main/README.md
