@@ -824,4 +824,6 @@ projects:
      homepage: https://some45bucks.github.io/IsaacLab-HARL/
      category: ml
      license: BSD-3-Clause
-     
+   - name: Crazyflow
+     github_id: utiasDSL/crazyflow
+     category: aerial
