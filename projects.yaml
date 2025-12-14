@@ -827,3 +827,7 @@ projects:
    - name: Crazyflow
      github_id: utiasDSL/crazyflow
      category: aerial
+   - name: FlightForge 
+     github_id: ctu-mrs/mrs_uav_flightforge_simulator
+     category: aerial
+     license: GLP-2.0  
