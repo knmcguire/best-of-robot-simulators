@@ -71,23 +71,23 @@ _Generic simulators, tools or SDKs made for robotics_
 
 <details><summary><b><a href="https://mujoco.org/">mujoco</a></b> (🥇38 ·  ⭐ 11K) - Multi-Joint dynamics with Contact. A general purpose physics simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/google-deepmind/mujoco) (👨‍💻 99 · 🔀 1.2K · 📥 830K · 📦 5K · 📋 1.8K - 7% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/google-deepmind/mujoco) (👨‍💻 99 · 🔀 1.2K · 📥 840K · 📦 5K · 📋 1.8K - 7% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/google-deepmind/mujoco
 	```
 </details>
-<details><summary><b><a href="https://o3de.org/">O3DE for Robotics</a></b> (🥇29 ·  ⭐ 8.8K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">MIT and Apache-2</a></code></summary>
+<details><summary><b><a href="https://o3de.org/">O3DE for Robotics</a></b> (🥇29 ·  ⭐ 8.9K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">MIT and Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/o3de/o3de) (👨‍💻 320 · 🔀 2.4K · 📥 11K · 📋 7.9K - 42% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 320 · 🔀 2.4K · 📥 11K · 📋 7.9K - 42% open · ⏱️ 11.12.2025):
 
 	```
 	git clone https://github.com/o3de/o3de
 	```
 </details>
-<details><summary><b><a href="https://www.cyberbotics.com/">Webots</a></b> (🥇26 ·  ⭐ 3.9K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://www.cyberbotics.com/">Webots</a></b> (🥇26 ·  ⭐ 4K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.8K · 📥 1.8M · 📋 1.9K - 12% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.9K · 📥 1.8M · 📋 1.9K - 12% open · ⏱️ 27.11.2025):
 
 	```
 	git clone https://github.com/cyberbotics/webots
@@ -95,7 +95,7 @@ _Generic simulators, tools or SDKs made for robotics_
 </details>
 <details><summary><b><a href="https://gazebosim.org/home">Gazebo</a></b> (🥈22 ·  ⭐ 1.1K) - Open source robotics simulator. The latest version of Gazebo. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/gazebosim/gz-sim) (👨‍💻 170 · 🔀 350 · 📋 1K - 43% open · ⏱️ 19.11.2025):
+- [GitHub](https://github.com/gazebosim/gz-sim) (👨‍💻 170 · 🔀 350 · 📋 1K - 43% open · ⏱️ 12.12.2025):
 
 	```
 	git clone https://github.com/gazebosim/gz-sim
@@ -103,7 +103,7 @@ _Generic simulators, tools or SDKs made for robotics_
 </details>
 <details><summary><b><a href="https://newton-physics.github.io/newton/">Newton (Physics)</a></b> (🥈21 ·  ⭐ 2.2K) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/newton-physics/newton) (👨‍💻 37 · 🔀 190 · 📋 590 - 35% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/newton-physics/newton) (👨‍💻 37 · 🔀 200 · 📋 600 - 35% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/newton-physics/newton
@@ -119,7 +119,7 @@ _Generic simulators, tools or SDKs made for robotics_
 </details>
 <details><summary><b><a href="https://developer.nvidia.com/isaac/sim">NVIDIA Isaac Sim</a></b> (🥈17 ·  ⭐ 2.1K) - NVIDIA Isaac Sim is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven.. <code><a href="https://tldrlegal.com/search?q=Apache%202.0%20and%20NVIDIA%20Omniverse%20License%20Agreement">Apache 2.0 and NVIDIA Omniverse License Agreement</a></code></summary>
 
-- [GitHub](https://github.com/isaac-sim/IsaacSim) (👨‍💻 5 · 🔀 250 · 📋 240 - 33% open · ⏱️ 20.11.2025):
+- [GitHub](https://github.com/isaac-sim/IsaacSim) (👨‍💻 5 · 🔀 260 · 📋 250 - 33% open · ⏱️ 20.11.2025):
 
 	```
 	git clone https://github.com/isaac-sim/IsaacSim
@@ -159,7 +159,7 @@ _Generic simulators, tools or SDKs made for robotics_
 </details>
 <details><summary><b><a href="http://coppeliarobotics.com/">CoppeliaSim core library</a></b> (🥉13 ·  ⭐ 130) - CoppeliaSim core library. <code><a href="https://tldrlegal.com/search?q=gnu-gpl">gnu-gpl</a></code></summary>
 
-- [GitHub](https://github.com/CoppeliaRobotics/coppeliaSimLib) (👨‍💻 3 · 🔀 44 · 📋 22 - 4% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/CoppeliaRobotics/coppeliaSimLib) (👨‍💻 3 · 🔀 44 · 📋 22 - 4% open · ⏱️ 15.12.2025):
 
 	```
 	git clone https://github.com/CoppeliaRobotics/coppeliaSimLib
@@ -211,26 +211,26 @@ _Generic simulators, tools or SDKs made for robotics_
 
 _Robotic simulators that only work in a 2D environment, for instance navigation_
 
-<details><summary><b><a href="https://ir-sim.readthedocs.io/en">IR-SIM</a></b> (🥇24 ·  ⭐ 650) - A Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://ir-sim.readthedocs.io/en">IR-SIM</a></b> (🥇24 ·  ⭐ 850) - A Python-based lightweight robot simulator designed for navigation, control, and reinforcement learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hanruihua/ir-sim) (👨‍💻 10 · 🔀 76 · 📦 12 · 📋 35 - 2% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/hanruihua/ir-sim) (👨‍💻 11 · 🔀 100 · 📦 12 · 📋 36 - 5% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/hanruihua/ir-sim
 	```
-- [PyPi](https://pypi.org/project/ir-sim) (📥 1.4K / month):
+- [PyPi](https://pypi.org/project/ir-sim) (📥 1.6K / month):
 	```
 	pip install ir-sim
 	```
 </details>
 <details><summary><b><a href="https://pyrobosim.readthedocs.io/">pyrobosim</a></b> (🥈20 ·  ⭐ 360) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sea-bass/pyrobosim) (👨‍💻 18 · 🔀 64 · 📦 7 · 📋 120 - 5% open · ⏱️ 08.12.2025):
+- [GitHub](https://github.com/sea-bass/pyrobosim) (👨‍💻 18 · 🔀 64 · 📦 7 · 📋 120 - 5% open · ⏱️ 15.12.2025):
 
 	```
 	git clone https://github.com/sea-bass/pyrobosim
 	```
-- [PyPi](https://pypi.org/project/pyrobosim) (📥 380 / month):
+- [PyPi](https://pypi.org/project/pyrobosim) (📥 410 / month):
 	```
 	pip install pyrobosim
 	```
@@ -251,7 +251,7 @@ _Robotic simulators that only work in a 2D environment, for instance navigation_
 	git clone https://github.com/avidbots/flatland
 	```
 </details>
-<details><summary><b><a href="https://github.com/EricChen0104/DWA_Algorithm_PYTHON">DWA_Algorithm_PYTHON</a></b> (🥉5 ·  ⭐ 11 · 🐣) - A fully visualized implementation of the Dynamic Window Approach (DWA) in Python using Pygame. Simulate and visualize.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/EricChen0104/DWA_Algorithm_PYTHON">DWA_Algorithm_PYTHON</a></b> (🥉5 ·  ⭐ 13 · 🐣) - A fully visualized implementation of the Dynamic Window Approach (DWA) in Python using Pygame. Simulate and visualize.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/EricChen0104/DWA_Algorithm_PYTHON) (👨‍💻 2 · 🔀 1 · ⏱️ 18.07.2025):
 
@@ -267,7 +267,7 @@ _Robotic simulators that only work in a 2D environment, for instance navigation_
 
 _Simulator frameworks made especially for aerial robotics_
 
-<details><summary><b><a href="https://codexlabsllc.github.io/Colosseum/">Colosseum</a></b> (🥇23 ·  ⭐ 570) - Open source simulator for autonomous robotics built on Unreal Engine with support for Unity. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://codexlabsllc.github.io/Colosseum/">Colosseum</a></b> (🥇23 ·  ⭐ 580) - Open source simulator for autonomous robotics built on Unreal Engine with support for Unity. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/CodexLabsLLC/Colosseum) (👨‍💻 260 · 🔀 160 · 📥 18K · 📋 83 - 68% open · ⏱️ 08.12.2025):
 
@@ -275,9 +275,9 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/CodexLabsLLC/Colosseum
 	```
 </details>
-<details><summary><b><a href="https://cosys-lab.github.io/Cosys-AirSim/">Cosys-AirSim</a></b> (🥇20 ·  ⭐ 260) - AirSim is a simulator for drones, cars and more, built on Unreal Engine. We expand it with new implementations and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://cosys-lab.github.io/Cosys-AirSim/">Cosys-AirSim</a></b> (🥇20 ·  ⭐ 270) - AirSim is a simulator for drones, cars and more, built on Unreal Engine. We expand it with new implementations and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Cosys-Lab/Cosys-AirSim) (👨‍💻 260 · 🔀 91 · 📥 8.8K · 📋 79 - 49% open · ⏱️ 03.10.2025):
+- [GitHub](https://github.com/Cosys-Lab/Cosys-AirSim) (👨‍💻 260 · 🔀 93 · 📥 8.9K · 📋 79 - 49% open · ⏱️ 03.10.2025):
 
 	```
 	git clone https://github.com/Cosys-Lab/Cosys-AirSim
@@ -313,26 +313,26 @@ _Simulator frameworks made especially for aerial robotics_
 </details>
 <details><summary><b><a href="https://uzh-rpg.github.io/flightmare/">Flightmare</a></b> (🥈17 ·  ⭐ 1.3K · 💤) - An Open Flexible Quadrotor Simulator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/uzh-rpg/flightmare) (👨‍💻 7 · 🔀 370 · 📥 6.1K · 📋 180 - 65% open · ⏱️ 15.05.2023):
+- [GitHub](https://github.com/uzh-rpg/flightmare) (👨‍💻 7 · 🔀 370 · 📥 6.2K · 📋 180 - 65% open · ⏱️ 15.05.2023):
 
 	```
 	git clone https://github.com/uzh-rpg/flightmare
 	```
 </details>
-<details><summary><b><a href="https://iamaisim.github.io/ProjectAirSim/">Project AirSim</a></b> (🥈17 ·  ⭐ 370 · 📈) - Project AirSim is Microsofts evolution of AirSim, an advanced simulation platform for building, training, and testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/iamaisim/ProjectAirSim) (👨‍💻 10 · 🔀 50 · 📥 1.4K · 📋 30 - 70% open · ⏱️ 03.12.2025):
-
-	```
-	git clone https://github.com/iamaisim/ProjectAirSim
-	```
-</details>
-<details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥈16 ·  ⭐ 650) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://pegasussimulator.github.io/PegasusSimulator/">Pegasus Simulator</a></b> (🥈16 ·  ⭐ 660) - A framework built on top of NVIDIA Isaac Sim for simulating drones with PX4 support and much more. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/PegasusSimulator/PegasusSimulator) (👨‍💻 6 · 🔀 120 · 📋 62 - 40% open · ⏱️ 21.11.2025):
 
 	```
 	git clone https://github.com/PegasusSimulator/PegasusSimulator
+	```
+</details>
+<details><summary><b><a href="https://iamaisim.github.io/ProjectAirSim/">Project AirSim</a></b> (🥈16 ·  ⭐ 390 · 📉) - Project AirSim is Microsofts evolution of AirSim, an advanced simulation platform for building, training, and testing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/iamaisim/ProjectAirSim) (👨‍💻 10 · 🔀 51 · 📥 1.5K · 📋 31 - 70% open · ⏱️ 03.12.2025):
+
+	```
+	git clone https://github.com/iamaisim/ProjectAirSim
 	```
 </details>
 <details><summary><b><a href="https://flightgoggles.mit.edu/">FlightGoggles</a></b> (🥈15 ·  ⭐ 430 · 💤) - A framework for photorealistic hardware-in-the-loop agile flight simulation using Unity3D and ROS. Developed by MIT.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -343,17 +343,25 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/mit-aera/FlightGoggles
 	```
 </details>
-<details><summary><b><a href="https://ntnu-arl.github.io/aerial_gym_simulator/">Aerial Gym Simulator</a></b> (🥈14 ·  ⭐ 620) - Aerial Gym Simulator - Isaac Gym Simulator for Aerial Robots. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/utiasDSL/crazyflow">Crazyflow</a></b> (🥈15 ·  ⭐ 51 · 📈) - Scalable Crazyflie simulation using JAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ntnu-arl/aerial_gym_simulator) (👨‍💻 4 · 🔀 98 · 📋 46 - 26% open · ⏱️ 05.11.2025):
+- [GitHub](https://github.com/utiasDSL/crazyflow) (👨‍💻 9 · 🔀 13 · 📦 1 · 📋 29 - 13% open · ⏱️ 15.12.2025):
+
+	```
+	git clone https://github.com/utiasDSL/crazyflow
+	```
+</details>
+<details><summary><b><a href="https://ntnu-arl.github.io/aerial_gym_simulator/">Aerial Gym Simulator</a></b> (🥈14 ·  ⭐ 630) - Aerial Gym Simulator - Isaac Gym Simulator for Aerial Robots. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/ntnu-arl/aerial_gym_simulator) (👨‍💻 4 · 🔀 98 · 📋 46 - 23% open · ⏱️ 05.11.2025):
 
 	```
 	git clone https://github.com/ntnu-arl/aerial_gym_simulator
 	```
 </details>
-<details><summary><b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥈14 ·  ⭐ 210 · 📉) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/spencerfolk/rotorpy">rotorpy</a></b> (🥈14 ·  ⭐ 210) - A multirotor simulator with aerodynamics for education and research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/spencerfolk/rotorpy) (👨‍💻 6 · 🔀 44 · 📥 16 · 📋 24 - 25% open · ⏱️ 05.11.2025):
+- [GitHub](https://github.com/spencerfolk/rotorpy) (👨‍💻 6 · 🔀 45 · 📥 16 · 📋 24 - 25% open · ⏱️ 05.11.2025):
 
 	```
 	git clone https://github.com/spencerfolk/rotorpy
@@ -383,15 +391,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/gsilano/CrazyS
 	```
 </details>
-<details><summary><b><a href="https://github.com/utiasDSL/crazyflow">Crazyflow</a></b> (🥉13 ·  ⭐ 50) - Scalable Crazyflie simulation using JAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/utiasDSL/crazyflow) (👨‍💻 8 · 🔀 12 · 📦 1 · 📋 29 - 13% open · ⏱️ 09.10.2025):
-
-	```
-	git clone https://github.com/utiasDSL/crazyflow
-	```
-</details>
-<details><summary><b><a href="https://github.com/kousheekc/isaac_drone_racer">Isaac Drone Racer</a></b> (🥉10 ·  ⭐ 150) - Isaac Drone Racer is a reinforcement learning framework for high speed autonomous drone racing, built on top of.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/kousheekc/isaac_drone_racer">Isaac Drone Racer</a></b> (🥉11 ·  ⭐ 150 · 📈) - Isaac Drone Racer is a reinforcement learning framework for high speed autonomous drone racing, built on top of.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/kousheekc/isaac_drone_racer) (🔀 28 · ⏱️ 04.12.2025):
 
@@ -399,7 +399,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/kousheekc/isaac_drone_racer
 	```
 </details>
-<details><summary><b><a href="https://www.flightgear.org/">Flightgear</a></b> (🥉8 ·  ⭐ 61 · 💤) - FlightGear open-source flight simulator [flightgear.org](https://www.flightgear.org). <code><a href="https://tldrlegal.com/search?q=gnu-gpl2">gnu-gpl2</a></code></summary>
+<details><summary><b><a href="https://www.flightgear.org/">Flightgear</a></b> (🥉8 ·  ⭐ 62 · 💤) - FlightGear open-source flight simulator [flightgear.org](https://www.flightgear.org). <code><a href="https://tldrlegal.com/search?q=gnu-gpl2">gnu-gpl2</a></code></summary>
 
 - [GitLab](https://gitlab.com/flightgear/flightgear) (🔀 40 · 📋 420 - 43% open · ⏱️ 04.03.2015):
 
@@ -415,7 +415,7 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/ctu-mrs/flight_forge
 	```
 </details>
-<details><summary><b><a href="https://optim.aero/px4silsimulink.html">optimAero PX4</a></b> (🥉8 ·  ⭐ 15 · 📈) - PX4 Simulink Software-In-Loop Simulation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://optim.aero/px4silsimulink.html">optimAero PX4</a></b> (🥉8 ·  ⭐ 16) - PX4 Simulink Software-In-Loop Simulation. <code><a href="http://bit.ly/2M0xdwT">GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/optimAero/optimAeroPX4SIL) (🔀 8 · 📋 19 - 21% open · ⏱️ 05.12.2025):
 
@@ -423,14 +423,14 @@ _Simulator frameworks made especially for aerial robotics_
 	git clone https://github.com/optimAero/optimAeroPX4SIL
 	```
 </details>
-<details><summary><b><a href="https://github.com/GongXudong/fly-craft">Fly Craft</a></b> (🥉6 ·  ⭐ 96) - An efficient goal-conditioned reinforcement learning environment for fixed-wing UAV velocity vector control based on.. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/GongXudong/fly-craft">Fly Craft</a></b> (🥉6 ·  ⭐ 97) - An efficient goal-conditioned reinforcement learning environment for fixed-wing UAV velocity vector control based on.. <code>Unlicensed</code></summary>
 
 - [GitHub](https://github.com/GongXudong/fly-craft) (🔀 2 · 📦 4 · ⏱️ 25.11.2025):
 
 	```
 	git clone https://github.com/GongXudong/fly-craft
 	```
-- [PyPi](https://pypi.org/project/flycraft) (📥 110 / month):
+- [PyPi](https://pypi.org/project/flycraft) (📥 120 / month):
 	```
 	pip install flycraft
 	```
@@ -491,7 +491,7 @@ _Simulator frameworks made especially for aerial robotics_
 
 _Simulator frameworks made especially for maritime robotics_
 
-<details><summary><b><a href="https://github.com/osrf/vrx">Virtual RobotX</a></b> (🥇20 ·  ⭐ 590) - Virtual RobotX (VRX) resources. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/osrf/vrx">Virtual RobotX</a></b> (🥇20 ·  ⭐ 600) - Virtual RobotX (VRX) resources. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/osrf/vrx) (👨‍💻 37 · 🔀 240 · 📋 570 - 5% open · ⏱️ 26.11.2025):
 
@@ -509,13 +509,13 @@ _Simulator frameworks made especially for maritime robotics_
 </details>
 <details><summary><b><a href="https://github.com/open-airlab/UNav-Sim">UNav-Sim</a></b> (🥈14 ·  ⭐ 270) - Visually Realistic Underwater Robotics Simulator UNav-Sim. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/open-airlab/UNav-Sim) (👨‍💻 250 · 🔀 26 · 📋 17 - 23% open · ⏱️ 02.05.2025):
+- [GitHub](https://github.com/open-airlab/UNav-Sim) (👨‍💻 250 · 🔀 27 · 📋 17 - 23% open · ⏱️ 02.05.2025):
 
 	```
 	git clone https://github.com/open-airlab/UNav-Sim
 	```
 </details>
-<details><summary><b><a href="https://github.com/moos-ivp/moos-ivp">Moos-ivp</a></b> (🥈14 ·  ⭐ 37) - MOOS-IvP is a set of modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles. <code><a href="https://tldrlegal.com/search?q=GPLv3%20LGPLv3%20and%20Commercial">GPLv3 LGPLv3 and Commercial</a></code></summary>
+<details><summary><b><a href="https://github.com/moos-ivp/moos-ivp">Moos-ivp</a></b> (🥈14 ·  ⭐ 38) - MOOS-IvP is a set of modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles. <code><a href="https://tldrlegal.com/search?q=GPLv3%20LGPLv3%20and%20Commercial">GPLv3 LGPLv3 and Commercial</a></code></summary>
 
 - [GitHub](https://github.com/moos-ivp/moos-ivp) (👨‍💻 18 · 🔀 26 · 📋 13 - 46% open · ⏱️ 07.12.2025):
 
@@ -525,7 +525,7 @@ _Simulator frameworks made especially for maritime robotics_
 </details>
 <details><summary><b><a href="https://github.com/smarc-project/smarc2">SMaRC 2</a></b> (🥈14 ·  ⭐ 15) - smarc ros2-humble main repository. <code><a href="https://tldrlegal.com/search?q=BSD-3-Clause%20and%20MIT">BSD-3-Clause and MIT</a></code></summary>
 
-- [GitHub](https://github.com/smarc-project/smarc2) (👨‍💻 24 · 🔀 28 · 📥 45 · 📋 29 - 13% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/smarc-project/smarc2) (👨‍💻 24 · 🔀 28 · 📥 45 · 📋 30 - 16% open · ⏱️ 05.12.2025):
 
 	```
 	git clone https://github.com/smarc-project/smarc2
@@ -539,9 +539,9 @@ _Simulator frameworks made especially for maritime robotics_
 	git clone https://github.com/patrykcieslak/stonefish
 	```
 </details>
-<details><summary><b><a href="https://github.com/umfieldrobotics/OceanSim">Ocean Sim</a></b> (🥉11 ·  ⭐ 350) - [IROS 2025] OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/umfieldrobotics/OceanSim">Ocean Sim</a></b> (🥉12 ·  ⭐ 360 · 📈) - [IROS 2025] OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/umfieldrobotics/OceanSim) (👨‍💻 6 · 🔀 44 · 📋 24 - 29% open · ⏱️ 07.09.2025):
+- [GitHub](https://github.com/umfieldrobotics/OceanSim) (👨‍💻 6 · 🔀 45 · 📋 24 - 8% open · ⏱️ 07.09.2025):
 
 	```
 	git clone https://github.com/umfieldrobotics/OceanSim
@@ -555,7 +555,7 @@ _Simulator frameworks made especially for maritime robotics_
 	git clone https://github.com/byu-holoocean/HoloOcean
 	```
 </details>
-<details><summary><b><a href="https://github.com/MARUSimulator/marus-core">MARUSimulator</a></b> (🥉7 ·  ⭐ 23) - Marine simulator core assets for Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/MARUSimulator/marus-core">MARUSimulator</a></b> (🥉7 ·  ⭐ 24) - Marine simulator core assets for Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/MARUSimulator/marus-core) (👨‍💻 8 · 🔀 5 · 📋 5 - 40% open · ⏱️ 07.02.2025):
 
@@ -569,8 +569,8 @@ _Simulator frameworks made especially for maritime robotics_
 - <b><a href="https://www.irs.uji.es/uwsim/wiki/index.php?title=Installing_UWSim">UWSim</a></b> (🥉12 ·  ⭐ 110 · 💤) - UWSim-NET, the Underwater Simulator. <code><a href="https://tldrlegal.com/search?q=GNU-gpl">GNU-gpl</a></code>
 - <b><a href="https://github.com/uji-ros-pkg/underwater_simulation">UWSim-NET</a></b> (🥉11 ·  ⭐ 110 · 💤) - UWSim-NET, the Underwater Simulator. <code>Unlicensed</code>
 - <b><a href="https://github.com/osrf/lrauv">LRAUV</a></b> (🥉10 ·  ⭐ 72) - Packages for simulating the Tethys-class Long-Range AUV (LRAUV) from the Monterey Bay Aquarium Research Institute.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/freefloating-gazebo/freefloating_gazebo">Freefloating</a></b> (🥉9 ·  ⭐ 75 · 💤) - A Gazebo plugin to simulate underwater vehicles and visualize with UWsim. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/srmauvsoftware/URSim">URSim</a></b> (🥉8 ·  ⭐ 66 · 💤) - Simulator for Unmanned Underwater Vehicles using ROS and Unity3D. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/freefloating-gazebo/freefloating_gazebo">Freefloating</a></b> (🥉9 ·  ⭐ 76 · 💤) - A Gazebo plugin to simulate underwater vehicles and visualize with UWsim. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/srmauvsoftware/URSim">URSim</a></b> (🥉8 ·  ⭐ 67 · 💤) - Simulator for Unmanned Underwater Vehicles using ROS and Unity3D. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/iti-luebeck/MARS">MARS</a></b> (🥉7 ·  ⭐ 12 · 💤) - MArine Robotics Simulator - An online Hardware-in-the-Loop simulation environment for multiple AUVs and ASVs. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://bitbucket.org/whoidsl/ds_sim/src/master/">ds sim</a></b> -  <code>Unlicensed</code>
 - <b><a href="https://sourceforge.net/projects/usarsim/">USARSim</a></b> -  <code>Unlicensed</code>
@@ -594,13 +594,13 @@ _Simulator frameworks made especially for automotive_
 </details>
 <details><summary><b><a href="https://github.com/esmini/esmini">ESMINI</a></b> (🥈25 ·  ⭐ 890) - a basic OpenSCENARIO player. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/esmini/esmini) (👨‍💻 89 · 🔀 240 · 📥 31K · 📋 600 - 30% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/esmini/esmini) (👨‍💻 89 · 🔀 240 · 📥 32K · 📋 600 - 30% open · ⏱️ 12.12.2025):
 
 	```
 	git clone https://github.com/esmini/esmini
 	```
 </details>
-<details><summary><b><a href="https://github.com/tier4/AWSIM">AWSim</a></b> (🥉24 ·  ⭐ 650) - Open sourced digital twin simulator for Autoware. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/tier4/AWSIM">AWSim</a></b> (🥉24 ·  ⭐ 660) - Open sourced digital twin simulator for Autoware. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/tier4/AWSIM) (👨‍💻 33 · 🔀 100 · 📥 72K · 📋 120 - 15% open · ⏱️ 06.12.2025):
 
@@ -623,7 +623,7 @@ _Simulator frameworks made especially for space robotics_
 
 <details><summary><b><a href="https://github.com/AVSLab/basilisk">Basilisk</a></b> (🥇23 ·  ⭐ 260) - Astrodynamics simulation framework. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/AVSLab/basilisk) (👨‍💻 120 · 🔀 91 · 📋 440 - 21% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/AVSLab/basilisk) (👨‍💻 120 · 🔀 92 · 📋 440 - 21% open · ⏱️ 11.12.2025):
 
 	```
 	git clone https://github.com/AVSLab/basilisk
@@ -637,20 +637,20 @@ _Simulator frameworks made especially for space robotics_
 	git clone https://github.com/NASA/astrobee
 	```
 </details>
-<details><summary><b><a href="https://avslab.github.io/bsk_rl/">BSK-RL</a></b> (🥈16 ·  ⭐ 88 · 📈) - RL environments and tools for spacecraft autonomy research, built on Basilisk. Developed by the AVS Lab. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/AVSLab/bsk_rl) (👨‍💻 8 · 🔀 11 · 📋 160 - 15% open · ⏱️ 03.12.2025):
-
-	```
-	git clone https://github.com/AVSLab/bsk_rl
-	```
-</details>
-<details><summary><b><a href="https://github.com/OmniLRS/OmniLRS/wiki">OmiLRS</a></b> (🥉15 ·  ⭐ 150 · 📈) - Omniverse Lunar Robotics Simulator. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/OmniLRS/OmniLRS/wiki">OmiLRS</a></b> (🥈15 ·  ⭐ 150) - Omniverse Lunar Robotics Simulator. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/OmniLRS/OmniLRS) (👨‍💻 12 · 🔀 28 · 📋 29 - 31% open · ⏱️ 03.12.2025):
 
 	```
 	git clone https://github.com/OmniLRS/OmniLRS
+	```
+</details>
+<details><summary><b><a href="https://avslab.github.io/bsk_rl/">BSK-RL</a></b> (🥈15 ·  ⭐ 90 · 📉) - RL environments and tools for spacecraft autonomy research, built on Basilisk. Developed by the AVS Lab. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/AVSLab/bsk_rl) (👨‍💻 8 · 🔀 11 · 📋 160 - 15% open · ⏱️ 03.12.2025):
+
+	```
+	git clone https://github.com/AVSLab/bsk_rl
 	```
 </details>
 <details><summary><b><a href="https://github.com/dimikout3/MarsExplorer">Mars Explorer</a></b> (🥉6 ·  ⭐ 77 · 💤) -  <code><a href="https://tldrlegal.com/search?q=no%20license">no license</a></code></summary>
@@ -663,7 +663,7 @@ _Simulator frameworks made especially for space robotics_
 </details>
 <details><summary><b><a href="https://github.com/PUTvision/LunarSim">LunarSim</a></b> (🥉5 ·  ⭐ 56 · 💤) - LunarSim: Lunar Rover Simulator Focused on High Visual Fidelity and ROS 2 Integration for Advanced Computer Vision.. <code><a href="https://tldrlegal.com/search?q=Missing">Missing</a></code></summary>
 
-- [GitHub](https://github.com/PUTvision/LunarSim) (👨‍💻 2 · 🔀 8 · 📥 560 · 📋 6 - 66% open · ⏱️ 07.12.2023):
+- [GitHub](https://github.com/PUTvision/LunarSim) (👨‍💻 2 · 🔀 8 · 📥 570 · 📋 6 - 66% open · ⏱️ 07.12.2023):
 
 	```
 	git clone https://github.com/PUTvision/LunarSim
@@ -679,27 +679,27 @@ _Simulations made for training for AI-agents like reinforcement learning_
 
 <details><summary><b><a href="https://gymnasium.farama.org/">Gymnasium</a></b> (🥇40 ·  ⭐ 11K) - An API standard for single-agent reinforcement learning environments, with popular reference environments and related.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Farama-Foundation/Gymnasium) (👨‍💻 560 · 🔀 1.2K · 📦 21K · 📋 560 - 13% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/Farama-Foundation/Gymnasium) (👨‍💻 560 · 🔀 1.2K · 📦 21K · 📋 560 - 13% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/Farama-Foundation/Gymnasium
 	```
-- [PyPi](https://pypi.org/project/gymnasium) (📥 5.4M / month):
+- [PyPi](https://pypi.org/project/gymnasium) (📥 5.6M / month):
 	```
 	pip install gymnasium
 	```
 </details>
 <details><summary><b><a href="https://github.com/Genesis-Embodied-AI/Genesis">Genesis</a></b> (🥇30 ·  ⭐ 28K) - A generative world for general-purpose robotics & embodied AI learning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Genesis-Embodied-AI/Genesis) (👨‍💻 74 · 🔀 2.5K · 📦 100 · 📋 910 - 12% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/Genesis-Embodied-AI/Genesis) (👨‍💻 75 · 🔀 2.5K · 📦 100 · 📋 920 - 12% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/Genesis-Embodied-AI/Genesis
 	```
 </details>
-<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇27 ·  ⭐ 5.7K) - Unified framework for robot learning built on NVIDIA Isaac Sim. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥇27 ·  ⭐ 5.8K) - Unified framework for robot learning built on NVIDIA Isaac Sim. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 180 · 🔀 2.7K · 📋 2.1K - 13% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/isaac-sim/IsaacLab) (👨‍💻 180 · 🔀 2.7K · 📋 2.1K - 13% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/isaac-sim/IsaacLab
@@ -713,14 +713,14 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	git clone https://github.com/allenai/ai2thor
 	```
 </details>
-<details><summary><b><a href="https://robotics.farama.org/">Gymnasium Robotics</a></b> (🥈25 ·  ⭐ 810) - A collection of robotics simulation environments for reinforcement learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://robotics.farama.org/">Gymnasium Robotics</a></b> (🥈25 ·  ⭐ 820) - A collection of robotics simulation environments for reinforcement learning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Farama-Foundation/Gymnasium-Robotics) (👨‍💻 34 · 🔀 120 · 📦 320 · 📋 83 - 20% open · ⏱️ 24.07.2025):
 
 	```
 	git clone https://github.com/Farama-Foundation/Gymnasium-Robotics
 	```
-- [PyPi](https://pypi.org/project/gymnasium-robotics) (📥 24K / month):
+- [PyPi](https://pypi.org/project/gymnasium-robotics) (📥 19K / month):
 	```
 	pip install gymnasium-robotics
 	```
@@ -737,18 +737,18 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	pip install metaworld
 	```
 </details>
-<details><summary><b><a href="https://jaxsim.readthedocs.io">jaxsim</a></b> (🥈22 ·  ⭐ 160) - A differentiable physics engine and multibody dynamics library for control and robot learning. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://jaxsim.readthedocs.io">jaxsim</a></b> (🥈22 ·  ⭐ 170) - A differentiable physics engine and multibody dynamics library for control and robot learning. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/ami-iit/jaxsim) (👨‍💻 14 · 🔀 18 · 📦 3 · 📋 78 - 16% open · ⏱️ 10.12.2025):
 
 	```
 	git clone https://github.com/ami-iit/jaxsim
 	```
-- [PyPi](https://pypi.org/project/jaxsim) (📥 2.1K / month):
+- [PyPi](https://pypi.org/project/jaxsim) (📥 2K / month):
 	```
 	pip install jaxsim
 	```
-- [Conda](https://anaconda.org/conda-forge/jaxsim) (📥 13K · ⏱️ 19.11.2025):
+- [Conda](https://anaconda.org/conda-forge/jaxsim) (📥 13K · ⏱️ 15.12.2025):
 	```
 	conda install -c conda-forge jaxsim
 	```
@@ -769,22 +769,22 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	git clone https://github.com/facebookresearch/habitat-sim
 	```
 </details>
-<details><summary><b><a href="https://maniskill.ai/">ManiSkill</a></b> (🥈20 ·  ⭐ 2.3K · 📈) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://maniskill.ai/">ManiSkill</a></b> (🥈20 ·  ⭐ 2.4K) - SAPIEN Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark, led by Hillbot,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/haosulab/ManiSkill) (👨‍💻 62 · 🔀 390 · 📋 740 - 13% open · ⏱️ 07.12.2025):
+- [GitHub](https://github.com/haosulab/ManiSkill) (👨‍💻 62 · 🔀 390 · 📋 740 - 14% open · ⏱️ 11.12.2025):
 
 	```
 	git clone https://github.com/haosulab/ManiSkill
 	```
 </details>
-<details><summary><b><a href="https://github.com/mujocolab/mjlab">mjlab</a></b> (🥈20 ·  ⭐ 1.1K · 🐣) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/mujocolab/mjlab">mjlab</a></b> (🥈20 ·  ⭐ 1.2K · 🐣) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mujocolab/mjlab) (👨‍💻 19 · 🔀 130 · 📋 110 - 16% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/mujocolab/mjlab) (👨‍💻 20 · 🔀 140 · 📋 120 - 10% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/mujocolab/mjlab
 	```
-- [PyPi](https://pypi.org/project/mjlab) (📥 3.7K / month):
+- [PyPi](https://pypi.org/project/mjlab) (📥 3.8K / month):
 	```
 	pip install mjlab
 	```
@@ -796,14 +796,14 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	```
 	git clone https://github.com/duburcqa/jiminy
 	```
-- [PyPi](https://pypi.org/project/jiminy-py) (📥 2.3K / month):
+- [PyPi](https://pypi.org/project/jiminy-py) (📥 2.4K / month):
 	```
 	pip install jiminy-py
 	```
 </details>
-<details><summary><b><a href="https://roboverseorg.github.io/">RoboVerse</a></b> (🥈18 ·  ⭐ 1.5K) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://roboverseorg.github.io/">RoboVerse</a></b> (🥈18 ·  ⭐ 1.6K) - RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/RoboVerseOrg/RoboVerse) (👨‍💻 44 · 🔀 140 · 📥 5 · 📋 170 - 33% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/RoboVerseOrg/RoboVerse) (👨‍💻 44 · 🔀 140 · 📥 5 · 📋 170 - 33% open · ⏱️ 11.12.2025):
 
 	```
 	git clone https://github.com/RoboVerseOrg/RoboVerse
@@ -811,30 +811,18 @@ _Simulations made for training for AI-agents like reinforcement learning_
 </details>
 <details><summary><b><a href="https://metadriverse.github.io/metadrive-simulator/">MetaDrive</a></b> (🥈18 ·  ⭐ 1.1K) - MetaDrive: Lightweight driving simulator for everyone. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/metadriverse/metadrive) (🔀 160 · 📥 60K · 📋 400 - 21% open · ⏱️ 12.05.2025):
+- [GitHub](https://github.com/metadriverse/metadrive) (🔀 160 · 📥 61K · 📋 400 - 21% open · ⏱️ 12.05.2025):
 
 	```
 	git clone https://github.com/metadriverse/metadrive/
 	```
 </details>
-<details><summary><b><a href="https://sapien.ucsd.edu/">Sapien</a></b> (🥈18 ·  ⭐ 690) - SAPIEN Embodied AI Platform. <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://sapien.ucsd.edu/">Sapien</a></b> (🥈18 ·  ⭐ 700) - SAPIEN Embodied AI Platform. <code>Unlicensed</code></summary>
 
-- [GitHub](https://github.com/haosulab/SAPIEN) (👨‍💻 15 · 🔀 61 · 📥 710 · 📦 230 · 📋 220 - 31% open · ⏱️ 17.07.2025):
+- [GitHub](https://github.com/haosulab/SAPIEN) (👨‍💻 15 · 🔀 63 · 📥 500 · 📦 230 · 📋 220 - 31% open · ⏱️ 17.07.2025):
 
 	```
 	git clone https://github.com/haosulab/SAPIEN
-	```
-</details>
-<details><summary><b><a href="https://docs.kscale.dev/docs/ksim">K-Sim</a></b> (🥈18 ·  ⭐ 220) - RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/kscalelabs/ksim) (👨‍💻 9 · 🔀 32 · 📋 25 - 52% open · ⏱️ 29.10.2025):
-
-	```
-	git clone https://github.com/kscalelabs/ksim
-	```
-- [PyPi](https://pypi.org/project/ksim) (📥 210 / month):
-	```
-	pip install ksim
 	```
 </details>
 <details><summary><b><a href="https://github.com/BYU-PCCL/holodeck">Holodeck</a></b> (🥉17 ·  ⭐ 590 · 💤) - High Fidelity Simulator for Reinforcement Learning and Robotics Research. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -845,9 +833,21 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	git clone https://github.com/BYU-PCCL/holodeck
 	```
 </details>
+<details><summary><b><a href="https://docs.kscale.dev/docs/ksim">K-Sim</a></b> (🥉17 ·  ⭐ 220 · 📉) - RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/kscalelabs/ksim) (👨‍💻 9 · 🔀 32 · 📋 25 - 48% open · ⏱️ 29.10.2025):
+
+	```
+	git clone https://github.com/kscalelabs/ksim
+	```
+- [PyPi](https://pypi.org/project/ksim) (📥 150 / month):
+	```
+	pip install ksim
+	```
+</details>
 <details><summary><b><a href="https://playground.mujoco.org/">MuJoCo playground</a></b> (🥉16 ·  ⭐ 1.6K) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/google-deepmind/mujoco_playground) (🔀 240 · 📋 140 - 27% open · ⏱️ 25.11.2025):
+- [GitHub](https://github.com/google-deepmind/mujoco_playground) (🔀 240 · 📋 150 - 28% open · ⏱️ 25.11.2025):
 
 	```
 	git clone https://github.com/google-deepmind/mujoco_playground/
@@ -911,7 +911,7 @@ _Simulations made for training for AI-agents like reinforcement learning_
 </details>
 <details><summary><b><a href="https://github.com/axelbr/racecar_gym">racecar_gym</a></b> (🥉12 ·  ⭐ 220 · 💤) - A gym environment for a miniature racecar using the pybullet physics engine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/axelbr/racecar_gym) (🔀 33 · 📥 5.7K · ⏱️ 18.09.2023):
+- [GitHub](https://github.com/axelbr/racecar_gym) (🔀 34 · 📥 5.7K · ⏱️ 18.09.2023):
 
 	```
 	git clone https://github.com/axelbr/racecar_gym/
@@ -990,13 +990,13 @@ _Robotic simulators build for other domains like automotive or space robotics_
 </details>
 <details><summary><b><a href="https://github.com/Tinker-Twins/AutoDRIVE/tree/AutoDRIVE-Simulator">AutoDRIVE Simulator</a></b> (🥈13 ·  ⭐ 120) - An Integrated Cyber-Physical Ecosystem for Autonomous Driving Research and Education. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/Tinker-Twins/AutoDRIVE) (👨‍💻 3 · 🔀 30 · 📥 2.5K · ⏱️ 23.12.2024):
+- [GitHub](https://github.com/Tinker-Twins/AutoDRIVE) (👨‍💻 3 · 🔀 31 · 📥 2.5K · ⏱️ 23.12.2024):
 
 	```
 	git clone https://github.com/Tinker-Twins/AutoDRIVE
 	```
 </details>
-<details><summary><b><a href="https://github.com/PKU-MARL/DexterousHands">DexterousHands</a></b> (🥈12 ·  ⭐ 920) - This is a library that provides dual dexterous hand manipulation tasks through Isaac Gym. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/PKU-MARL/DexterousHands">DexterousHands</a></b> (🥈12 ·  ⭐ 930) - This is a library that provides dual dexterous hand manipulation tasks through Isaac Gym. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/PKU-MARL/DexterousHands) (👨‍💻 9 · 🔀 110 · 📦 5 · 📋 48 - 75% open · ⏱️ 18.02.2025):
 
@@ -1012,7 +1012,7 @@ _Robotic simulators build for other domains like automotive or space robotics_
 	git clone https://github.com/graspit-simulator/graspit
 	```
 </details>
-<details><summary><b><a href="https://github.com/hello-robot/stretch_mujoco">Strech MuJoCo</a></b> (🥈11 ·  ⭐ 51) - This library provides a simulation stack for Stretch, built on MuJoCo. <code><a href="https://tldrlegal.com/search?q=BSD-3-Clause-Clear">BSD-3-Clause-Clear</a></code></summary>
+<details><summary><b><a href="https://github.com/hello-robot/stretch_mujoco">Strech MuJoCo</a></b> (🥈11 ·  ⭐ 52) - This library provides a simulation stack for Stretch, built on MuJoCo. <code><a href="https://tldrlegal.com/search?q=BSD-3-Clause-Clear">BSD-3-Clause-Clear</a></code></summary>
 
 - [GitHub](https://github.com/hello-robot/stretch_mujoco) (👨‍💻 7 · 🔀 23 · 📋 49 - 36% open · ⏱️ 03.12.2025):
 
@@ -1027,7 +1027,7 @@ _Robotic simulators build for other domains like automotive or space robotics_
 	```
 	git clone https://github.com/skim0119/gym-softrobot/
 	```
-- [PyPi](https://pypi.org/project/gym-softrobot) (📥 34 / month):
+- [PyPi](https://pypi.org/project/gym-softrobot) (📥 42 / month):
 	```
 	pip install gym-softrobot
 	```
@@ -1061,23 +1061,23 @@ _3D engines made for games but can be interfaced with robotic frameworks_
 
 <details><summary><b><a href="https://godotengine.org/">Godot</a></b> (🥇45 ·  ⭐ 100K) - Godot Engine Multi-platform 2D and 3D game engine. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/godotengine/godot) (👨‍💻 3.6K · 🔀 23K · 📥 14M · 📦 21 · 📋 60K - 21% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/godotengine/godot) (👨‍💻 3.6K · 🔀 23K · 📥 14M · 📦 21 · 📋 60K - 21% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/godotengine/godot
 	```
 </details>
-<details><summary><b><a href="https://bevy.org/">Bevy</a></b> (🥈39 ·  ⭐ 43K) - A refreshingly simple data-driven game engine built in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://bevy.org/">Bevy</a></b> (🥈39 ·  ⭐ 44K) - A refreshingly simple data-driven game engine built in Rust. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bevyengine/bevy) (👨‍💻 1.4K · 🔀 4.2K · 📦 25K · 📋 7.7K - 33% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/bevyengine/bevy) (👨‍💻 1.4K · 🔀 4.2K · 📦 25K · 📋 7.7K - 33% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/bevyengine/bevy
 	```
 </details>
-<details><summary><b><a href="https://o3de.org/">O3DE</a></b> (🥈29 ·  ⭐ 8.8K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">MIT and Apache-2</a></code></summary>
+<details><summary><b><a href="https://o3de.org/">O3DE</a></b> (🥈29 ·  ⭐ 8.9K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">MIT and Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/o3de/o3de) (👨‍💻 320 · 🔀 2.4K · 📥 11K · 📋 7.9K - 42% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 320 · 🔀 2.4K · 📥 11K · 📋 7.9K - 42% open · ⏱️ 11.12.2025):
 
 	```
 	git clone https://github.com/o3de/o3de
@@ -1102,20 +1102,20 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 
 <details><summary><b><a href="https://drake.mit.edu/">Drake</a></b> (🥇32 ·  ⭐ 3.8K) - Model-based design and verification for robotics. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/RobotLocomotion/drake) (👨‍💻 270 · 🔀 1.3K · 📥 93K · 📋 6.6K - 10% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/RobotLocomotion/drake) (👨‍💻 270 · 🔀 1.3K · 📥 93K · 📋 6.6K - 10% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/RobotLocomotion/drake
 	```
 </details>
-<details><summary><b><a href="http://stack-of-tasks.github.io/pinocchio/">Pinocchio</a></b> (🥇30 ·  ⭐ 2.9K) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="http://stack-of-tasks.github.io/pinocchio/">Pinocchio</a></b> (🥇30 ·  ⭐ 3K) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/stack-of-tasks/pinocchio) (👨‍💻 100 · 🔀 450 · 📥 81K · 📋 1.2K - 7% open · ⏱️ 08.12.2025):
+- [GitHub](https://github.com/stack-of-tasks/pinocchio) (👨‍💻 100 · 🔀 450 · 📥 82K · 📋 1.2K - 7% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/stack-of-tasks/pinocchio
 	```
-- [PyPi](https://pypi.org/project/pin) (📥 380K / month):
+- [PyPi](https://pypi.org/project/pin) (📥 330K / month):
 	```
 	pip install pin
 	```
@@ -1130,7 +1130,7 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://projectchrono.org">Project CHRONO</a></b> (🥇27 ·  ⭐ 2.6K) - High-performance C++ library for multiphysics and multibody dynamics simulations. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/projectchrono/chrono) (👨‍💻 140 · 🔀 530 · 📥 9K · 📋 340 - 19% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/projectchrono/chrono) (👨‍💻 140 · 🔀 530 · 📥 9K · 📋 340 - 18% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/projectchrono/chrono
@@ -1146,7 +1146,7 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://github.com/google/brax">BRAX</a></b> (🥈26 ·  ⭐ 3K) - Massively parallel rigidbody physics simulation on accelerator hardware. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/google/brax) (👨‍💻 49 · 🔀 310 · 📦 550 · 📋 410 - 22% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/google/brax) (👨‍💻 49 · 🔀 310 · 📦 550 · 📋 410 - 21% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/google/brax
@@ -1154,7 +1154,7 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="http://dartsim.github.io/">DART</a></b> (🥈25 ·  ⭐ 1K) - DART: Dynamic Animation and Robotics Toolkit. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/dartsim/dart) (👨‍💻 74 · 🔀 280 · 📦 9 · 📋 670 - 4% open · ⏱️ 06.12.2025):
+- [GitHub](https://github.com/dartsim/dart) (👨‍💻 74 · 🔀 280 · 📦 9 · 📋 670 - 2% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/dartsim/dart
@@ -1176,15 +1176,15 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 	git clone https://github.com/simbody/simbody
 	```
 </details>
-<details><summary><b><a href="https://github.com/google-deepmind/mujoco_warp">MuJoCo Wrap</a></b> (🥉19 ·  ⭐ 940) - GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/google-deepmind/mujoco_warp">MuJoCo Wrap</a></b> (🥉19 ·  ⭐ 950) - GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/google-deepmind/mujoco_warp) (👨‍💻 29 · 🔀 97 · 📋 240 - 18% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/google-deepmind/mujoco_warp) (👨‍💻 30 · 🔀 100 · 📋 240 - 18% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/google-deepmind/mujoco_warp
 	```
 </details>
-<details><summary><b><a href="https://nvidia-omniverse.github.io/PhysX/">PhysX 5</a></b> (🥉17 ·  ⭐ 4.3K) - NVIDIA PhysX SDK. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://nvidia-omniverse.github.io/PhysX/">PhysX 5</a></b> (🥉16 ·  ⭐ 4.3K · 📉) - NVIDIA PhysX SDK. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/NVIDIA-Omniverse/PhysX) (👨‍💻 8 · 🔀 530 · 📋 190 - 31% open · ⏱️ 21.10.2025):
 
@@ -1194,7 +1194,7 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://raisim.com/">RaiSim</a></b> (🥉16 ·  ⭐ 400) - Visit www.raisim.com. <code><a href="https://tldrlegal.com/search?q=Proprietary%20Software%20License">Proprietary Software License</a></code></summary>
 
-- [GitHub](https://github.com/raisimTech/raisimLib) (👨‍💻 17 · 🔀 100 · 📥 240 · 📋 400 - 14% open · ⏱️ 27.10.2025):
+- [GitHub](https://github.com/raisimTech/raisimLib) (👨‍💻 17 · 🔀 100 · 📥 240 · 📋 400 - 14% open · ⏱️ 14.12.2025):
 
 	```
 	git clone https://github.com/raisimTech/raisimlib
@@ -1202,7 +1202,7 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://gazebosim.org/">TPE (part of gz-physics)</a></b> (🥉16 ·  ⭐ 74) - Abstract physics interface designed to support simulation and rapid development of robot applications. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/gazebosim/gz-physics) (👨‍💻 50 · 🔀 53 · 📋 160 - 53% open · ⏱️ 21.11.2025):
+- [GitHub](https://github.com/gazebosim/gz-physics) (👨‍💻 50 · 🔀 54 · 📋 160 - 53% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/gazebosim/gz-physics
@@ -1224,7 +1224,7 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 	git clone https://github.com/thomasmarsh/ODE
 	```
 </details>
-<details><summary><b><a href="https://github.com/NVIDIAGameWorks/FleX">FleX</a></b> (🥉9 ·  ⭐ 770 · 💤) -  <code><a href="https://tldrlegal.com/search?q=Nvidia%20Software%20License">Nvidia Software License</a></code></summary>
+<details><summary><b><a href="https://github.com/NVIDIAGameWorks/FleX">FleX</a></b> (🥉9 ·  ⭐ 780 · 💤) -  <code><a href="https://tldrlegal.com/search?q=Nvidia%20Software%20License">Nvidia Software License</a></code></summary>
 
 - [GitHub](https://github.com/NVIDIAGameWorks/FleX) (👨‍💻 2 · 🔀 110 · 📋 130 - 68% open · ⏱️ 15.04.2021):
 
@@ -1268,9 +1268,9 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 
 _Rendering engines for robotic simulators_
 
-<details><summary><b><a href="https://docs.o3de.org/docs/atom-guide/">Atom</a></b> (🥇29 ·  ⭐ 8.8K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=Apache-2.0%20and%20MIT">Apache-2.0 and MIT</a></code></summary>
+<details><summary><b><a href="https://docs.o3de.org/docs/atom-guide/">Atom</a></b> (🥇29 ·  ⭐ 8.9K) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators.. <code><a href="https://tldrlegal.com/search?q=Apache-2.0%20and%20MIT">Apache-2.0 and MIT</a></code></summary>
 
-- [GitHub](https://github.com/o3de/o3de) (👨‍💻 320 · 🔀 2.4K · 📥 11K · 📋 7.9K - 42% open · ⏱️ 05.12.2025):
+- [GitHub](https://github.com/o3de/o3de) (👨‍💻 320 · 🔀 2.4K · 📥 11K · 📋 7.9K - 42% open · ⏱️ 11.12.2025):
 
 	```
 	git clone https://github.com/o3de/o3de
@@ -1278,15 +1278,15 @@ _Rendering engines for robotic simulators_
 </details>
 <details><summary><b><a href="https://www.ogre3d.org/">OGRE</a></b> (🥈28 ·  ⭐ 4.4K) - scene-oriented, flexible 3D engine (C++, Python, C#, Java). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/OGRECave/ogre) (👨‍💻 340 · 🔀 1K · 📥 3.7K · 📋 930 - 15% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/OGRECave/ogre) (👨‍💻 340 · 🔀 1K · 📥 3.7K · 📋 930 - 15% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/OGRECave/ogre
 	```
 </details>
-<details><summary><b><a href="https://cyberbotics.com/">Wren (Webots)</a></b> (🥈26 ·  ⭐ 3.9K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://cyberbotics.com/">Wren (Webots)</a></b> (🥈26 ·  ⭐ 4K) - Webots Robot Simulator. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.8K · 📥 1.8M · 📋 1.9K - 12% open · ⏱️ 27.11.2025):
+- [GitHub](https://github.com/cyberbotics/webots) (👨‍💻 140 · 🔀 1.9K · 📥 1.8M · 📋 1.9K - 12% open · ⏱️ 27.11.2025):
 
 	```
 	git clone https://github.com/cyberbotics/webots
@@ -1306,7 +1306,7 @@ _Rendering engines for robotic simulators_
 </details>
 <details><summary><b><a href="https://www.khronos.org/">Vulkan</a></b> (🥉24 ·  ⭐ 3.6K) - Open-Source Vulkan C++ API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/KhronosGroup/Vulkan-Hpp) (👨‍💻 98 · 🔀 340 · 📋 670 - 2% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/KhronosGroup/Vulkan-Hpp) (👨‍💻 98 · 🔀 340 · 📋 670 - 2% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/KhronosGroup/Vulkan-Hpp
@@ -1314,7 +1314,7 @@ _Rendering engines for robotic simulators_
 </details>
 <details><summary><b><a href="https://www.khronos.org/">OpenGL</a></b> (🥉24 ·  ⭐ 3.6K) - Open-Source Vulkan C++ API. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/KhronosGroup/Vulkan-Hpp) (👨‍💻 98 · 🔀 340 · 📋 670 - 2% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/KhronosGroup/Vulkan-Hpp) (👨‍💻 98 · 🔀 340 · 📋 670 - 2% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/KhronosGroup/Vulkan-Hpp
@@ -1336,12 +1336,12 @@ _Rendering engines for robotic simulators_
 
 <details><summary><b><a href="https://highway-env.farama.org/">HighwayEnv</a></b> (🥇25 ·  ⭐ 3.1K) - A minimalist environment for decision-making in autonomous driving. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Farama-Foundation/HighwayEnv) (👨‍💻 46 · 🔀 790 · 📋 480 - 15% open · ⏱️ 18.10.2025):
+- [GitHub](https://github.com/Farama-Foundation/HighwayEnv) (👨‍💻 46 · 🔀 800 · 📋 480 - 15% open · ⏱️ 18.10.2025):
 
 	```
 	git clone https://github.com/Farama-Foundation/HighwayEnv
 	```
-- [PyPi](https://pypi.org/project/highway-env) (📥 16K / month):
+- [PyPi](https://pypi.org/project/highway-env) (📥 14K / month):
 	```
 	pip install highway-env
 	```
