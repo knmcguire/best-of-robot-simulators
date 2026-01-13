@@ -828,3 +828,7 @@ projects:
      github_id: ctu-mrs/mrs_uav_flightforge_simulator
      category: aerial
      license: GLP-2.0  
+   - name:  AutonomousVehicleControlBeginnersGuide
+     github_id: ShisatoYano/AutonomousVehicleControlBeginnersGuide
+     category: flatsim
+     license: MIT
