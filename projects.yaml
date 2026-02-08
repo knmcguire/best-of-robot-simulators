@@ -353,19 +353,19 @@ projects:
      homepage: https://byu-holoocean.github.io/holoocean-docs/
      description: A UE5 based simulator for marine perception and autonomy, with multi-agent communications and many common underwater sensors.
      license: EULA and MIT
-     star_count: 70 #as of 9/29/2025
+     star_count: 98 #as of 2/5/2026
      docs_url: https://byu-holoocean.github.io/holoocean-docs/
-     release_count: 4
-     latest_stable_release_number: 2.1.0
-     latest_stable_release_published_at: 2025-09-29
-     update_at: 2025-09-29
-     last_commit_pushed_at: 2025-09-29
+     release_count: 8
+     latest_stable_release_number: 2.3.0
+     latest_stable_release_published_at: 2026-02-05
+     update_at: 2026-02-05
+     last_commit_pushed_at: 2026-02-05
      created_at: 2020-10-04
      contributor_count: 11
-     fork_count: 31
-     commit_count: 18 #in release branch
-     open_issue_count: 22
-     closed_issue_count: 145
+     fork_count: 47
+     commit_count: 200 #in release branch
+     open_issue_count: 20
+     closed_issue_count: 163
      license: MIT and Unreal Engine EULA
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
