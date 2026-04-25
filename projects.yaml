@@ -832,3 +832,8 @@ projects:
      github_id: ShisatoYano/AutonomousVehicleControlBeginnersGuide
      category: flatsim
      license: MIT
+   - name: Vehicle Dynamics Sim
+     github_id: abaeyens/vehicle_dynamics_sim
+     category: flatsim
+     description: Simulates a variety of easily configurable bicycle and Ackermann vehicles with dynamic effects such as acceleration limits. ROS 2 native and interfaces well with Nav2.
+     license: MIT
