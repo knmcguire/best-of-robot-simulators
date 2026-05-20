@@ -841,3 +841,30 @@ projects:
      homepage: https://prototwin.com/
      category: robotics
      license: proprietary license
+   - name:  pysimverse
+     github_id: cvzone/pysimverse
+     category: aerial
+     license: MIT
+   - name:  DAVE for ROS 2
+     github_id: OES-Lab/dave
+     homepage: http://dave-ros2.notion.site
+     category: maritime
+     license: Apache-2
+   - name:  Gears
+     github_id: QuirkyCort/gears
+     homepage: https://gears.aposteriori.com.sg/
+     category: robotics
+     license: GPLv3
+   - name:  Unreal Robotics Lab
+     github_id: URLab-Sim/UnrealRoboticsLab
+     homepage: https://urlab-sim.github.io/UnrealRoboticsLab/
+     category: robotics
+     license: Apache-2
+   - name:  Rbot
+     github_id: rlxai/rbot
+     category: robotics
+     license: Apache-2
+   - name:  multipanda_ros2 
+     github_id: tenfoldpaper/multipanda_ros2
+     category: domain
+     license: Apache-2

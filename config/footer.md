@@ -62,6 +62,14 @@ Those that contributed to this list, proposed updates or have suggested new proj
 * Jennifer Buehler (@JenniferBuehler)
 * @MiaoDX
 * Louis Le Lay (@louislelay)
+* Matej Kováč (@multicast)
+* Jon Skerlj (@jonskerlj)
+* @AccessViolationEnjoyer
+* Arne Baeyens (@abaeyens)
+* Shisato Yano (@ShisatoYano)
+* Sarahi Ortega (@arahiod22)
+* David Čapek (@DavidCapek)
+* @BlakePR
 
 ### How to Contribute
 
