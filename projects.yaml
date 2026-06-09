@@ -423,6 +423,10 @@ projects:
      github_id: allenai/procthor
      category: ml
      homepage: https://procthor.allenai.org/
+   - name: UnrealZoo
+     github_id: UnrealZoo/unrealzoo-gym
+     category: ml
+     homepage: https://unrealzoo.site/
    - name: Deepdrive
      github_id: deepdrive/deepdrive
      category: ml
