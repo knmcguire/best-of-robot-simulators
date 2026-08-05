@@ -71,7 +71,7 @@ _Generic simulators, tools or SDKs made for robotics_
 
 <details><summary><b><a href="http://robwork.dk/">Robwork</a></b> (🥇8 ·  ⭐ 33 · 💤) - RobWork is a collection of C++ libraries for simulation and control of robot systems, see http://robwork.dk To get.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitLab](https://gitlab.com/sdurobotics/RobWork) (🔀 39 · 📋 110 - 15% open · ⏱️ 07.04.2016):
+- [GitLab](https://gitlab.com/sdurobotics/RobWork) (🔀 38 · 📋 110 - 15% open · ⏱️ 07.04.2016):
 
 	```
 	git clone https://gitlab.com/sdurobotics/RobWork
@@ -85,7 +85,7 @@ _Generic simulators, tools or SDKs made for robotics_
 	git clone https://gitlab.com/robocup-sim/SimSpark
 	```
 </details>
-<details><summary><b><a href="https://mujoco.org/">mujoco</a></b> (🥇7) -  <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://mujoco.org/">mujoco</a></b> (🥇7 · 📉) -  <code>Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 130 · 📦 5.7K):
 
@@ -174,7 +174,7 @@ _Generic simulators, tools or SDKs made for robotics_
 - _No project information available._</details>
 <details><summary><b><a href="https://newton-physics.github.io/newton/">Newton (Physics)</a></b> (🥉1) -  <code>Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 85):
+- [GitHub]() (👨‍💻 83):
 
 	```
 	git clone https://github.com/newton-physics/newton
@@ -225,7 +225,7 @@ _Robotic simulators that only work in a 2D environment, for instance navigation_
 	```
 	git clone https://github.com/sea-bass/pyrobosim
 	```
-- [PyPi](https://pypi.org/project/pyrobosim) (📥 500 / month):
+- [PyPi](https://pypi.org/project/pyrobosim) (📥 460 / month):
 	```
 	pip install pyrobosim
 	```
@@ -248,7 +248,7 @@ _Simulator frameworks made especially for aerial robotics_
 
 <details><summary><b><a href="https://www.flightgear.org/">Flightgear</a></b> (🥇8 ·  ⭐ 74 · 💤) - FlightGear open-source flight simulator [flightgear.org](https://www.flightgear.org). <code><a href="https://tldrlegal.com/search?q=gnu-gpl2">gnu-gpl2</a></code></summary>
 
-- [GitLab](https://gitlab.com/flightgear/flightgear) (🔀 56 · 📋 610 - 39% open · ⏱️ 04.03.2015):
+- [GitLab](https://gitlab.com/flightgear/flightgear) (🔀 55 · 📋 600 - 39% open · ⏱️ 04.03.2015):
 
 	```
 	git clone https://gitlab.com/flightgear/flightgear
@@ -448,19 +448,19 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	```
 	git clone https://github.com/Farama-Foundation/Gymnasium
 	```
-- [PyPi](https://pypi.org/project/gymnasium) (📥 8.4M / month):
+- [PyPi](https://pypi.org/project/gymnasium) (📥 9.1M / month):
 	```
 	pip install gymnasium
 	```
 </details>
 <details><summary><b><a href="https://robotics.farama.org/">Gymnasium Robotics</a></b> (🥇9) -  <code>Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 41 · 📦 350):
+- [GitHub]() (👨‍💻 40 · 📦 350):
 
 	```
 	git clone https://github.com/Farama-Foundation/Gymnasium-Robotics
 	```
-- [PyPi](https://pypi.org/project/gymnasium-robotics) (📥 40K / month):
+- [PyPi](https://pypi.org/project/gymnasium-robotics) (📥 31K / month):
 	```
 	pip install gymnasium-robotics
 	```
@@ -472,7 +472,7 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	```
 	git clone https://github.com/mujocolab/mjlab
 	```
-- [PyPi](https://pypi.org/project/mjlab) (📥 89K / month):
+- [PyPi](https://pypi.org/project/mjlab) (📥 63K / month):
 	```
 	pip install mjlab
 	```
@@ -484,7 +484,7 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	```
 	git clone https://github.com/Farama-Foundation/Metaworld
 	```
-- [PyPi](https://pypi.org/project/metaworld) (📥 35K / month):
+- [PyPi](https://pypi.org/project/metaworld) (📥 33K / month):
 	```
 	pip install metaworld
 	```
@@ -496,11 +496,11 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	```
 	git clone https://github.com/ami-iit/jaxsim
 	```
-- [PyPi](https://pypi.org/project/jaxsim) (📥 1.2K / month):
+- [PyPi](https://pypi.org/project/jaxsim) (📥 2.3K / month):
 	```
 	pip install jaxsim
 	```
-- [Conda](https://anaconda.org/conda-forge/jaxsim) (📥 20K · ⏱️ 29.04.2026):
+- [Conda](https://anaconda.org/conda-forge/jaxsim) (📥 19K · ⏱️ 29.04.2026):
 	```
 	conda install -c conda-forge jaxsim
 	```
@@ -515,7 +515,7 @@ _Simulations made for training for AI-agents like reinforcement learning_
 </details>
 <details><summary><b><a href="https://isaac-sim.github.io/IsaacLab">NVIDIA Isaac Sim Isaac Lab</a></b> (🥈4) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub]() (👨‍💻 240):
+- [GitHub]() (👨‍💻 200):
 
 	```
 	git clone https://github.com/isaac-sim/IsaacLab
@@ -584,7 +584,7 @@ _Simulations made for training for AI-agents like reinforcement learning_
 	```
 	git clone https://github.com/kscalelabs/ksim
 	```
-- [PyPi](https://pypi.org/project/ksim) (📥 180 / month):
+- [PyPi](https://pypi.org/project/ksim) (📥 290 / month):
 	```
 	pip install ksim
 	```
@@ -719,7 +719,7 @@ _Robotic simulators build for other domains like automotive or space robotics_
 
 _3D engines made for games but can be interfaced with robotic frameworks_
 
-<details><summary><b><a href="https://bevy.org/">Bevy</a></b> (🥇10) -  <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://bevy.org/">Bevy</a></b> (🥇10 · 📉) -  <code>Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 1.6K · 📦 26K):
 
@@ -727,7 +727,7 @@ _3D engines made for games but can be interfaced with robotic frameworks_
 	git clone https://github.com/bevyengine/bevy
 	```
 </details>
-<details><summary><b><a href="https://godotengine.org/">Godot</a></b> (🥈5) -  <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://godotengine.org/">Godot</a></b> (🥈5 · 📉) -  <code>Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 3.9K · 📦 24):
 
@@ -735,7 +735,7 @@ _3D engines made for games but can be interfaced with robotic frameworks_
 	git clone https://github.com/godotengine/godot
 	```
 </details>
-<details><summary><b><a href="https://o3de.org/">O3DE</a></b> (🥈3) -  <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">MIT and Apache-2</a></code></summary>
+<details><summary><b><a href="https://o3de.org/">O3DE</a></b> (🥈3 · 📉) -  <code><a href="https://tldrlegal.com/search?q=MIT%20and%20Apache-2">MIT and Apache-2</a></code></summary>
 
 - [GitHub]() (👨‍💻 340):
 
@@ -782,13 +782,13 @@ _Physics Engines that simulate multi-joint dynamics, gravity etc_
 </details>
 <details><summary><b><a href="https://crates.io/crates/avian3d">Avian 3D</a></b> (🥈5) -  <code>Unlicensed</code></summary>
 
-- [GitHub]() (👨‍💻 88 · 📦 380):
+- [GitHub]() (👨‍💻 87 · 📦 380):
 
 	```
 	git clone https://github.com/Jondolf/avian
 	```
 </details>
-<details><summary><b><a href="https://drake.mit.edu/">Drake</a></b> (🥈4) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://drake.mit.edu/">Drake</a></b> (🥈4 · 📉) -  <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub]() (👨‍💻 280):
 
@@ -895,7 +895,7 @@ _Rendering engines for robotic simulators_
 	```
 	git clone https://github.com/mmatl/pyrender
 	```
-- [PyPi](https://pypi.org/project/pyrender) (📥 740K / month):
+- [PyPi](https://pypi.org/project/pyrender) (📥 690K / month):
 	```
 	pip install pyrender
 	```
@@ -954,14 +954,14 @@ _Rendering engines for robotic simulators_
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://highway-env.farama.org/">HighwayEnv</a></b> (🥇8 · 📉) -  <code>Unlicensed</code></summary>
+<details><summary><b><a href="https://highway-env.farama.org/">HighwayEnv</a></b> (🥇9) -  <code>Unlicensed</code></summary>
 
 - [GitHub]() (👨‍💻 57 · 📦 310):
 
 	```
 	git clone https://github.com/Farama-Foundation/HighwayEnv
 	```
-- [PyPi](https://pypi.org/project/highway-env) (📥 8K / month):
+- [PyPi](https://pypi.org/project/highway-env) (📥 8.6K / month):
 	```
 	pip install highway-env
 	```
