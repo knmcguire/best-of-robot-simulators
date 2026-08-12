@@ -10,6 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Validate all projects have homepage
+        run: |
+          python - <<'PY'
+          import yaml
+          from pathlib import Path
+
+          projects_file = Path("projects.yaml")
+          config = yaml.safe_load(projects_file.read_text())
+          missing = [project.get("name", "<unnamed>") for project in config.get("projects", []) if not project.get("homepage")]
+
+          if missing:
+              print("Projects missing homepage:")
+              for name in missing:
+                  print(f"- {name}")
+              raise SystemExit(1)
+
+          print("All projects include homepage.")
+          PY
       - name: update-best-of-list
         uses: best-of-lists/best-of-update-action@v0.8.5
         with:

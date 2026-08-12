@@ -117,17 +117,20 @@ projects:
      license: BSD-3-Clause
    - name: mvsim
      github_id: MRPT/mvsim
+     homepage: https://github.com/MRPT/mvsim
      labels: []
      category: flatsim
      doc_url: "https://mvsimulator.readthedocs.io/"
    - name: airsim
      github_id: microsoft/AirSim
+     homepage: https://github.com/microsoft/AirSim
      category: aerial
      show: False # No longer maintained since 2022
      doc_url: "https://microsoft.github.io/AirSim/"
      license: mit
    - name: RotorS
      github_id: ethz-asl/rotors_simulator
+     homepage: https://github.com/ethz-asl/rotors_simulator
      labels: []
      category: aerial
      license: mit
@@ -160,6 +163,7 @@ projects:
      homepage: https://utiasdsl.github.io/gym-pybullet-drones/
    - name: RotorTM
      github_id: arplaboratory/RotorTM
+     homepage: https://github.com/arplaboratory/RotorTM
      labels: []
      category: aerial
    - name: Matlab UAV Toolbox
@@ -192,14 +196,17 @@ projects:
      license: proprietary software license
    - name: rotorpy
      github_id: spencerfolk/rotorpy
+     homepage: https://github.com/spencerfolk/rotorpy
      labels: []
      category: aerial
    - name: CrazyS
      github_id: gsilano/CrazyS
+     homepage: https://github.com/gsilano/CrazyS
      labels: []
      category: aerial
    - name: JSBSim
      github_id: JSBSim-Team/jsbsim
+     homepage: https://github.com/JSBSim-Team/jsbsim
      labels: []
      category: physics
    - name: Carla
@@ -215,6 +222,7 @@ projects:
      license: Apache-2 and LGPL-3
    - name: Unity Robotics Hub
      github_id: Unity-Technologies/Unity-Robotics-Hub
+     homepage: https://github.com/Unity-Technologies/Unity-Robotics-Hub
      labels: []
      category: robotics
      license: Apache-2
@@ -299,6 +307,7 @@ projects:
      homepage: http://newtondynamics.com/
    - name: MuJoCo Wrap
      github_id: google-deepmind/mujoco_warp
+     homepage: https://github.com/google-deepmind/mujoco_warp
      labels: []
      category: physics
    - name: Havok Physics
@@ -369,6 +378,7 @@ projects:
      license: MIT and Unreal Engine EULA
    - name: Holodeck
      github_id: BYU-PCCL/holodeck
+     homepage: https://github.com/BYU-PCCL/holodeck
      category: ml
    - name: Stonefish
      github_id: patrykcieslak/stonefish
@@ -380,6 +390,7 @@ projects:
      homepage: https://field-robotics-lab.github.io/dave.doc/
    - name: SVL Simulator
      github_id: lgsvl/simulator
+     homepage: https://github.com/lgsvl/simulator
      category: auto
      show: False # Active developement suspended since 2022 January 1th
    - name: Flatland
@@ -410,9 +421,11 @@ projects:
      license: mit
    - name: Ros2 For Unity
      github_id: RobotecAI/ros2-for-unity
+     homepage: https://github.com/RobotecAI/ros2-for-unity
      category: robotics
    - name: AWSim
      github_id: tier4/AWSIM
+     homepage: https://github.com/tier4/AWSIM
      category: auto
      license: apache-2
    - name: AI2-thor
@@ -439,11 +452,13 @@ projects:
      license: apache-2
    - name: Self Driving Car
      github_id: udacity/self-driving-car-sim
+     homepage: https://github.com/udacity/self-driving-car-sim
      category: auto
      show: False # Archived since 2022
      license: mit
    - name: ROS1 Intergration for Unreal 4
      github_id: code-iai/ROSIntegration
+     homepage: https://github.com/code-iai/ROSIntegration
      category: robotics
    - name: Safe Control Gym
      github_id: utiasDSL/safe-control-gym
@@ -467,6 +482,7 @@ projects:
      category: ml
    - name: Genesis
      github_id: Genesis-Embodied-AI/Genesis
+     homepage: https://github.com/Genesis-Embodied-AI/Genesis
      category: ml
    - name: Arnold
      github_id: arnold-benchmark/arnold
@@ -483,6 +499,7 @@ projects:
      homepage: https://roboverseorg.github.io/
    - name: PyRep
      github_id: stepjam/PyRep
+     homepage: https://github.com/stepjam/PyRep
      category: ml
    - name: X-plane
      homepage: https://www.x-plane.com/
@@ -500,10 +517,12 @@ projects:
      license: BSD 3-Clause
    - name: LunarSim
      github_id: PUTvision/LunarSim
+     homepage: https://github.com/PUTvision/LunarSim
      category: space
      license: Missing
    - name: SimSpark
      gitlab_id: robocup-sim/SimSpark
+     homepage: https://gitlab.com/robocup-sim/SimSpark
      category: robotics
      license: Missing
      last_commit_pushed_at: 2025-01-21
@@ -513,10 +532,12 @@ projects:
      license: proprietary license
    - name: ESMINI
      github_id: esmini/esmini
+     homepage: https://github.com/esmini/esmini
      category: auto
      license: MPL-2
    - name: jMAVSim
      github_id: PX4/jMAVSim
+     homepage: https://github.com/PX4/jMAVSim
      category: aerial
    - name: Stewart Platform Simulator
      github_id: rawify/Stewart.js
@@ -560,6 +581,7 @@ projects:
      license: Proprietary Software License
    - name: BRAX
      github_id: google/brax
+     homepage: https://github.com/google/brax
      category: physics
      license: Apache-2
    - name: Project CHRONO
@@ -569,6 +591,7 @@ projects:
      license: BSD 3-Clause
    - name: Ocean Sim
      github_id: umfieldrobotics/OceanSim
+     homepage: https://github.com/umfieldrobotics/OceanSim
      category: maritime
      license: BSD 3-Clause
    - name: RoSi
@@ -592,10 +615,12 @@ projects:
      license: Proprietary Software License
    - name: LRAUV
      github_id: osrf/lrauv
+     homepage: https://github.com/osrf/lrauv
      category: maritime
      show: False # Archieved since March 2025
    - name: URSim
      github_id: srmauvsoftware/URsim
+     homepage: https://github.com/srmauvsoftware/URsim
      category: maritime
      show: False # Unmaintained over 5 years
    - name: ds sim
@@ -604,22 +629,27 @@ projects:
      show: False # Unmaintained for 5+ years
    - name: UWSim-NET
      github_id: uji-ros-pkg/underwater_simulation
+     homepage: https://github.com/uji-ros-pkg/underwater_simulation
      category: maritime
      show: False # Unmaintained for 5+ years
    - name: Freefloating
      github_id: freefloating-gazebo/freefloating_gazebo
+     homepage: https://github.com/freefloating-gazebo/freefloating_gazebo
      category: maritime
      show: False # Unmaintained for 5+ years
    - name: MARS
      github_id: iti-luebeck/mars
+     homepage: https://github.com/iti-luebeck/mars
      category: maritime
      show: False # Unmaintained for 5+ years
    - name: UW-Morse
      github_id: eirikhex/UW-MORSE
+     homepage: https://github.com/eirikhex/UW-MORSE
      category: maritime
      show: False # Unmaintained for 5+ years
    - name: Moos-ivp
      github_id: moos-ivp/moos-ivp
+     homepage: https://github.com/moos-ivp/moos-ivp
      category: maritime
      license: GPLv3 LGPLv3 and Commercial 
    - name: USARSim
@@ -628,9 +658,11 @@ projects:
      show: False # Unmaintained for 5+ years
    - name: MARUSimulator
      github_id: MARUSimulator/marus-core
+     homepage: https://github.com/MARUSimulator/marus-core
      category: maritime
    - name: UNav-Sim
      github_id: open-airlab/UNav-Sim
+     homepage: https://github.com/open-airlab/UNav-Sim
      category: maritime
      license: MIT
    - name: RaiSim
@@ -639,16 +671,20 @@ projects:
      license: proprietary
    - name: SMaRC 2
      github_id: smarc-project/smarc2
+     homepage: https://github.com/smarc-project/smarc2
      category: maritime
      license: BSD-3-Clause and MIT
    - name: Basilisk
      github_id: AVSLab/basilisk
+     homepage: https://github.com/AVSLab/basilisk
      category: space
    - name: Astrobee
      github_id: NASA/astrobee
+     homepage: https://github.com/NASA/astrobee
      category: space
    - name: swarm_sync_sim 
      github_id: shupx/swarm_sync_sim
+     homepage: https://github.com/shupx/swarm_sync_sim
      category: aerial
    - name: AutoDRIVE Simulator
      github_id: Tinker-Twins/AutoDRIVE
@@ -678,13 +714,16 @@ projects:
      homepage: https://crates.io/crates/avian3d
    - name: Graspit!
      github_id: graspit-simulator/graspit
+     homepage: https://github.com/graspit-simulator/graspit
      category: domain
    - name: FleX
      github_id: NVIDIAGameWorks/FleX
+     homepage: https://github.com/NVIDIAGameWorks/FleX
      category: physics
      license: Nvidia Software License
    - name: PyFleX
      github_id: YunzhuLi/PyFleX
+     homepage: https://github.com/YunzhuLi/PyFleX
      category: physics
      license: Nvidia Software License
    - name: PyRender
@@ -703,12 +742,15 @@ projects:
      pypi_id: gymnasium
    - name: Strech MuJoCo
      github_id: hello-robot/stretch_mujoco
+     homepage: https://github.com/hello-robot/stretch_mujoco
      category: domain
    - name: Virtual RobotX
      github_id: osrf/vrx
+     homepage: https://github.com/osrf/vrx
      category: maritime
    - name: Isaac Drone Racer
      github_id: kousheekc/isaac_drone_racer
+     homepage: https://github.com/kousheekc/isaac_drone_racer
      category: aerial
    - name: Pinocchio
      github_id: stack-of-tasks/pinocchio
@@ -721,6 +763,7 @@ projects:
      homepage:  http://wfk.io/neuroflight/
    - name: DexterousHands
      github_id: PKU-MARL/DexterousHands
+     homepage: https://github.com/PKU-MARL/DexterousHands
      category: domain
    - name: IGibson
      github_id: StanfordVL/iGibson
@@ -728,40 +771,50 @@ projects:
      homepage: https://svl.stanford.edu/igibson/
    - name: gym-softrobot
      github_id: skim0119/gym-softrobot/
+     homepage: https://github.com/skim0119/gym-softrobot/
      category: domain
      pypi_id: gym-softrobot
    - name: robo-gym
      github_id: jr-robotics/robo-gym
+     homepage: https://github.com/jr-robotics/robo-gym
      category: ml
    - name: Mars Explorer
      github_id: dimikout3/MarsExplorer
+     homepage: https://github.com/dimikout3/MarsExplorer
      category: space
      license: no license
    - name: Panda-Gym
      github_id: qgallouedec/panda-gym
+     homepage: https://github.com/qgallouedec/panda-gym
      category: domain
      home_page: https://panda-gym.readthedocs.io/en/latest/
    - name: PyFlyt
      github_id: jjshoots/PyFlyt
+     homepage: https://github.com/jjshoots/PyFlyt
      category: aerial
      home_page: https://taijunjet.com/PyFlyt/index.html
      pypi_id: pyflyt
    - name: OmniIsaacGymEnvs
      github_id: isaac-sim/OmniIsaacGymEnvs
+     homepage: https://github.com/isaac-sim/OmniIsaacGymEnvs
      category: ml
    - name: OmniIsaacGymEnvs
      github_id: isaac-sim/OmniIsaacGymEnvs
+     homepage: https://github.com/isaac-sim/OmniIsaacGymEnvs
      category: ml
    - name: Itomori
      github_id: gustavo-moura/itomori
+     homepage: https://github.com/gustavo-moura/itomori
      category: aerial
    - name: Jiminy
      github_id: duburcqa/jiminy
+     homepage: https://github.com/duburcqa/jiminy
      category: ml
      pypi_id: jiminy-py
      license: MIT
    - name: Fly Craft
      github_id: GongXudong/fly-craft
+     homepage: https://github.com/GongXudong/fly-craft
      category: aerial
      pypi_id: flycraft
    - name: BSK-RL
@@ -770,6 +823,7 @@ projects:
      category: space
    - name: racecar_gym
      github_id: axelbr/racecar_gym/
+     homepage: https://github.com/axelbr/racecar_gym/
      category: ml
    - name: HighwayEnv
      github_id: Farama-Foundation/HighwayEnv
@@ -796,6 +850,7 @@ projects:
      license: proprietary
    - name:  Ardupilot_Multiagent_Simulation
      github_id: aau-cns/Ardupilot_Multiagent_Simulation
+     homepage: https://github.com/aau-cns/Ardupilot_Multiagent_Simulation
      category: aerial
    - name:  Project AirSim
      github_id: iamaisim/ProjectAirSim
@@ -803,9 +858,11 @@ projects:
      category: aerial
    - name:  DWA_Algorithm_PYTHON
      github_id: EricChen0104/DWA_Algorithm_PYTHON
+     homepage: https://github.com/EricChen0104/DWA_Algorithm_PYTHON
      category: flatsim
    - name:  multi-agent_sim
      github_id: tjards/multi-agent_sim
+     homepage: https://github.com/tjards/multi-agent_sim
      category: domain
    - name:  UAIbot 
      github_id: UAIbot/UAIbotPy
@@ -827,17 +884,21 @@ projects:
      license: BSD-3-Clause
    - name: Crazyflow
      github_id: utiasDSL/crazyflow
+     homepage: https://github.com/utiasDSL/crazyflow
      category: aerial
    - name: FlightForge 
      github_id: ctu-mrs/mrs_uav_flightforge_simulator
+     homepage: https://github.com/ctu-mrs/mrs_uav_flightforge_simulator
      category: aerial
      license: GLP-2.0  
    - name:  AutonomousVehicleControlBeginnersGuide
      github_id: ShisatoYano/AutonomousVehicleControlBeginnersGuide
+     homepage: https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide
      category: flatsim
      license: MIT
    - name: Vehicle Dynamics Sim
      github_id: abaeyens/vehicle_dynamics_sim
+     homepage: https://github.com/abaeyens/vehicle_dynamics_sim
      category: flatsim
      description: Simulates a variety of easily configurable bicycle and Ackermann vehicles with dynamic effects such as acceleration limits. ROS 2 native and interfaces well with Nav2.
      license: MIT
@@ -847,6 +908,7 @@ projects:
      license: proprietary license
    - name:  pysimverse
      github_id: cvzone/pysimverse
+     homepage: https://github.com/cvzone/pysimverse
      category: aerial
      license: MIT
    - name:  DAVE for ROS 2
@@ -866,9 +928,11 @@ projects:
      license: Apache-2
    - name:  Rbot
      github_id: rlxai/rbot
+     homepage: https://github.com/rlxai/rbot
      category: robotics
      license: Apache-2
    - name:  multipanda_ros2 
      github_id: tenfoldpaper/multipanda_ros2
+     homepage: https://github.com/tenfoldpaper/multipanda_ros2
      category: domain
      license: Apache-2
