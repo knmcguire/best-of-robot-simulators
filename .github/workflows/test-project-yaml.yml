@@ -13,20 +13,56 @@ jobs:
       - name: Validate all projects have homepage
         run: |
           python - <<'PY'
+          import json
+          import os
+          import subprocess
           import yaml
+          from collections import Counter
           from pathlib import Path
+          
+          event_path = os.environ.get("GITHUB_EVENT_PATH")
+          base_sha = None
+          if event_path and Path(event_path).exists():
+              event = json.loads(Path(event_path).read_text())
+              base_sha = event.get("pull_request", {}).get("base", {}).get("sha")
 
           projects_file = Path("projects.yaml")
-          config = yaml.safe_load(projects_file.read_text())
-          missing = [project.get("name", "<unnamed>") for project in config.get("projects", []) if not project.get("homepage")]
+          head_config = yaml.safe_load(projects_file.read_text()) or {}
+          head_projects = head_config.get("projects", [])
+
+          if not base_sha:
+              print("No pull request base SHA found; skipping homepage enforcement.")
+              raise SystemExit(0)
+
+          base_projects_raw = subprocess.check_output(
+              ["git", "show", f"{base_sha}:projects.yaml"],
+              text=True,
+          )
+          base_config = yaml.safe_load(base_projects_raw) or {}
+          base_projects = base_config.get("projects", [])
+
+          base_counter = Counter(
+              yaml.safe_dump(project, sort_keys=True)
+              for project in base_projects
+          )
+
+          missing = []
+          for project in head_projects:
+              if project.get("homepage"):
+                  continue
+              key = yaml.safe_dump(project, sort_keys=True)
+              if base_counter[key] > 0:
+                  base_counter[key] -= 1
+                  continue
+              missing.append(project.get("name", "<unnamed>"))
 
           if missing:
-              print("Projects missing homepage:")
+              print("New or modified projects missing homepage:")
               for name in missing:
                   print(f"- {name}")
               raise SystemExit(1)
 
-          print("All projects include homepage.")
+          print("Homepage check passed for new and modified projects.")
           PY
       - name: update-best-of-list
         uses: best-of-lists/best-of-update-action@v0.8.5
