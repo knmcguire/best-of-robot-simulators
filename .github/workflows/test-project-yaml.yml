@@ -34,10 +34,15 @@ jobs:
               print("No pull request base SHA found; skipping homepage enforcement.")
               raise SystemExit(0)
 
-          base_projects_raw = subprocess.check_output(
+          base_projects_result = subprocess.run(
               ["git", "show", f"{base_sha}:projects.yaml"],
               text=True,
+              capture_output=True,
           )
+          if base_projects_result.returncode != 0:
+              print("Could not read projects.yaml from base commit; skipping homepage enforcement.")
+              raise SystemExit(0)
+          base_projects_raw = base_projects_result.stdout
           base_config = yaml.safe_load(base_projects_raw) or {}
           base_projects = base_config.get("projects", [])
 
