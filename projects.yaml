@@ -158,6 +158,11 @@ projects:
      labels: []
      category: aerial
      homepage: https://utiasdsl.github.io/gym-pybullet-drones/
+   - name: Aerial Autonomy Stack
+     github_id: JacopoPan/aerial-autonomy-stack
+     labels: []
+     category: aerial
+     homepage: https://github.com/JacopoPan/aerial-autonomy-stack
    - name: RotorTM
      github_id: arplaboratory/RotorTM
      labels: []
