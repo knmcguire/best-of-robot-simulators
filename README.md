@@ -19,6 +19,9 @@ This curated list contains 180 awesome simulator projects with a total of 480K s
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
+> [!WARNING]
+> Currently the updates to the list have been stopped. We are keeping an eye for an upstream fix through this issue: https://github.com/knmcguire/best-of-robot-simulators/issues/275
+
 ### Definition Robotics Simulator
 Here is a definition of a robotics simulator derived in [this blogpost](https://www.mcguirerobotics.com/blog/2025/04/17/navigating-through-the-robotic-simulation-landscape/)
 
