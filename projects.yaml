@@ -760,6 +760,7 @@ projects:
    - name: Itomori
      github_id: gustavo-moura/itomori
      category: aerial
+     homepage: https://github.com/gustavo-moura/itomori
    - name: Jiminy
      github_id: duburcqa/jiminy
      category: ml
@@ -776,6 +777,7 @@ projects:
    - name: racecar_gym
      github_id: axelbr/racecar_gym/
      category: ml
+     homepage: https://github.com/axelbr/racecar_gym/
    - name: HighwayEnv
      github_id: Farama-Foundation/HighwayEnv
      homepage: https://highway-env.farama.org/
