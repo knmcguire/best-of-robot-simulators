@@ -14,7 +14,7 @@ jobs:
         uses: best-of-lists/best-of-update-action@v0.8.5
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.GITHUB_TOKEN }}
+          github_key: ${{ secrets.GH_API_TOKEN }}
       - name: Show generated readme as summary
         run:  |
           echo "✨ **PR Preview:** This is the generated readme for pull request review purposes. ✨" >> $GITHUB_STEP_SUMMARY
