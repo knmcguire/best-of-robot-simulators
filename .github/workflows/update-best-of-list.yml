@@ -1,6 +1,5 @@
 # Based on https://github.com/best-of-lists/best-of-update-action/blob/v0.8.5/workflows/update-best-of-list.yml
 name: update-best-of-list
-
 on:
   workflow_dispatch:
     inputs:
@@ -9,11 +8,9 @@ on:
         required: false
   schedule:
     - cron: "0 10 * * 3" # Every Wednesday at noon central european time
-
 env:
   BRANCH_PREFIX: "update/"
   DEFAULT_BRANCH: "main"
-
 jobs:
   update-best-of-list:
     runs-on: ubuntu-latest
@@ -40,14 +37,12 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
-          token: ${{ secrets.GH_API_TOKEN }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: update-best-of-list
         uses: best-of-lists/best-of-update-action@ee4e7b88df0e3538d496eab82fe5b4e613c999ef # v0.8.5
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.GITHUB_TOKEN }}
+          github_key: ${{ secrets.GH_API_TOKEN }}
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
         with:
