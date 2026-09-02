@@ -40,7 +40,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ env.BRANCH_PREFIX }}${{ env.VERSION }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_API_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: update-best-of-list
