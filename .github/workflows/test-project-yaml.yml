@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: update-best-of-list
-        uses: best-of-lists/best-of-update-action@v0.8.5
+        uses: best-of-lists/best-of-update-action@ee4e7b88df0e3538d496eab82fe5b4e613c999ef # v0.8.5
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.GITHUB_TOKEN }}
+          github_key: ${{ secrets.GH_API_TOKEN }}
       - name: Show generated readme as summary
         run:  |
           echo "✨ **PR Preview:** This is the generated readme for pull request review purposes. ✨" >> $GITHUB_STEP_SUMMARY
