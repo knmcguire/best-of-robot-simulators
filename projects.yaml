@@ -576,6 +576,7 @@ projects:
      github_id: umfieldrobotics/OceanSim
      category: maritime
      license: BSD 3-Clause
+     homepage: https://umfieldrobotics.github.io/OceanSim/
    - name: RoSi
      category: robotics
      homepage: https://www.robotec.ai/products
@@ -623,10 +624,12 @@ projects:
      github_id: eirikhex/UW-MORSE
      category: maritime
      show: False # Unmaintained for 5+ years
+     homepage: https://github.com/eirikhex/UW-MORSE
    - name: Moos-ivp
      github_id: moos-ivp/moos-ivp
      category: maritime
-     license: GPLv3 LGPLv3 and Commercial 
+     license: GPLv3 LGPLv3 and Commercial
+     homepage: https://github.com/moos-ivp/moos-ivp
    - name: USARSim
      homepage: https://sourceforge.net/projects/usarsim/
      category: maritime
@@ -655,6 +658,7 @@ projects:
    - name: swarm_sync_sim 
      github_id: shupx/swarm_sync_sim
      category: aerial
+     homepage: https://github.com/shupx/swarm_sync_sim
    - name: AutoDRIVE Simulator
      github_id: Tinker-Twins/AutoDRIVE
      category: domain
@@ -715,6 +719,7 @@ projects:
    - name: Isaac Drone Racer
      github_id: kousheekc/isaac_drone_racer
      category: aerial
+     homepage: https://github.com/kousheekc/isaac_drone_racer
    - name: Pinocchio
      github_id: stack-of-tasks/pinocchio
      category: physics
@@ -760,6 +765,7 @@ projects:
    - name: Itomori
      github_id: gustavo-moura/itomori
      category: aerial
+     homepage: https://github.com/gustavo-moura/itomori
    - name: Jiminy
      github_id: duburcqa/jiminy
      category: ml
@@ -776,6 +782,7 @@ projects:
    - name: racecar_gym
      github_id: axelbr/racecar_gym/
      category: ml
+     homepage: https://github.com/axelbr/racecar_gym/
    - name: HighwayEnv
      github_id: Farama-Foundation/HighwayEnv
      homepage: https://highway-env.farama.org/
@@ -809,9 +816,11 @@ projects:
    - name:  DWA_Algorithm_PYTHON
      github_id: EricChen0104/DWA_Algorithm_PYTHON
      category: flatsim
+     homepage: https://github.com/EricChen0104/DWA_Algorithm_PYTHON
    - name:  multi-agent_sim
      github_id: tjards/multi-agent_sim
      category: domain
+     homepage: https://github.com/tjards/multi-agent_sim
    - name:  UAIbot 
      github_id: UAIbot/UAIbotPy
      homepage: https://uaibot.github.io/
@@ -833,6 +842,7 @@ projects:
    - name: Crazyflow
      github_id: utiasDSL/crazyflow
      category: aerial
+     homepage: https://learnsyslab.github.io/crazyflow/
    - name: FlightForge 
      github_id: ctu-mrs/mrs_uav_flightforge_simulator
      category: aerial
@@ -873,6 +883,7 @@ projects:
      github_id: rlxai/rbot
      category: robotics
      license: Apache-2
+     homepage: https://github.com/rlxai/rbot
    - name:  multipanda_ros2 
      github_id: tenfoldpaper/multipanda_ros2
      category: domain
