@@ -198,6 +198,11 @@ projects:
      github_id: gsilano/CrazyS
      labels: []
      category: aerial
+   - name: FastSwarmSim
+     github_id: shupx/FastSwarmSim
+     category: aerial
+     homepage: https://shupx.github.io/FastSwarmSim/
+     description: Lightweight, faster-than-real-time multi-UAV PX4 swarm simulator with ROS 2 lock-step simulation.
    - name: JSBSim
      github_id: JSBSim-Team/jsbsim
      labels: []
