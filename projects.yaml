@@ -845,7 +845,7 @@ projects:
      category: ml
      license: BSD-3-Clause
    - name: Crazyflow
-     github_id: utiasDSL/crazyflow
+     github_id: learnsyslab/crazyflow
      category: aerial
      homepage: https://learnsyslab.github.io/crazyflow/
    - name: FlightForge 
