@@ -154,10 +154,10 @@ projects:
      homepage: https://flightgoggles.mit.edu/
      license: MIT
    - name: Gym Pybullet Drones
-     github_id: utiasDSL/gym-pybullet-drones
+     github_id: learnsyslab/gym-pybullet-drones
      labels: []
      category: aerial
-     homepage: https://utiasdsl.github.io/gym-pybullet-drones/
+     homepage: https://learnsyslab.github.io/gym-pybullet-drones/
    - name: Aerial Autonomy Stack
      github_id: JacopoPan/aerial-autonomy-stack
      labels: []
@@ -845,7 +845,7 @@ projects:
      category: ml
      license: BSD-3-Clause
    - name: Crazyflow
-     github_id: utiasDSL/crazyflow
+     github_id: learnsyslab/crazyflow
      category: aerial
      homepage: https://learnsyslab.github.io/crazyflow/
    - name: FlightForge 
