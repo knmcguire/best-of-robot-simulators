@@ -259,11 +259,11 @@ projects:
      category: ml
      license: MIT
      homepage: https://pybullet.org/
-   - name: RobotBuilder
+   - name: RobotStudio
      labels: []
      category: robotics
-     license: Commercial software
-     homepage: https://new.abb.com/products/robotics/software-and-digital/robotstudio
+     license: Proprietary Software License
+     homepage: https://www.abb.com/global/en/areas/robotics/products/software/robotstudio-suite
    - name: ODE
      github_id: thomasmarsh/ODE
      labels: []
