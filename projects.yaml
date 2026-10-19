@@ -208,6 +208,13 @@ projects:
      category: aerial
      homepage: https://shupx.github.io/FastSwarmSim/
      description: Lightweight, faster-than-real-time multi-UAV PX4 swarm simulator with ROS 2 lock-step simulation.
+   - name: PteroSim
+     github_id: PteroLabsAI/PteroSim-UAV-Simulator
+     category: aerial
+     homepage: https://pterolabs.ai/
+     doc_url: https://pterosimdocs.readthedocs.io/en/latest/
+     license: proprietary
+     description: UAV simulator on Unreal Engine 5 with JSBSim flight dynamics, PX4 and ArduPilot SITL, and a gRPC API with a Python SDK for multi-vehicle runs.
    - name: JSBSim
      github_id: JSBSim-Team/jsbsim
      labels: []
