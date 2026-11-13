@@ -485,6 +485,14 @@ projects:
    - name: Genesis
      github_id: Genesis-Embodied-AI/Genesis
      category: ml
+   - name: Alloy
+     github_id: argonrobotics-ai/alloy
+     pypi_id: alloy-engine
+     category: ml
+     homepage: https://alloy.argonrobotics.ai/
+     doc_url: https://alloy.argonrobotics.ai/docs/
+     license: Apache-2
+     description: GPU-parallel physics engine for robot learning that puts robots, cloth, cables, liquids, sand and soft bodies in one scene, built on Newton and MuJoCo Warp, with Gymnasium-style vector environments.
    - name: Arnold
      github_id: arnold-benchmark/arnold
      category: ml
