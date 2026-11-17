@@ -900,3 +900,7 @@ projects:
      github_id: tenfoldpaper/multipanda_ros2
      category: domain
      license: Apache-2
+   - name: RoboSimStudio
+     github_id: robosimstudio/robosimstudio
+     homepage: https://robosimstudio.github.io/
+     category: robotics
