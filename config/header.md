@@ -21,7 +21,7 @@ This curated list contains {project_count} awesome simulator projects with a tot
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 > [!WARNING]
-> Currently the updates to the list have been stopped. We are keeping an eye for an upstream fix through this issue: https://github.com/knmcguire/best-of-robot-simulators/issues/275
+> Currently the git meta updates to the list have been stopped and we are using [library.io](https://libraries.io/) to retrieve the metadata of the projects, which catches most but unfortunately does not grab all the data. We are keeping an eye for an upstream fix through this issue: https://github.com/knmcguire/best-of-robot-simulators/issues/275
 
 ### Definition Robotics Simulator
 Here is a definition of a robotics simulator derived in [this blogpost](https://www.mcguirerobotics.com/blog/2025/04/17/navigating-through-the-robotic-simulation-landscape/)
