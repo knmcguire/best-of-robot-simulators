@@ -597,6 +597,12 @@ projects:
      category: maritime
      license: BSD 3-Clause
      homepage: https://umfieldrobotics.github.io/OceanSim/
+   - name: IsaacSwim
+     github_id: danyichen/IsaacSwim
+     pypi_id: isaacswim
+     category: maritime
+     license: Apache-2.0
+     homepage: https://danyichen.github.io/IsaacSwim/
    - name: RoSi
      category: robotics
      homepage: https://www.robotec.ai/products
