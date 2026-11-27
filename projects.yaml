@@ -917,3 +917,8 @@ projects:
      github_id: robosimstudio/robosimstudio
      homepage: https://robosimstudio.github.io/
      category: robotics
+   - name: so-arm100-sim
+     github_id: AungKaung1928/so-arm100-sim
+     category: domain
+     license: MIT
+     description: MuJoCo tabletop tasks (reach, push, lift, pick and place), a scripted expert, domain randomisation and one evaluation protocol for the SO-ARM100 arm used with LeRobot. CPU only.
